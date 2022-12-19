@@ -51,6 +51,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/shubham-bhati-787319213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhati-787319213" height="30" width="40" /></a>
 </p>
