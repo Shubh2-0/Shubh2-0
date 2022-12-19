@@ -30,7 +30,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
--  🌱 I love to learn to code in differnt languages
+-  🌱 I love to learn to code in differnt languages.
 
 -  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
@@ -38,9 +38,9 @@
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
-- 🔄 Routine : Eat - Sleep - Code - Repeat
+- 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
-- 📫 How to reach me **bshubhambhati226@gmail.com**
+- 📫 How to reach me **shubhambhati226@gmail.com**
 
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
