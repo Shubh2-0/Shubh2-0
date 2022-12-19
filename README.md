@@ -1,8 +1,7 @@
-### Hi there 👋
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Shubham Bhati;%3C3"></a>
-</p>
-<h1 align="center">Hi 👋, I'm Shubham Bhati</h1>
+
+
+
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh2-0&label=Profile%20views&color=0e75b6&style=plastic" alt="shubh2-0" /> </p>
