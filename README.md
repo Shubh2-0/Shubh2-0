@@ -68,7 +68,7 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark" alt="shubh2-0" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
+
 
 ## Contact me
 
