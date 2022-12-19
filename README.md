@@ -31,8 +31,6 @@
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
-- 😄 Pronouns: He/Him/We
-
 - 🔄 Routine : Eat - Sleep - Code - Repeat
 
 - 📫 How to reach me **bshubhambhati226@gmail.com**
