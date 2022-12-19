@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Shubh2-0/Shubh2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Shubham Bhati</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -27,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh2-0&show_icons=true&theme=onedark&locale=en" alt="shubh2-0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark" alt="shubh2-0" /></p>
-
