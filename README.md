@@ -89,4 +89,4 @@
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif) -->
 <!-- ![snake animation](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake2.svg) -->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
