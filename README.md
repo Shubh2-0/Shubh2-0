@@ -78,15 +78,8 @@
 
 
 
-<!-- 
-## Contact me
 
-<a href="mailto:shubhambhati226@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/Shubhambhati226@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a> -->
+ ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-<!-- ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif) -->
-<!-- ![snake animation](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake2.svg) -->
 ![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
