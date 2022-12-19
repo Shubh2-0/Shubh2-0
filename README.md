@@ -6,9 +6,7 @@
   <a target="_blank">
   </a>
 </h1>
-<p align="center">
-  <a href="https://github.com/Shubh2-0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+
 
 
 
@@ -41,7 +39,6 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
