@@ -28,9 +28,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
--  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
-
 -  🌱 I love to learn to code in differnt languages
+
+-  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
