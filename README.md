@@ -6,7 +6,7 @@
 
 
 
-![profile view](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
