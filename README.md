@@ -24,8 +24,7 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-
-<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
