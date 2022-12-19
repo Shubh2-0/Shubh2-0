@@ -9,15 +9,16 @@
 <p align="center">
   <a href="https://github.com/Shubh2-0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<h3 align="center">A passionate backend developer from India</h3>
 
+
+<img align="centre" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
 - 💬 Ask me about HTML,CSS,JS,JAVA.
 - 🔄 Routine : Eat - Sleep - Code - Repeat
