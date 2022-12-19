@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Shubh2-0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <h3 align="center">A passionate backend developer from India</h3>
 
