@@ -15,7 +15,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
+
 
 
 
@@ -43,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh2-0&show_icons=true&theme=onedark&locale=en" alt="shubh2-0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark" alt="shubh2-0" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
