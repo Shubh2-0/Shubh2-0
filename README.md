@@ -7,6 +7,9 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
+
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="center">
   <a href="https://github.com/Shubh2-0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -19,9 +22,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
 - 🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
-- 💬 Ask me about **java**
+- 💬 Ask me about HTML,CSS,JS,JAVA.
+- 🔄 Routine : Eat - Sleep - Code - Repeat
 - 📫 How to reach me **bshubhambhati226@gmail.com**
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+- ⚡ Coding fact: "There are over 700 different programming languages".
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
