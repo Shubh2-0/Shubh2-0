@@ -66,14 +66,13 @@
     /> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark" alt="shubh2-0" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
 ## Contact me
 
 <a href="mailto:shubhambhati226@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/Shubhambhati226@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark" alt="shubh2-0" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
