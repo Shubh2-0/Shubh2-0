@@ -26,8 +26,8 @@
 
 ## Contact me
 
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shubhambhati226@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/Shubhambhati226@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 -------
