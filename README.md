@@ -12,8 +12,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
 - 🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
-
+- 💬 Ask me about **java**
 - 📫 How to reach me **bshubhambhati226@gmail.com**
+- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
