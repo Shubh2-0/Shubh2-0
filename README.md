@@ -4,7 +4,6 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
@@ -27,6 +26,7 @@
 - 📫 How to reach me **bshubhambhati226@gmail.com**
 - ⚡ Coding fact: "There are over 700 different programming languages".
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
+-     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
