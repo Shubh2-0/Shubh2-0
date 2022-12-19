@@ -6,9 +6,6 @@
   <a target="_blank">
   </a>
 </h1>
-
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="center">
   <a href="https://github.com/Shubh2-0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;frontend developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -26,7 +23,9 @@
 - 📫 How to reach me **bshubhambhati226@gmail.com**
 - ⚡ Coding fact: "There are over 700 different programming languages".
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
--     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+
+
+<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
