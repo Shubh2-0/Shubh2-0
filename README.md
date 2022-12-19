@@ -75,12 +75,12 @@
 
 
 
-
+<!-- 
 ## Contact me
 
 <a href="mailto:shubhambhati226@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/Shubhambhati226@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
 <!-- ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
