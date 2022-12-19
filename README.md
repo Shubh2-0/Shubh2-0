@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+
+![profile view](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
