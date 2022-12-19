@@ -80,6 +80,6 @@
 
 
  ### Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-<div align="cenetr">
+
 ![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
-</div>
+
