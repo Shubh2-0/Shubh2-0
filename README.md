@@ -9,11 +9,11 @@
 </h1>
 
 
-<div align="center">
+<!-- <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
  
-</div>
+</div> -->
 
 
 
@@ -82,4 +82,8 @@
 <a href="mailto:shubhambhati226@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/Shubhambhati226@gmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.gif)
 
