@@ -17,7 +17,7 @@
 
 
 
-<h1 align="center">Hi Geeks, I'm Sarath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">I'm Shubham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -29,15 +29,17 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
+-  🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
 
 - 👯 I’m looking forward to collaborate on open source projects.
-
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 - 😄 Pronouns: He/Him/We
+
+- 🔄 Routine : Eat - Sleep - Code - Repeat
+
+- 📫 How to reach me **bshubhambhati226@gmail.com**
 
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
@@ -47,12 +49,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
-- 💬 Ask me about HTML,CSS,JS,JAVA.
-- 🔄 Routine : Eat - Sleep - Code - Repeat
-- 📫 How to reach me **bshubhambhati226@gmail.com**
-- ⚡ Coding fact: "There are over 700 different programming languages".
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 
 
