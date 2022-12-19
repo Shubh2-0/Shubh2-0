@@ -17,6 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh2-0" alt="shubh2-0" /></a> </p>
 
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Java Development and practicing Data Structures and Algorithms everyday.**
 - 💬 Ask me about HTML,CSS,JS,JAVA.
 - 🔄 Routine : Eat - Sleep - Code - Repeat
@@ -24,7 +25,7 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
