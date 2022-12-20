@@ -78,7 +78,7 @@
 </p>
 <!--  -->
 
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
