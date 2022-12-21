@@ -78,7 +78,7 @@
 </p>
 <!--  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=tokyonight)
+
 
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
