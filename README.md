@@ -1,5 +1,5 @@
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=tokyonight)
 
 <h1 align="center">
   <a target="_blank">
