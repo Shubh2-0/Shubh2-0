@@ -94,9 +94,9 @@
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh2-0&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh2-0&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh2-0&theme=jolly" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh2-0&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="500"/>
 </p>
 
 
