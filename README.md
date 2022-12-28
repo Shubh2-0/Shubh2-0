@@ -69,7 +69,7 @@
 <br>
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
-
+<!-- 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" /> 
     <br>
@@ -83,18 +83,21 @@
   
   <br>  
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
-</p>
+</p> -->
 <!--  -->
 
-
+<!-- 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&layout=compact" alt="GitHub Stats for MishManners" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh2-0&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" width="400"/>
-\
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh2-0&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" width="400"/>
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubh2-0&theme=jolly" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubh2-0&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
-
-
 
 
 
