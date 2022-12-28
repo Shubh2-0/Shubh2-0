@@ -84,6 +84,8 @@
 
 <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubh2-0&theme=react-dark&hide_border=true" /></a>
 
 
 
