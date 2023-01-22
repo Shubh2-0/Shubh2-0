@@ -17,8 +17,6 @@
 </div> -->
 
 
-<!--  -->
-<!--  -->
 
 
 <h1 align="center">I'm Shubham Bhati</h1>
