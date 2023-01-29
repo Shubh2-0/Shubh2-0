@@ -75,7 +75,7 @@
 
 </p>
 <!-- ## 🏆 GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+[](https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 <!--  -->
 <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
