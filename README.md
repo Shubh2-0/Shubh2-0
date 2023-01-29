@@ -10,7 +10,6 @@
 </h1>
 
 
-<!--  -->
 
 <h1 align="center">I'm Shubham Bhati</h1>
 
