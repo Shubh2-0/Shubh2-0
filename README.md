@@ -87,14 +87,14 @@
 
 
 ![](https://github-trophies.vercel.app/?username=Shubh2-0)
-
+<img alt="most used languages" width="500px" src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=react-dark&hide_border=true"/> 
 
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-<!-- ![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg) -->
+![](https://github.com/Shubh2-0/snk/raw/output/github-contribution-grid-snake.svg)
 <!-- https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onedark -->
-<img alt="most used languages" width="500px" src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onedark"/> 
+
 
 <div align="center">
   
