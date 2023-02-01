@@ -25,7 +25,7 @@
 
 -  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👥 I’m looking forward to collaborate on open source projects.🌟
 
 - 💬 Ask me about anything, I am happy to help.  
 <!-- - , only if the ball is in my court!😉 -->
