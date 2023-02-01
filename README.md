@@ -55,7 +55,7 @@
 
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="css3" width="40" height="40"/> 
      
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src=" https://th.bing.com/th/id/OIP.xqThVbNdgcYEnrcVuyJZ1gHaEK?w=320&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="css3" width="40" height="40"/> 
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.xqThVbNdgcYEnrcVuyJZ1gHaEK?w=320&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="css3" width="40" height="40"/> 
     
 <!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
   https://pngimg.com/uploads/github/github_PNG40.png -->
