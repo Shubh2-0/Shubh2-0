@@ -37,7 +37,7 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
-
+<!--  -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
