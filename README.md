@@ -33,7 +33,7 @@
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
 - 📫 How to reach me **shubhambhati226@gmail.com**
-<!--  -->
+
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
