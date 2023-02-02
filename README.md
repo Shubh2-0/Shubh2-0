@@ -55,8 +55,6 @@
   
   
   
-  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> 
-
 </p>
 
 <br>
