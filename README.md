@@ -105,7 +105,44 @@
       </a>
       <br>Node JS
     </td> 
+  </tr> 
+  
+  <tr>
+      <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>GitHub
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.java.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer" >
+        <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Netlify
+    </td>
+   <td align="center" width="96">
+      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Font Awesome
+    </td> 
   </tr>                                                                                                        
+  
+  
+  
+  
    <tr>
       <td align="center" width="96">
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"  >
@@ -133,38 +170,6 @@
     </td>
   </tr>
   
-  <tr>
-      <td align="center" width="96">
-      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="https://www.java.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-   <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Node JS
-    </td> 
-  </tr>                                                                                                        
   
   
   
