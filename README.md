@@ -54,24 +54,6 @@
 
 
 
-<p align="left"> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png" width="40" height="40"/></a> 
- <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/3470471/eac8bee7-30d7-4c29-976e-a1ac76faee49" width="40" height="40"/></a> 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40" height="40"/></a> 
- <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="40" height="40"/></a> 
- 
-
-  
-  
-
-</p>
-
 
 <table align="center">
   <tr>
@@ -163,6 +145,12 @@
       <br>VS Code
     </td>
       <td align="center" width="96">
+      <a href="https://replit.com/" target="_blank" rel="noreferrer" >
+        <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
+      </a>
+      <br>Replit
+    </td>
+    <td align="center" width="96">
       <a href="https://replit.com/" target="_blank" rel="noreferrer" >
         <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
       </a>
