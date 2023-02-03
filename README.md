@@ -56,7 +56,10 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png" width="40" height="40"/></a> 
  <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/3470471/eac8bee7-30d7-4c29-976e-a1ac76faee49" width="40" height="40"/></a> 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40" height="40"/></a>  
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40" height="40"/></a> 
+    <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://kiddobyte.org/wp-content/uploads/2021/03/Replit-e1616813878898-980x279.jpg" width="40" height="40"/></a> 
+  
+  
 </p>
 
 <br>
