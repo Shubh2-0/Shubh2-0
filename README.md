@@ -76,7 +76,7 @@
 <table align="center">
   <tr>
       <td align="center" width="96">
-      <a href="https://www.w3.org/html/">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
@@ -88,10 +88,10 @@
       <br>CSS3
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://www.java.com">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Bootstrap
+      <br>Java
     </td>
      <td align="center" width="96">
       <a href="#js">
@@ -99,59 +99,37 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
+   <td align="center" width="96">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
-  </tr>
-
-  <tr>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
+    </td> 
+  </tr>                                                                                                        
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"  >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
       <td align="center" width="96">
-      <a href="#git" >
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
       <td align="center"  width="96">
-      <a href="#vscode">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
       <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      <a href="https://replit.com/" target="_blank" rel="noreferrer" >
+        <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
       </a>
-      <br>Postman
+      <br>Replit
     </td>
 
   </tr>
