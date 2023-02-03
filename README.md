@@ -131,8 +131,8 @@
    <tr>
    <td align="center" width="96">
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"  >
-        <img src="https://www.bing.com/th?id=A1347d5afb5defc136de5264018fe79f9&w=110&h=110" width="48" height="48" alt="ubuntu" />
-      </a>
+        <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
+      </a>                                                                                                                               
       <br>IntelliJ IDEA
     </td>
 <td align="center" width="96">
