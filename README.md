@@ -60,8 +60,7 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40" height="40"/></a> 
  <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="40" height="40"/></a> 
  
-   <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1
-  " width="40" height="40"/></a> 
+   <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="40" height="40"/></a> 
 
   
 
