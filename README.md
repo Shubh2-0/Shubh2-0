@@ -55,7 +55,7 @@
 
 
 
-<table align="center" padding="20">
+<table align="center">
   
   <tr>
       <td align="center" width="96" padding="400">
@@ -91,7 +91,7 @@
   </tr> 
   
   <tr>
-      <td align="center" width="96">
+      <td align="center" width="906">
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Html5" />
       </a>
