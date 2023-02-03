@@ -102,12 +102,12 @@
       </a>
       <br>GitHub
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
-    </td>
+    </td> -->
      <td align="center" width="96">
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer" >
         <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="javascript" />
@@ -150,12 +150,12 @@
       </a>
       <br>Replit
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://replit.com/" target="_blank" rel="noreferrer" >
         <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
       </a>
       <br>Replit
-    </td>
+    </td> -->
   </tr>
   
   
