@@ -58,42 +58,36 @@
 <table align="center" padding="20">
   
   <tr>
-    
       <td align="center" width="96">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
-                                                                                                                                                 
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
-    </td>
-                                                                                                                                                   
-     <td align="center" width="96">
+    </td> 
+<td align="center" width="96">
       <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
-                                                                                                                                           
-     <td align="center" width="96">
+<td align="center" width="96">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
-    
-   <td align="center" width="96">
+<td align="center" width="96">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Node JS
     </td> 
-    
   </tr> 
   
   <tr>
