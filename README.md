@@ -56,6 +56,7 @@
 
 
 <table align="center" padding="20">
+  
   <tr>
       <td align="center" width="96">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
