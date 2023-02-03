@@ -58,12 +58,6 @@
 <table align="center" padding="20">
   
   <tr>
-      <td align="center" width="96">
-      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
     <td align="center" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
