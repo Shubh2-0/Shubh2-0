@@ -126,12 +126,7 @@
       </a>
       <br>Replit
     </td>                                                                                                                                                     
-   <td align="center" width="96">
-      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Font Awesome
-    </td> 
+  
   </tr>                                                                                                        
   
   
@@ -150,6 +145,12 @@
       </a>
       <br>Git
     </td>
+ <td align="center" width="96">
+      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>Font Awesome
+    </td>                                                                                                                                                   
   
 <!--     <td align="center" width="96">
       <a href="https://replit.com/" target="_blank" rel="noreferrer" >
