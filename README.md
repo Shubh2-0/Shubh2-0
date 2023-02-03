@@ -57,7 +57,7 @@
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png" width="40" height="40"/></a> 
  <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/3470471/eac8bee7-30d7-4c29-976e-a1ac76faee49" width="40" height="40"/></a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="40" height="40"/></a> 
-    <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://kiddobyte.org/wp-content/uploads/2021/03/Replit-e1616813878898-980x279.jpg" width="40" height="40"/></a> 
+    <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://www.bing.com/ck/a?!&&p=ff75222ca7e596c3JmltdHM9MTY3NTI5NjAwMCZpZ3VpZD0zZjZlNTA0ZS1hMTNmLTY2NmYtMGU3Mi00MmUzYTA5OTY3ZGImaW5zaWQ9NTU0Mw&ptn=3&hsh=3&fclid=3f6e504e-a13f-666f-0e72-42e3a09967db&u=a1L2ltYWdlcy9zZWFyY2g_Rk9STT1JQVJSVEgmcT1yZXBsLml0JnN0aWQ9YWYwNTczNzItMWQ5ZS1jOGI5LWI4ZGQtYzVhY2IxNWQwNmMxJmNibj1FbnRpdHlBbnN3ZXI&ntb=1" width="40" height="40"/></a> 
   
   
 </p>
