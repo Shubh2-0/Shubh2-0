@@ -58,7 +58,7 @@
 <table align="center" padding="20">
   
   <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" padding="400">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
