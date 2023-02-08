@@ -1,11 +1,11 @@
 
 
-<h1 align="center">
+<h1 align="center" color="red">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank" color="red">
+  <a target="_blank">
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
