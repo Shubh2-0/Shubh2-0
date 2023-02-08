@@ -179,9 +179,7 @@
                                                                        
   <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
                                                                                
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-streak.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a> 
-                                                                               
-  <img alt="status github, commits, etc..." width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+
                                                                                
 
    <br>
