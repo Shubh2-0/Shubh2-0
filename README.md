@@ -36,10 +36,11 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 
+- <a href="https://shubh2-0.github.io/">Portfolio 📁</a>
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 <!--  -->
-<a href="https://shubh2-0.github.io/">Portfolio</a>
 
 
 ##  <h3 align="left">Connect with me:</h3> 
