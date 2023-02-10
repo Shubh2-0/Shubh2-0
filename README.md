@@ -37,7 +37,7 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- <a href="[https://shubh2-0.github.io/](https://shubh2-0.github.io/)">**Portfolio** 📁</a>
+- <a href="https://shubh2-0.github.io/">**Portfolio** 📁</a>
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 <!--  -->
