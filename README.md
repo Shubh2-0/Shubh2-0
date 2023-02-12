@@ -174,18 +174,9 @@
 
 <p align="center">
 <a href="https://github.com/Shubh2-0/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a> 
-   <br> 
-
-<a href="https://github.com/Shubh2-0/github-readme-streak-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a> 
-   <br>                                                                             
-        
-        <a href="https://github.com/Shubh2-0/github-readme-streak-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=ayu-mirage&hide_border=true" height="200px"/></a> 
-                                                                            
-        
-                                                                            
-![]()<br/>
+ 
    <br>
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
 
 </p>
 <!-- ## 🏆 GitHub Trophies -->
