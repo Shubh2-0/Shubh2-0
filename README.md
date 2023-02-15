@@ -203,7 +203,7 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&                                                                                -->
                                                                                
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubh2-0&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Shubham Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shubh2-0&theme=react-dark&hide_border=true" /></a>
 
 
 
@@ -222,5 +222,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
  
 </div>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[Anurag's GitHub stats]()
 
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/> 
