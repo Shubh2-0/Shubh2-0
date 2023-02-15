@@ -222,6 +222,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
  
 </div>
-[Anurag's GitHub stats]()
 
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true"/> 
