@@ -224,4 +224,4 @@
 </div>
 [Anurag's GitHub stats]()
 
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/> 
+<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true"/> 
