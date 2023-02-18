@@ -36,7 +36,7 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- 👨‍💻 All of my projects are available at :<a href="https://shubh2-0.github.io/">**Click Here**</a>
+- 👨‍💻 All of my projects are available at : <a href="https://shubh2-0.github.io/">**Click Here**</a>
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 <!--  -->
