@@ -39,7 +39,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--  -->
-[![](https://visitcount.itsvg.in/api?id=Shubh2-0&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 
 ##  <h3 align="left">Connect with me:</h3> 
 <p align="left">
