@@ -210,27 +210,6 @@
 <!-- <img alt="most used languages" width="500px" src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>  -->
 
 
-# Github Metrics
-
-
-<p align="center">
-	<img width="625em" src="https://github.com/Shubh2-0/Shubh2-0/blob/main/github-metrics.svg" />
-</p>                                                                            
-                         
-									    
-# Github Metrics
-
-
-<p align="center">
-	<img width="625em" src="https://github.com/rashidwassan/Shubh2-0/blob/main/github-metrics.svg" />
-</p>
-									    
-# Github Metrics
-
-
-<p align="center">
-	<img width="625em" src="https://github.com/Shubh2-0/rashidwassan/blob/main/github-metrics.svg" />
-</p>									    
 									    
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
