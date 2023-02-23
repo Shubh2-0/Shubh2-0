@@ -1,4 +1,4 @@
-<video class="back-video" autoplay loop muted src="video4.mp4"></video>
+<video width="2000px" class="back-video" autoplay loop muted src="video4.mp4"></video>
 
 <h1 align="center">
   <a target="_blank">
