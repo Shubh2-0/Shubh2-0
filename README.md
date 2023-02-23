@@ -37,11 +37,8 @@
 
 - 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻.
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--  -->
-
-<div>&nbsp;</div>
-<img height="65" alt="Connect with me" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 
 
 ##  <h3 align="left">Connect with me:</h3> 
