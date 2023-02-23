@@ -1,5 +1,3 @@
-
-<img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" />
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
