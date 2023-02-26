@@ -159,9 +159,9 @@
     </td>											
 <td align="center" width="96">
       <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.percona.com/blog/wp-content/uploads/2018/04/Mysql-dolphin-square.svg.png" width="48" height="48" alt="Vuejs" />
+        <img src="https://1.bp.blogspot.com/-0dyq949GG7k/W8Zve_53ADI/AAAAAAAABlk/a0SZ78EvdJYyBjpOSra_7ZgmNMJIvVDJQCLcBGAs/s320/jdbc-with-MySQL-DataBase-New%2BSystem%2BTechnology.png" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>My SQl							
+      <br>JDBC							
 </td>	
   </tr>
   
