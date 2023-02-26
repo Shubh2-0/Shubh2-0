@@ -150,12 +150,14 @@
         <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Font Awesome
-    </td>                                                                                                                   <!--     <td align="center" width="96">
-      <a href="https://replit.com/" target="_blank" rel="noreferrer" >
-        <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
+    </td>
+<td align="center" width="96">
+      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Replit
-    </td> -->
+      <br>Font Awesome
+    </td>																		
+
   </tr>
   
   
