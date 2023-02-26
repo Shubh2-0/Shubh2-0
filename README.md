@@ -153,9 +153,9 @@
     </td>
 <td align="center" width="96">
       <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://th.bing.com/th?id=ODLS.47124cf6-a787-42d4-ae5a-a7660ddd3609&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
+        <img src="https://th.bing.com/th?id=ODLS.cc5e2bd9-8fee-480e-a4b1-12fa6c66174e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Font Awesome
+      <br>My SQl
     </td>																		
 
   </tr>
