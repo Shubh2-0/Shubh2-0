@@ -156,8 +156,13 @@
         <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
       </a>
       <br>My SQl
-    </td>																		
-
+    </td>											
+<td align="center" width="96">
+      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.percona.com/blog/wp-content/uploads/2018/04/Mysql-dolphin-square.svg.png" width="48" height="48" alt="Vuejs" />
+      </a>
+      <br>My SQl							
+</td>	
   </tr>
   
   
