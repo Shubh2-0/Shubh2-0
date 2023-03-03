@@ -1,4 +1,3 @@
-<img src="video.gif" width="100%" style="max-width:100%;">
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -8,6 +7,8 @@
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
+<img src="video.gif" width="100%" style="max-width:100%;">
+
 <!--  -->
 <h1 align="center">I'm Shubham Bhati</h1>
 
