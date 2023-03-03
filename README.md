@@ -1,6 +1,6 @@
 
 <img src="video.gif" width="100%" style="max-width:100%;">
-
+<p style="background-image: url('video.gif');">
 <!--  -->
 
 <h1 align="center">
