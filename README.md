@@ -1,5 +1,5 @@
 
-<!-- <img src="video.gif" width="100%" style="max-width:100%;"> -->
+<img src="video.gif" width="100%" style="max-width:100%;">
 
 <h1 align="center">
   <a target="_blank">
