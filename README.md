@@ -1,9 +1,9 @@
 
-<div align="center">
-   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=Shubh2-0&style=flat-square" alt="NazmusSayad" />
-   </a>
-</div>
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github.com/NazmusSayad/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" />
+  </a>
+</p>
 <img src="video.gif" width="100%" style="max-width:100%;">
 
 <h1 align="center">
