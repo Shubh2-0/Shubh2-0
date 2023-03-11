@@ -1,9 +1,3 @@
-
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github.com/Shubh2-0/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" />
-  </a>
-</p>
 <img src="video.gif" width="100%" style="max-width:100%;">
 
 <h1 align="center">
