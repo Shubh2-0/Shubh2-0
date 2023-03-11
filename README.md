@@ -173,7 +173,11 @@
 <!-- ![](https://github-trophies.vercel.app/?username=Shubh2-0) -->
 <!-- <img alt="most used languages" width="500px" src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>  -->
 
-
+<div align="center" >
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=%2336BCF7&vCenter=true&width=180&height=70&lines=<KeepCoding>&lines=<KeepCoding555>")](https://git.io/typing-svg)
+ 
+</div>
 									    
 
  ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
