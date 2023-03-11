@@ -175,7 +175,7 @@
 
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=#800080&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=red&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
  
 </div>
 									    
