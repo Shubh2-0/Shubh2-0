@@ -20,7 +20,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
--  🌱 I love to learn to code in different languages and am very passionate to learn **new things ❤️**.
+-  🌱 I love to learn to code in different languages. 
+
+-  🙋 🏻‍♂️I am very passionate to learn **new things ❤️**.
 
 -  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
