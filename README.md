@@ -22,7 +22,7 @@
 
 -  🌱 I love to learn to code in different languages. 
 
--  🙋 🏻‍♂️I am very passionate to learn **new things ❤️**.
+-  🙋🏻‍♂️ I am very passionate to learn **new things ❤️**.
 
 -  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
 
