@@ -37,7 +37,7 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
--    https://shubh2-0.github.io\
+- https://shubh2-0.github.io
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 <!--  -->
