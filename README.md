@@ -40,14 +40,14 @@
 
 - 👉 <a href="https://shubh2-0.github.io\">**Click Here**</a> to view my projects 💻.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 
 
 
 ##  <h3 align="left">Connect with me:</h3> 
 
  
-<!--  https://cdn-icons-png.flaticon.com/128/733/733585.png -->
+
  
  <p align="left">
   <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
