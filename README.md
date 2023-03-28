@@ -33,7 +33,7 @@
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
 - 📫 How to reach me **shubhambhati226@gmail.com**
-<!--  -->
+
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
@@ -41,7 +41,7 @@
 - 👉 <a href="https://shubh2-0.github.io\">**Click Here**</a> to view my projects 💻.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-<!--  -->
+
 
 
 ##  <h3 align="left">Connect with me:</h3> 
@@ -143,21 +143,17 @@
 
 </p>
 
-<!-- ## 🏆 GitHub Trophies -->
-<!-- [](https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=onestar&no-frame=false&no-bg=false&margin-w=4) -->
 
-<!--  -->
-<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 
                                                                                
                                                                                
                                                                                
-<!--                                                                                
+                                                                               
    ![](https://github-readme-stats.vercel.app/api?username=Shubh2-0&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
                                                                             
-                                                                                -->
+                                                                               
                                                                                
                                                                                
                                                                                
