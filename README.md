@@ -40,7 +40,7 @@
 
 - 👉 <a href="https://shubh2-0.github.io\">**Click Here**</a> to view my projects 💻.
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!--  -->
 
 
@@ -48,7 +48,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/shubham-bhati-787319213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-bhati-787319213" height="30" width="40" /></a>
 </p>
-<!--  <a href="https://www.hackerrank.com/"> <img src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" width="5%"> </a> -->
+ <a href="https://www.hackerrank.com/"> <img src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" width="5%"> </a>
 <br>
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> Languages and Tools:</h3>
