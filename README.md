@@ -45,14 +45,14 @@
 
 
 ##  <h3 align="left">Connect with me:</h3> 
-<!-- https://cdn-icons-png.flaticon.com/128/888/888853.png -->
+
  
 <!--  https://cdn-icons-png.flaticon.com/128/733/733585.png -->
  
  <p align="left">
-  <a href="https://www.linkedin.com/in/thenitishmandal/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn.dribbble.com/users/164756/screenshots/14613526/media/42be7e1f549d6febf3e2d95bdb707114.gif"  width="50px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+919718299580" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="50px"  alt="whatsapp-me" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
+  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="50px"  alt="whatsapp-me" /></a>&emsp;
   <a href="https://www.hackerrank.com/shubhambhati226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="50px"  alt="whatsapp-me" /></a>&emsp;
 		
 	
