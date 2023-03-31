@@ -97,7 +97,7 @@
       <br>JavaScript
     </td>
  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="45" height="45" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
    <td align="center" width="96">
