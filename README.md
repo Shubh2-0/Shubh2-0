@@ -148,8 +148,8 @@
     </td>
      </td>
 	<td align="center" width="96">
-        <img src="https://maven.apache.org/images/apache-maven-project.png" width="48" height="48" alt="Css3" />
-      <br>JavaFX
+        <img src="https://mayurisamanta.github.io/Assets/icons/maven.png" width="48" height="48" alt="Css3" />
+      <br>Maven
     </td>
 </tr>
   
