@@ -137,6 +137,14 @@
       </td>
 </tr>
   
+  <tr>
+    <td align="center" width="96">
+        <img src="https://examples.javacodegeeks.com/wp-content/uploads/2012/12/java-duke-logo.jpg" width="48" height="48" alt="Css3" />
+      <br>Java Swing
+    </td>
+    
+</tr>
+  
 </table>
 
 
