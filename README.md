@@ -132,7 +132,7 @@
       <br>Replit
     </td>      
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="48" height="48" alt="ubuntu" />
       <br>Ubuntu
       </td>
 </tr>
