@@ -139,7 +139,7 @@
   
   <tr>
     <td align="center" width="96">
-        <img src="https://examples.javacodegeeks.com/wp-content/uploads/2012/12/java-duke-logo.jpg" width="48" height="48" alt="Css3" />
+        <img src="https://th.bing.com/th/id/R.dc0311ba9c65f35ec32503ffb41a1413?rik=F4NaG9G35ZpXTg&riu=http%3a%2f%2fseeklogo.com%2fimages%2fJ%2fJava-logo-6BBEB11CBA-seeklogo.com.png&ehk=9W%2fXMNGwvYXf3ky96RvbQskT7thSjUVVQzLSxyqI0FY%3d&risl=&pid=ImgRaw&r=0" width="48" height="48" alt="Css3" />
       <br>Java Swing
     </td>
     
