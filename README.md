@@ -146,7 +146,11 @@
         <img src="https://learn.devsfix.com/wp-content/uploads/2022/10/javafx.png" width="48" height="48" alt="Css3" />
       <br>JavaFX
     </td>
-    
+     </td>
+	<td align="center" width="96">
+        <img src="https://maven.apache.org/images/apache-maven-project.png" width="48" height="48" alt="Css3" />
+      <br>JavaFX
+    </td>
 </tr>
   
 </table>
