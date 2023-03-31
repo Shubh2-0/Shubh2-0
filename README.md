@@ -97,7 +97,7 @@
       <br>JavaScript
     </td>
  <td align="center" width="96">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
+        <img src="https://img.favpng.com/5/10/9/css-icon-html-icon-html5-icon-png-favpng-F085sKM3CjHVXmHKJhEBwjxY4.jpg" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
    <td align="center" width="96">
