@@ -187,16 +187,7 @@
 
 
 
-<p float="left" align="center">
 
-  <a href="https://github.com/Shubh2-0">
-    <img src="https://img.shields.io/github/followers/Shubh2-0?style=for-the-badge&logo=github">
-  <a href="https://github.com/Shubh2-0">
-    <img src="https://img.shields.io/github/stars/Shubh2-0?style=for-the-badge&logo=git">
-  <a href="https://github.com/Shubh2-0/Shubh2-0">
-    <img src="https://img.shields.io/github/watchers/Shubh2-0/Shubh2-0?style=for-the-badge&logo=git">
-
-</p><br><br>
 
 
 <div align="center" >
