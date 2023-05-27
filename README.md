@@ -177,7 +177,8 @@
                                                                               
                                                                                
 <h2 align="left">⚡Activity Graph:</h2>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img scr="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--  [![Ashutosh's github activity graph]() -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
