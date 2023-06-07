@@ -206,6 +206,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
  
 </div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bhatishubham" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhatishubham?trk=profile-badge">Shubham Bhati</a></div>
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
