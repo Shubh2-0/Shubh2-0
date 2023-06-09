@@ -69,11 +69,11 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-        <img src="/Images/java.png" width="60" height="50" />
+        <img src="/Images/java.png" width="60" height="70" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="/Images/mysql.png" width="60" height="50" />
+        <img src="/Images/mysql.png" width="60" height="70" />
       <br>My SQl
     </td>		
     <td align="center" width="96">
