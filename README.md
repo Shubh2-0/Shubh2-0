@@ -94,14 +94,16 @@
         <img src="/Images/restful.png" width="60" height="60" />
       <br>Restfull API
     </td>
-    <td align="center" width="96">
-        <img src="/Images/swing.png" width="40" height="60" />
-      <br>Java Swing
-    </td>		
+  		
     <td align="center" width="96">
         <img src="/Images/springb.png" width="60" height="60" />
       <br>SpringBoot							
 </td>	
+	  <td align="center" width="96">
+        <img src="/Images/swing.png" width="40" height="60" />
+      <br>Java Swing
+    </td>
+	
 <td align="center" width="96">
         <img src="/Images/bibernate.png" width="60" height="60" />
       <br>Hibernate
