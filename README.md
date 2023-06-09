@@ -81,7 +81,7 @@
       <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/Hibernate.png" width="60" height="60"/>
+        <img src="/Images/Hibernate.png" width="100" height="100"/>
       <br>Hibernate
     </td>
       <td align="center" width="96">
