@@ -69,7 +69,7 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-        <img src="Imgaes/java.png" width="48" height="48" alt="Java" />
+        <img src="   Im     gaes/java.png" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
