@@ -81,7 +81,7 @@
       <br>SpringBoot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/bibernate.png" width="120" height="100" />
+        <img src="/Images/hibernate.png" width="120" height="100" />
       <br>Hibernate
     </td>
       <td align="center" width="96">
@@ -103,7 +103,7 @@
       <br>SpringBoot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/bibernate.png" width="120" height="100" />
+        <img src="/Images/hibernate.png" width="120" height="100" />
       <br>Hibernate
     </td>
       <td align="center" width="96">
