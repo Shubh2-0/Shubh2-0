@@ -78,7 +78,7 @@
     </td>		
     <td align="center" width="96">
         <img src="/Images/springb.png" width="60" height="60" />
-      <br>Spring Boot							
+      <br>SpringBoot							
 </td>	
 <td align="center" width="96">
         <img src="/Images/Hibernate.png" width="60" height="60" />
