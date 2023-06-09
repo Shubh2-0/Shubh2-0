@@ -73,7 +73,7 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
+        <img src="/Images/mysql.png" width="48" height="48" alt="Vuejs" />
       <br>My SQl
     </td>		
     <td align="center" width="96">
@@ -81,26 +81,26 @@
       <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/hibernate.png" width="60" height="60" alt="Html5" />
+        <img src="/Images/Hibernate.png" width="60" height="60" alt="Html5" />
       <br>Hibernate
     </td>
       <td align="center" width="96">
-        <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
-    <br>IntelliJ IDEA
+        <img src="/Images/maven.logo_.png" width="48" height="48" alt="ubuntu" />
+    <br>Maven
     </td>
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      <br>JavaScript
+        <img src="/Images/restapi.png" />
+      <br>Rest API
     </td>
  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-      <br>HTML
+        <img src="/Images/spring.png" width="45" height="45" alt="HTML" />
+      <br>Spring
     </td>
    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
-      <br>CSS
+        <img src="/Images/swing.png" width="48" height="48" alt="CSS" />
+      <br>Java Swing
     </td>  
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
