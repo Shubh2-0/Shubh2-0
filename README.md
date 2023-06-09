@@ -67,7 +67,8 @@
    
    
 <table align="center">
- <tr>
+ 
+	  <tr>
     <td align="center" width="96">
       <img src="/Images/java.png" width="60" height="60" />
       <br>Java
@@ -88,9 +89,6 @@
       <img src="/Images/mysql.png" width="60" height="60" />
       <br>MySQL
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
       <img src="/Images/restful.png" width="60" height="60" />
       <br>RESTful
@@ -99,6 +97,9 @@
       <img src="/Images/spring.png" width="60" height="60" />
       <br>Spring
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <img src="/Images/jdbc.png" width="60" height="60" />
       <br>JDBC
@@ -111,9 +112,6 @@
       <img src="/Images/swing.png" width="60" height="60" />
       <br>Swing
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
       <img src="/Images/js.png" width="60" height="60" />
       <br>JavaScript
@@ -130,13 +128,13 @@
       <img src="/Images/lambok.png" width="60" height="60" />
       <br>Lombok
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <img src="/Images/postman.png" width="60" height="60" />
       <br>Postman
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
       <img src="/Images/javafx.png" width="60" height="60" />
       <br>JavaFX
@@ -157,30 +155,12 @@
       <img src="/Images/vscode.png" width="60" height="60" />
       <br>VS Code
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
       <img src="/Images/replit.png" width="60" height="60" />
       <br>Replit
     </td>
-    <td align="center" width="96">
-      <img src="/Images/lambok.png" width="60" height="60" />
-      <br>Lombok
-    </td>
-    <td align="center" width="96">
-      <img src="/Images/postman.png" width="60" height="60" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="/Images/javafx.png" width="60" height="60" />
-      <br>JavaFX
-    </td>
-    <td align="center" width="96">
-      <img src="/Images/git.png" width="60" height="60" />
-      <br>Git
-    </td>
   </tr>
+	
 	
 </table>
 
