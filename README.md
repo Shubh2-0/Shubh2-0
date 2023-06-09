@@ -108,7 +108,7 @@
       <br>Swagger
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/swing.png" width="60" height="60" />
+      <img src="/Images/swing.png" width="40" height="60" />
       <br>Swing
     </td>
     <td align="center" width="150" style="padding: 10px;">
@@ -139,8 +139,8 @@
       <br>JavaFX
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/git.png" width="60" height="60" />
-      <br>Git
+      <img src="/Images/github.png" width="60" height="60" />
+      <br>Github
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/IntelliJ IDEA.png" width="60" height="60" />
