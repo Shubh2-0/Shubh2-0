@@ -81,11 +81,11 @@
       <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/Hibernate.png" width="100" height="100"/>
+        <img src="/Images/Hibernate.png" width="48" height="48"/>
       <br>Hibernate
     </td>
       <td align="center" width="96">
-        <img src="/Images/maven.png" width="60" height="30"/>
+        <img src="/Images/maven.png" width="48" height="48"/>
     <br>Maven
     </td>
 </tr>
