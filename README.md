@@ -135,8 +135,7 @@
        <br>Maven
        </td>
 </tr>
-</table>
-
+	
 <tr>
 <td align="center" width="96">
         <img src="/Images/java.png" width="60" height="60" />
@@ -159,6 +158,10 @@
        <br>Maven
        </td>
 </tr>
+	
+</table>
+
+
 
 
 
