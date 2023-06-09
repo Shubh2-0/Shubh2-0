@@ -85,7 +85,7 @@
       <br>Hibernate
     </td>
       <td align="center" width="96">
-        <img src="/Images/maven.logo_.png" width="48" height="30"/>
+        <img src="/Images/maven.logo_.png" width="60" height="40"/>
     <br>Maven
     </td>
 </tr>
