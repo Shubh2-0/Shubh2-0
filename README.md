@@ -68,99 +68,99 @@
    
 <table align="center">
  
+  
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="/Images/java.png" width="60" height="60" />
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/springb.png" width="60" height="60" />
       <br>Spring Boot
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/maven.png" width="60" height="60" />
       <br>Maven
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/hibernate.png" width="60" height="60" />
       <br>Hibernate
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/mysql.png" width="60" height="60" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/restful.png" width="60" height="60" />
       <br>RESTful
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/spring.png" width="60" height="60" />
       <br>Spring
     </td>
   </tr>
   
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/jdbc.png" width="60" height="60" />
       <br>JDBC
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/swagger.png" width="60" height="60" />
       <br>Swagger
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/swing.png" width="60" height="60" />
       <br>Swing
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/js.png" width="60" height="60" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/html.png" width="60" height="60" />
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/css.png" width="60" height="60" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/lambok.png" width="60" height="60" />
       <br>Lombok
     </td>
   </tr>
   
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/postman.png" width="60" height="60" />
       <br>Postman
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/javafx.png" width="60" height="60" />
       <br>JavaFX
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/git.png" width="60" height="60" />
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/IntelliJ IDEA.png" width="60" height="60" />
       <br>IntelliJ IDEA
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/netlify.png" width="60" height="60" />
       <br>Netlify
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/vscode.png" width="60" height="60" />
       <br>VS Code
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <img src="/Images/replit.png" width="60" height="60" />
       <br>Replit
     </td>
   </tr>	
-   
 	
 	
 	
