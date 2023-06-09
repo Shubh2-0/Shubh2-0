@@ -69,23 +69,23 @@
 <table align="center">
 <tr>
 <td align="center" width="96">
-        <img src="/Images/java.png" width="60" height="65" />
+        <img src="/Images/java.png" width="60" height="60" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="/Images/mysql.png" width="60" height="65" />
+        <img src="/Images/mysql.png" width="60" height="60" />
       <br>My SQl
     </td>		
     <td align="center" width="96">
-        <img src="/Images/springb.png" width="60" height="65" />
+        <img src="/Images/springb.png" width="60" height="60" />
       <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/Hibernate.png" width="60" height="65" />
+        <img src="/Images/Hibernate.png" width="60" height="60" />
       <br>Hibernate
     </td>
       <td align="center" width="96">
-        <img src="/Images/maven.png" width="60" height="65" />
+        <img src="/Images/maven.png" width="60" height="60" />
     <br>Maven
     </td>
 </tr>
