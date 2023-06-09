@@ -77,12 +77,12 @@
       <br>My SQl
     </td>		
     <td align="center" width="96">
-        <img src="/Images/springboot.png" width="48" height="48" alt="Vuejs" />
-      <br>JDBC							
+        <img src="/Images/springb.png" width="48" height="48" alt="Vuejs" />
+      <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Html5" />
-      <br>Spring Boot
+        <img src="/Images/hibernate.png" width="48" height="48" alt="Html5" />
+      <br>Hibernate
     </td>
       <td align="center" width="96">
         <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
