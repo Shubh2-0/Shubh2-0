@@ -90,7 +90,7 @@
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/restful.png" width="60" height="60" />
-      <br>RESTful
+      <br>RESTful API
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/spring.png" width="60" height="60" />
