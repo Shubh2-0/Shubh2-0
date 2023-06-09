@@ -135,7 +135,7 @@
       <br>Postman
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/javafx.png" width="60" height="60" />
+      <img src="/Images/javafx2.png" width="60" height="60" />
       <br>JavaFX
     </td>
     <td align="center" width="150" style="padding: 10px;">
