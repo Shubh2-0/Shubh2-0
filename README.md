@@ -81,7 +81,7 @@
       <br>SpringBoot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/Hibernate.png" width="120" height="100" />
+        <img src="/Images/bibernate.png" width="120" height="100" />
       <br>Hibernate
     </td>
       <td align="center" width="96">
@@ -90,66 +90,72 @@
     </td>
 </tr>
 <tr>
-    <td align="center" width="96">
-        <img src="/Images/restapi.png" />
-      <br>Rest API
-    </td>
- <td align="center" width="96">
-        <img src="/Images/spring.png" width="45" height="45" alt="HTML" />
-      <br>Spring
-    </td>
    <td align="center" width="96">
-        <img src="/Images/swing.png" width="48" height="48" alt="CSS" />
-      <br>Java Swing
-    </td>  
+        <img src="/Images/java.png" width="60" height="60" />
+      <br>Java
+    </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
-      <br>Node JS
-    </td> 
-   <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      <br>VS Code
+        <img src="/Images/mysql.png" width="60" height="60" />
+      <br>My SQl
+    </td>		
+    <td align="center" width="96">
+        <img src="/Images/springb.png" width="60" height="60" />
+      <br>SpringBoot							
+</td>	
+<td align="center" width="96">
+        <img src="/Images/bibernate.png" width="120" height="100" />
+      <br>Hibernate
+    </td>
+      <td align="center" width="96">
+        <img src="/Images/maven.png" width="60" height="60" />
+    <br>Maven
     </td>
 </tr>
+	
 <tr>
+   <td align="center" width="96">
+        <img src="/Images/java.png" width="60" height="60" />
+      <br>Java
+    </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
-      <br>GitHub
-    </td>
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-      <td align="center" width="96">
-    <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="javascript" />
-      <br>Netlify
-    </td>
-     <td align="center" width="96">
-         <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
-      <br>Replit
-    </td>      
+        <img src="/Images/mysql.png" width="60" height="60" />
+      <br>My SQl
+    </td>		
     <td align="center" width="96">
-        <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="48" height="48" alt="ubuntu" />
-      <br>Ubuntu
-      </td>
+        <img src="/Images/springb.png" width="60" height="60" />
+      <br>SpringBoot							
+</td>	
+<td align="center" width="96">
+        <img src="/Images/bibernate.png" width="120" height="100" />
+      <br>Hibernate
+    </td>
+      <td align="center" width="96">
+        <img src="/Images/maven.png" width="60" height="60" />
+    <br>Maven
+    </td>
 </tr>
   
   <tr>
+   <td align="center" width="96">
+        <img src="/Images/java.png" width="60" height="60" />
+      <br>Java
+    </td>
     <td align="center" width="96">
-        <img src="https://th.bing.com/th/id/R.dc0311ba9c65f35ec32503ffb41a1413?rik=F4NaG9G35ZpXTg&riu=http%3a%2f%2fseeklogo.com%2fimages%2fJ%2fJava-logo-6BBEB11CBA-seeklogo.com.png&ehk=9W%2fXMNGwvYXf3ky96RvbQskT7thSjUVVQzLSxyqI0FY%3d&risl=&pid=ImgRaw&r=0" width="48" height="48" alt="Css3" />
-      <br>Java Swing
+        <img src="/Images/mysql.png" width="60" height="60" />
+      <br>My SQl
+    </td>		
+    <td align="center" width="96">
+        <img src="/Images/springb.png" width="60" height="60" />
+      <br>SpringBoot							
+</td>	
+<td align="center" width="96">
+        <img src="/Images/bibernate.png" width="120" height="100" />
+      <br>Hibernate
     </td>
-	<td align="center" width="96">
-        <img src="https://learn.devsfix.com/wp-content/uploads/2022/10/javafx.png" width="48" height="48" alt="Css3" />
-      <br>JavaFX
+      <td align="center" width="96">
+        <img src="/Images/maven.png" width="60" height="60" />
+    <br>Maven
     </td>
-     </td>
-	<td align="center" width="96">
-        <img src="https://mayurisamanta.github.io/Assets/icons/maven.png" width="48" height="48" alt="Css3" />
-      <br>Maven
-    </td>
-</tr>
   
 </table>
 
