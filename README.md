@@ -77,7 +77,7 @@
       <br>My SQl
     </td>		
     <td align="center" width="96">
-        <img src="https://1.bp.blogspot.com/-0dyq949GG7k/W8Zve_53ADI/AAAAAAAABlk/a0SZ78EvdJYyBjpOSra_7ZgmNMJIvVDJQCLcBGAs/s320/jdbc-with-MySQL-DataBase-New%2BSystem%2BTechnology.png" width="48" height="48" alt="Vuejs" />
+        <img src="/Images/springboot.png" width="48" height="48" alt="Vuejs" />
       <br>JDBC							
 </td>	
 <td align="center" width="96">
