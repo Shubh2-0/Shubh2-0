@@ -73,19 +73,19 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="/Images/mysql.png" width="48" height="48" alt="Vuejs" />
+        <img src="/Images/mysql.png" width="48" height="48"/>
       <br>My SQl
     </td>		
     <td align="center" width="96">
-        <img src="/Images/springb.png" width="48" height="48" alt="Vuejs" />
+        <img src="/Images/springb.png" width="48" height="48"/>
       <br>Spring Boot							
 </td>	
 <td align="center" width="96">
-        <img src="/Images/Hibernate.png" width="60" height="60" alt="Html5" />
+        <img src="/Images/Hibernate.png" width="60" height="60"/>
       <br>Hibernate
     </td>
       <td align="center" width="96">
-        <img src="/Images/maven.logo_.png" width="48" height="48" alt="ubuntu" />
+        <img src="/Images/maven.logo_.png" width="48" height="30"/>
     <br>Maven
     </td>
 </tr>
