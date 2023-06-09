@@ -68,7 +68,7 @@
    
 <table align="center">
  
-    <tr>
+  <tr>
     <td align="center" width="96">
       <img src="/Images/java.png" width="60" height="60" />
       <br>Java
@@ -159,7 +159,10 @@
       <img src="/Images/replit.png" width="60" height="60" />
       <br>Replit
     </td>
-  </tr>
+  </tr>	
+   
+	
+	
 	
 	
 </table>
