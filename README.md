@@ -205,8 +205,7 @@
  
 </div>
 
-<h2">Conquest of the Pythonic Predator :  Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥
-</h2>	
+<h2>Conquest of the Pythonic Predator :  Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥</h2>	
 	
 ![snake gif](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.gif)
 
