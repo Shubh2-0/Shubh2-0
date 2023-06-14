@@ -204,8 +204,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=red&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
  
 </div>
-									    
 
+	
+![snake gif](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
