@@ -205,10 +205,8 @@
  
 </div>
 
-<h1 style="text-align: center;">
-    <span style="font-weight: bold; color: red;">Conquest of the Pythonic Predator</span>:<br>
-    Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥
-</h1>	
+<h2">Conquest of the Pythonic Predator :  Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥
+</h2>	
 	
 ![snake gif](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.gif)
 
