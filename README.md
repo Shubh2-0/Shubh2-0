@@ -62,7 +62,9 @@ OLD ABOUT ME SECTION
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. --!>
+- 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. 
+
+-->
 
 
 
