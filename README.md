@@ -108,6 +108,10 @@
       <br>Swagger
     </td>
     <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/thymeleaf.png" width="60" height="60" />
+      <br>Thymeleaf
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/swing.png" width="40" height="60" />
       <br>Swing
     </td>
@@ -137,6 +141,10 @@
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/javafx2.png" width="60" height="60" />
       <br>JavaFX
+    </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/emmet.png" width="60" height="60" />
+      <br>Emmet
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/github.png" width="60" height="60" />
