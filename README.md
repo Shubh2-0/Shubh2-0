@@ -13,10 +13,36 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 
  
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">
+<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
  
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+🌱 I love to learn to code in different languages, and I am particularly interested in the field of Artificial Intelligence (AI) and its applications in daily life. I find the concept of AI fascinating and believe that it has the potential to revolutionize various industries and enhance our everyday experiences.
+
+🙋🏻‍♂️ I am very passionate about learning new things, and exploring the possibilities of AI is one of my primary interests. I enjoy staying updated with the latest advancements and techniques in AI, as well as experimenting with different AI algorithms and models.
+
+👨🏽‍💻 Currently, I am focused on deep learning, competitive coding, data structures, and algorithms. I believe that a strong foundation in these areas is crucial for effectively working with AI technologies.
+
+👥 I’m also looking forward to collaborating on open source projects that involve AI. I believe that working with others in the open source community can foster innovation and create meaningful solutions that leverage the power of AI.
+
+💬 If you have any questions or need assistance with anything related to coding, AI, or any other topic, feel free to ask. I am always happy to help and share my knowledge.
+
+🔄 My routine generally consists of eating, sleeping, coding, and repeating the process. Coding has become an integral part of my life, and I enjoy dedicating my time and effort to honing my programming skills and exploring the limitless possibilities of AI.
+
+📫 You can reach me at shubhambhati226@gmail.com. I am open to discussions, collaborations, and any opportunities related to AI or coding.
+
+⚡ Fun coding fact: Did you know that there are over 700 different programming languages? It's incredible how many ways there are to express our ideas through code.
+
+💪🏼 One of my favorite quotes that resonates with me as a developer is, "Great developers never stop learning." I strongly believe in the importance of continuous learning and improvement in order to stay at the forefront of technological advancements.
+
+👉 Feel free to click [here](link-to-your-projects) to view my projects and explore the work I have done.
+
+
+<!--
+
+OLD ABOUT ME SECTION
 
 -  🌱 I love to learn to code in different languages. 
 
@@ -37,9 +63,9 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻.
+- 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. --!>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 
 
