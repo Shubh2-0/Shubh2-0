@@ -96,13 +96,13 @@
       <img src="/Images/spring.png" width="60" height="60" />
       <br>Spring
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/jdbc.png" width="60" height="60" />
       <br>JDBC
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/swagger.png" width="60" height="60" />
       <br>Swagger
@@ -131,13 +131,13 @@
       <img src="/Images/lambok.png" width="60" height="60" />
       <br>Lombok
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/postman.png" width="60" height="60" />
       <br>Postman
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/javafx2.png" width="60" height="60" />
       <br>JavaFX
