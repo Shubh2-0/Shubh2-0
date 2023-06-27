@@ -21,7 +21,7 @@
 
 🌱 I love to learn to code in different languages, and I am particularly interested in the field of Artificial Intelligence (AI) and its applications in daily life. I find the concept of AI fascinating and believe that it has the potential to revolutionize various industries and enhance our everyday experiences.
 
-🙋🏻‍♂️ I am very passionate about learning new things, and exploring the possibilities of AI is one of my primary interests. I enjoy staying updated with the latest advancements and techniques in AI, as well as experimenting with different AI algorithms and models.
+🙋🏻‍♂️ I am very passionate about learning new things, and exploring the possibilities of AI is one of my primary interests. I enjoy staying updated with the latest advancements and techniques in AI and experimenting with different AI algorithms and models.
 
 👨🏽‍💻 Currently, I am focused on deep learning, competitive coding, data structures, and algorithms. I believe that a strong foundation in these areas is crucial for effectively working with AI technologies.
 
@@ -33,7 +33,7 @@
 
 📫 You can reach me at shubhambhati226@gmail.com. I am open to discussions, collaborations, and any opportunities related to AI or coding.
 
-⚡ Fun coding fact: Did you know that there are over 700 different programming languages? It's incredible how many ways there are to express our ideas through code.
+⚡ Fun coding fact: Did you know that there are over 700 different programming languages? It's incredible how many ways we express our ideas through code exist.
 
 💪🏼 One of my favorite quotes that resonates with me as a developer is, "Great developers never stop learning." I strongly believe in the importance of continuous learning and improvement in order to stay at the forefront of technological advancements.
 
