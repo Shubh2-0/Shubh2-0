@@ -178,9 +178,13 @@ OLD ABOUT ME SECTION
       <br>Github
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/IntelliJ IDEA.png" width="60" height="60" />
-      <br>IntelliJ IDEA
+      <img src="/Images/eclipse.png" width="60" height="60" />
+      <br>Eclipse
     </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/openAI.png" width="60" height="60" />
+      <br>Open AI
+    </td>  
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/netlify.png" width="60" height="60" />
       <br>Netlify
