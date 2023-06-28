@@ -58,9 +58,9 @@
 
 - 📫 How to reach me **shubhambhati226@gmail.com**
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
+- ⚡ Coding fact: **"There are over 700 different programming languages".**
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 💪🏼 Fav Quote: **"Great Developers never stop learning".**
 
 - 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. 
 
