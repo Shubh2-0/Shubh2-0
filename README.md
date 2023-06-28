@@ -29,7 +29,7 @@
 
 **💬 If you have any questions or need assistance with coding, AI, or any other topic, feel free to ask**. I am always happy to help and share my knowledge.
 
-**🔄 My routine consists of eating, sleeping, coding, and repeating the process**. Coding has become an integral part of my life, and I enjoy dedicating my time and effort to honing my programming skills and exploring the limitless possibilities of AI.
+**🔄 Coding** has become an integral part of my life, and I enjoy dedicating my time and effort to honing my programming skills and exploring the limitless possibilities of AI.
 
 **📫 You can reach me at shubhambhati226@gmail.com**. I am open to discussions, collaborations, and any opportunities related to AI or coding.
 
