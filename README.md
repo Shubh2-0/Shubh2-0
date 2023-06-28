@@ -37,7 +37,7 @@
 
 **💪🏼 One of my favorite quotes as a developer is, "Great developers never stop learning."** I strongly believe in continuous learning and improvement to stay at the forefront of technological advancements.
 
-**👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻**, where I showcase my work across various areas of interest. Although I don't have any AI-related projects yet, I am actively working towards incorporating AI into my future projects.
+**👉 <a href="https://shubh2-0.github.io/" target = blank>**Click Here**</a> to view my projects 💻**, where I showcase my work across various areas of interest. Although I don't have any AI-related projects yet, I am actively working towards incorporating AI into my future projects.
 
 <!--
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
