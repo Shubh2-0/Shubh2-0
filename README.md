@@ -47,20 +47,19 @@
 
 -  🙋🏻‍♂️ I am very passionate to learn **new things ❤️**.
 
--  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
+-  👨🏽‍💻 Currently, learning and growing my skillset in **deep learning, competitive coding, data structures and algorithms**.
 
-- 👥 I’m looking forward to collaborate on open source projects.🌟
+- 👥 I’m looking forward to collaborating on open-source projects.🌟
 
 - 💬 Ask me about anything, I am happy to help.  
   
-
-- 🔄 Routine : **Eat - Sleep - Code - Repeat.**
+- 🔄 Routine: **Eat - Sleep - Code - Repeat.**
 
 - 📫 How to reach me **shubhambhati226@gmail.com**
 
-- ⚡ Coding fact: **"There are over 700 different programming languages".**
+- ⚡ Coding fact: **There are over 700 different programming languages.**
 
-- 💪🏼 Fav Quote: **"Great Developers never stop learning".**
+- 💪🏼 Fav Quote: **Great Developers never stop learning.**
 
 - 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. 
 
