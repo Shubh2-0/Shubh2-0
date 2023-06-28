@@ -21,17 +21,17 @@
 
 **🌱 One of my main interests is Artificial Intelligence (AI) and its applications in daily life**. I believe AI has the potential to revolutionize industries and enhance our experiences.
 
-**🙋🏻‍♂️ I am passionate about learning new things, and exploring the possibilities of AI is one of my primary interests**. I enjoy staying updated with the latest advancements and techniques in AI and experimenting with different AI algorithms and models.
+**🙋🏻‍♂️ I am passionate about learning new things and exploring the possibilities of AI is one of my primary interests**. I enjoy staying updated with the latest advancements and techniques in AI and experimenting with different AI algorithms and models.
 
-**👨🏽‍💻 Currently, I am focused on deep learning, competitive coding, data structures, and algorithms**. I believe a strong foundation in these areas is crucial for effectively working with AI technologies.
+**👨🏽‍💻 Currently, I am focused on deep learning, competitive coding, data structures and algorithms**. I believe a strong foundation in these areas is crucial for effectively working with AI technologies.
 
-**👥 I’m looking forward to collaborating on open source projects, especially those involving AI**. I believe that working with others in the open source community can foster innovation and create meaningful solutions leveraging the power of AI.
+**👥 I’m looking forward to collaborating on open-source projects, especially those involving AI**. I believe that working with others in the open source community can foster innovation and create meaningful solutions leveraging the power of AI.
 
 **💬 If you have any questions or need assistance with coding, AI, or any other topic, feel free to ask**. I am always happy to help and share my knowledge.
 
 **🔄 Coding** has become an integral part of my life, and I enjoy dedicating my time and effort to honing my programming skills and exploring the limitless possibilities of AI.
 
-**📫 You can reach me at shubhambhati226@gmail.com**. I am open to discussions, collaborations, and any opportunities related to AI or coding.
+**📫 You can reach me at shubhambhati226@gmail.com**. I am open to discussions, collaborations and any opportunities related to AI or coding.
 
 **⚡ Fun coding fact: Did you know that there are over 700 different programming languages?** It's incredible how many ways we express our ideas through code exist.
 
