@@ -14,12 +14,12 @@
 
  
 
- 
+ <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-**🌱 One of my main interests is Artificial Intelligence (AI) and its applications in daily life**. I believe AI has the potential to revolutionize industries and enhance our experiences.
+<!--
 
 **🙋🏻‍♂️ I am passionate about learning new things and exploring the possibilities of AI is one of my primary interests**. I enjoy staying updated with the latest advancements and techniques in AI and experimenting with different AI algorithms and models.
 
@@ -39,11 +39,11 @@
 
 **👉 <a href="https://shubh2-0.github.io/" target="blank">**Click Here**</a> to view my projects 💻**, where I showcase my work across various areas of interest. Although I don't have any AI-related projects yet, I am actively working towards incorporating AI into my future projects.
 
-<!--
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
-OLD ABOUT ME SECTION
+-->
 
 -  🌱 I love to learn to code in different languages. 
+
+-  ✨ One of my main interests is Artificial Intelligence (AI) and its applications in daily life.
 
 -  🙋🏻‍♂️ I am very passionate to learn **new things ❤️**.
 
@@ -64,7 +64,6 @@ OLD ABOUT ME SECTION
 
 - 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻. 
 
--->
 
 
 
