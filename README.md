@@ -113,7 +113,7 @@
       <img src="/Images/mysql.png" width="60" height="60" />
       <br>MySQL
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="150" style="padding: 1000px;">
       <img src="/Images/restful.png" width="60" height="60" />
       <br>RESTful API
     </td>
