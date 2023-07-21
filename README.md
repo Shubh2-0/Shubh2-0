@@ -210,6 +210,11 @@
 <p align="center">
 <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> 
    <br>      
+
+
+   ![Shubh2-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+   ![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true)
+   ![Shubh2-0's Stats](https://github-readme-stats.vercel.app/api?username=Shubh2-0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&theme=dark&hide_border=false&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" alt="shubh2-0" />
    <br>
