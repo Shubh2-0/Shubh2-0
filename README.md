@@ -12,8 +12,6 @@
  
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 
-    ![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=true)
-
  <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -88,7 +86,7 @@
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
 
-   
+   ![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=true)
    
    
 <table align="center">
