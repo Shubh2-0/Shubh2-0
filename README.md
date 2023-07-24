@@ -86,8 +86,6 @@
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
 
-   ![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=true)
-   
    
 <table align="center">
   <tr>
@@ -209,7 +207,7 @@
 <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> 
    <br>   
 	![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=true)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=false&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" alt="shubh2-0" />
+<img align="center" src="theme=dark&hide_border=false&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" alt="shubh2-0" />
    <br>
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
  
