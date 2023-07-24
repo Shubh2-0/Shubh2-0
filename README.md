@@ -204,7 +204,9 @@
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
-<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> 
+<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200px"/> 
+ 
+<!--  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> --!>
    <br>   
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true" />
