@@ -206,26 +206,7 @@
 <p align="center">
 <img alt="7oSkaaa's Github Stats" src="" height="200px"/> 
 
-
-  <div>
-  <img  id="github-streak-stats" alt="7oSkaaa's Github Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" />
-
-      </div>
-
-
-        <div> 
-       <img id="github-stats-card" alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true">  
-        </div>
-<!--  -->
-
-</div>
-
-         <div id="contri2">  
-<img id="github-top-langs" alt="most used languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> </div>
-
-
- 
-
+<img  id="github-streak-stats" alt="7oSkaaa's Github Stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" />
  
 </p>
 
