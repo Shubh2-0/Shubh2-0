@@ -204,12 +204,12 @@
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
-<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200px"/> 
+<img alt="7oSkaaa's Github Stats" src="" height="200px"/> 
  
 <!--  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/> -->
    <br>   
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" />
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=dark&hide_border=false&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" alt="shubh2-0" /> -->
    <br>
 <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
