@@ -206,11 +206,11 @@
 <p align="center">
 
 
-<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;hide_border=true&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10">
+<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;hide_border=true&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10" width="300px">
 <br>
-<img id="github-stats-card" alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&amp;show_icons=true&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10&amp;hide_border=true">
+<img id="github-stats-card" alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&amp;show_icons=true&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10&amp;hide_border=true" width="300px">
 <br>
-<img id="github-top-langs" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
+<img id="github-top-langs" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c" width="300px">
 
 
 
