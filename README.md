@@ -205,18 +205,15 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
 
-![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10)
-
 <img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" width="500px">
 
 <br>
+
 <img id="github-stats-card" alt="status github, commits, etc..." src="https://github-readme-stats.vercel.app/api?username=Shubh2-0&amp;show_icons=true&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10&amp;hide_border=true" width="500px">
+
 <br>
+
 <img id="github-top-langs" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c" width="500px">
-
-
-
-
 
 
 </p>
