@@ -243,7 +243,7 @@
  
 </div>
 
-<h2>Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥</h2>	
+<!-- <h2>Behold as the Serpent Swallows My GitHub Contributions! 🌟🔥</h2>	
 	
 ![snake gif](https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.gif)
 
@@ -252,7 +252,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
  
-</div>
+ </div>  --->
 
 
 
