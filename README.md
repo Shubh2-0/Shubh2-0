@@ -97,6 +97,10 @@
       <img src="/Images/springb.png" width="60" height="60" />
       <br>Spring Boot
     </td>
+      <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/kafka.png" width="60" height="60" />
+      <br>Apache Kafka
+    </td>	  
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/maven.png" width="60" height="60" />
       <br>Maven
@@ -117,17 +121,32 @@
       <img src="/Images/spring.png" width="60" height="60" />
       <br>Spring
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/jdbc.png" width="60" height="60" />
-      <br>JDBC
-    </td>
   </tr>
   
   <tr>
+     <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/jdbc.png" width="60" height="60" />
+      <br>JDBC
+    </td>	  
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/swagger.png" width="60" height="60" />
       <br>Swagger
     </td>
+   <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/MongoDB.png" width="60" height="60" />
+      <br>MongoDB
+    </td>
+
+ <td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/python.png" width="60" height="60" />
+      <br>Python
+    </td>
+
+<td align="center" width="150" style="padding: 10px;">
+      <img src="/Images/Django.png" width="60" height="60" />
+      <br>DJango
+    </td>
+	  
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/thymeleaf.png" width="60" height="60" />
       <br>Thymeleaf
