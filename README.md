@@ -146,8 +146,7 @@
       <img src="/Images/Django.png" width="60" height="60" />
       <br>DJango
     </td>
-	  
-    <td align="center" width="150" style="padding: 10px;">
+<td align="center" width="150" style="padding: 10px;">
       <img src="/Images/thymeleaf.png" width="60" height="60" />
       <br>Thymeleaf
     </td>
