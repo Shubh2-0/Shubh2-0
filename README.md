@@ -133,7 +133,7 @@
       <br>Swagger
     </td>
    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/MongoDB.png" width="60" height="60" />
+      <img src="/Images/mongoDB.png" width="60" height="60" />
       <br>MongoDB
     </td>
 
@@ -143,7 +143,7 @@
     </td>
 
 <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/Django.png" width="60" height="60" />
+      <img src="/Images/django.png" width="60" height="60" />
       <br>DJango
     </td>
 <td align="center" width="150" style="padding: 10px;">
