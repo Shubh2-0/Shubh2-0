@@ -192,7 +192,7 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
 
-<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=vue-dark&hide_border=true&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" width="500px">
+<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="" width="500px">
 
 <br>
 
