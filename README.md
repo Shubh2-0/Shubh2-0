@@ -84,30 +84,30 @@
 	
 <br>
 
+
+
 <h1 align="center">Tech Stack</h1>
 
 <!-- Frontend Technologies -->
 <h3 align="left">Frontend Technologies :</h3>
 <table align="center">
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/swing.png" width="40" height="60" /><br>Swing
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/js.png" width="60" height="60" /><br>JavaScript
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/html.png" width="60" height="60" /><br>HTML
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/css.png" width="60" height="60" /><br>CSS
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/thymeleaf.png" width="60" height="60" /><br>Thymeleaf
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/javafx2.png" width="60" height="60" /><br>JavaFX
     </td>
   </tr>
@@ -117,41 +117,39 @@
 <h3 align="left">Backend Technologies :</h3>
 <table align="center">
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/java.png" width="60" height="60" /><br>Java
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/springb.png" width="60" height="60" /><br>Spring Boot
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/kafka.png" width="60" height="60" /><br>Apache Kafka
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/hibernate.png" width="60" height="60" /><br>Hibernate
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/mysql.png" width="60" height="60" /><br>MySQL
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/restful.png" width="60" height="60" /><br>RESTful API
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/spring.png" width="60" height="60" /><br>Spring
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/jdbc.png" width="60" height="60" /><br>JDBC
     </td>
   </tr>
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="/Images/spring.png" width="60" height="60" /><br>Spring
+    </td>
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="/Images/jdbc.png" width="60" height="60" /><br>JDBC
+    </td>
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/mongoDB.png" width="60" height="60" /><br>MongoDB
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/python.png" width="60" height="60" /><br>Python
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/django.png" width="60" height="60" /><br>Django
     </td>
   </tr>
@@ -161,45 +159,46 @@
 <h3 align="left">Tools :</h3>
 <table align="center">
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/maven.png" width="60" height="60" /><br>Maven
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/swagger.png" width="60" height="60" /><br>Swagger
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/lambok.png" width="60" height="60" /><br>Lombok
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/postman.png" width="60" height="60" /><br>Postman
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/emmet.png" width="60" height="60" /><br>Emmet
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/github.png" width="60" height="60" /><br>GitHub
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/eclipse.png" width="60" height="60" /><br>Eclipse
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/openAI.png" width="60" height="60" /><br>Open AI
     </td>
   </tr>
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="/Images/eclipse.png" width="60" height="60" /><br>Eclipse
+    </td>
+    <td align="center" width="120" style="padding: 10px;">
+      <img src="/Images/openAI.png" width="60" height="60" /><br>Open AI
+    </td>
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/netlify.png" width="60" height="60" /><br>Netlify
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/vscode.png" width="60" height="60" /><br>VS Code
     </td>
-    <td align="center" width="150" style="padding: 10px;">
+    <td align="center" width="120" style="padding: 10px;">
       <img src="/Images/replit.png" width="60" height="60" /><br>Replit
     </td>
   </tr>
 </table>
+
+
+
 
 
 
