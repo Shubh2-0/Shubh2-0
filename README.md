@@ -84,6 +84,29 @@
 	
 <br>
 
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> Tech Stack</h1>
+
+<!-- Frontend Technologies -->
+<h3 align="left">Frontend Technologies :</h3>
+<table align="center">
+  <!-- ... Frontend Technologies Table ... -->
+</table>
+
+<!-- Backend Technologies -->
+<h3 align="left">Backend Technologies :</h3>
+<table align="center">
+  <!-- ... Backend Technologies Table ... -->
+</table>
+
+<!-- Tools -->
+<h3 align="left">Tools :</h3>
+<table align="center">
+  <!-- ... Tools Table ... -->
+</table>
+
+
+
+
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
 <table align="center">
   <tr>
