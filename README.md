@@ -84,7 +84,6 @@
 	
 <br>
 
-
 <h1 align="center">Tech Stack</h1>
 
 <!-- Frontend Technologies -->
@@ -103,6 +102,8 @@
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/css.png" width="60" height="60" /><br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/thymeleaf.png" width="60" height="60" /><br>Thymeleaf
     </td>
@@ -142,6 +143,8 @@
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/jdbc.png" width="60" height="60" /><br>JDBC
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/mongoDB.png" width="60" height="60" /><br>MongoDB
     </td>
@@ -197,6 +200,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
