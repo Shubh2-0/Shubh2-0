@@ -197,17 +197,7 @@
 <p align="center">
 
 
-
-![Shubh2-0's Stats](https://github-readme-stats.vercel.app/api?username=Shubh2-0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
-![Shubh2-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=vue-dark&hide_border=true)
-
-
-![Shubh2-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-<!-- <img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" width="500px">
+<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" width="500px">
 
 <br>
 
@@ -215,7 +205,7 @@
 
 <br>
 
-<img id="github-top-langs" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c" width="500px">  -->
+<img id="github-top-langs" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh2-0&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c" width="500px"> 
 
 
 </p>
