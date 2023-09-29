@@ -189,6 +189,10 @@
 
 <br>
 
+
+<img id="github-streak-stats" alt="7oSkaaa's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh2-0&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;hide_border=true&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10">
+
+
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
 
