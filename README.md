@@ -231,15 +231,15 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true" width="500px" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=midnight-purple&hide_border=true" width="500px" alt="GitHub Streak Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="500px" alt="GitHub Stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" width="500px" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="500px" alt="Top Languages">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" width="500px" alt="Top Languages">
 
 </p>
 
