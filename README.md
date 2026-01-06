@@ -235,11 +235,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" width="500px" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" width="500px" alt="Top Languages">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" width="41%" alt="Top Languages">
 
 </p>
 
