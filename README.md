@@ -189,7 +189,7 @@
 
   <tr>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1101px-Claude_AI_logo.svg.png" width="60" height="60" /><br>Claude AI
+      <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="60" height="60" /><br>Claude AI
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/html.png" width="60" height="60" /><br>HTML
