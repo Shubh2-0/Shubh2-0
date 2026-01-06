@@ -88,6 +88,12 @@
 	
 <br>
 
+## 📅 **Contribution Calendar**
+<p align="center">
+  <img src="https://ghchart.rshah.org/Shubh2-0" alt="GitHub Contribution Chart" />
+</p>
+
+<br>
 
 ## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
 <table align="center">
@@ -247,11 +253,6 @@
 <h2 align="left">⚡Activity Graph:</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<h2 align="left">📅 Contribution Calendar:</h2>
-<p align="center">
-  <img src="https://ghchart.rshah.org/Shubh2-0" alt="GitHub Contribution Chart" />
 </p>
 
 ### 🔝 Top Contributed Repo
