@@ -231,7 +231,7 @@
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
 
-<img src="https://github-readme-streak-stats-9m8ug.ondigitalocean.app?user=Shubh2-0&theme=tokyonight&hide_border=true" width="500px" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true" width="500px" alt="GitHub Streak Stats">
 
 <br><br>
 
