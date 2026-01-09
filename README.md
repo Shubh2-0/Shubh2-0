@@ -251,18 +251,6 @@
 
 <br>
 
-## ⏱️ **Weekly Coding Stats**
-
-<!--START_SECTION:waka-->
-```text
-Setting up WakaTime...
-```
-<!--END_SECTION:waka-->
-
-> 📊 **To enable:** Sign up at [wakatime.com](https://wakatime.com), install the plugin in your IDE, and the stats will auto-update!
-
-<br>
-
 ## 📈 **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
