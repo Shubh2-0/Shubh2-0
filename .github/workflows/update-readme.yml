@@ -15,9 +15,90 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Update recent activity'
-          MAX_LINES: 5
+        run: |
+          echo "Fetching recent activity..."
+          
+          # Fetch recent events from GitHub API
+          EVENTS=$(curl -s "https://api.github.com/users/Shubh2-0/events?per_page=10" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}")
+          
+          # Generate activity list
+          ACTIVITY=""
+          COUNT=0
+          
+          while IFS= read -r line; do
+            if [ $COUNT -ge 5 ]; then break; fi
+            
+            TYPE=$(echo "$line" | jq -r '.type')
+            REPO=$(echo "$line" | jq -r '.repo.name')
+            CREATED=$(echo "$line" | jq -r '.created_at' | cut -d'T' -f1)
+            
+            case $TYPE in
+              PushEvent)
+                COMMITS=$(echo "$line" | jq -r '.payload.commits | length')
+                ACTIVITY="$ACTIVITY\n- Pushed $COMMITS commit(s) to [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+              CreateEvent)
+                REF=$(echo "$line" | jq -r '.payload.ref_type')
+                ACTIVITY="$ACTIVITY\n- Created $REF in [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+              WatchEvent)
+                ACTIVITY="$ACTIVITY\n- Starred [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+              ForkEvent)
+                ACTIVITY="$ACTIVITY\n- Forked [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+              PullRequestEvent)
+                ACTION=$(echo "$line" | jq -r '.payload.action')
+                ACTIVITY="$ACTIVITY\n- $ACTION PR in [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+              IssuesEvent)
+                ACTION=$(echo "$line" | jq -r '.payload.action')
+                ACTIVITY="$ACTIVITY\n- $ACTION issue in [$REPO](https://github.com/$REPO)"
+                COUNT=$((COUNT+1))
+                ;;
+            esac
+          done < <(echo "$EVENTS" | jq -c '.[]')
+          
+          if [ -z "$ACTIVITY" ]; then
+            ACTIVITY="\n- No recent activity"
+          fi
+          
+          echo -e "Activity found:$ACTIVITY"
+          
+          # Update README
+          python3 << PYEOF
+          import re
+          
+          activity = """$ACTIVITY"""
+          
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          pattern = r'(<!--START_SECTION:activity-->).*?(<!--END_SECTION:activity-->)'
+          replacement = r'\1' + activity + r'\n\2'
+          content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          with open('README.md', 'w') as f:
+              f.write(content)
+          
+          print("README updated!")
+          PYEOF
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update recent activity"
+            git push
+            echo "Changes pushed!"
+          fi
