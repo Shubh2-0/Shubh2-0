@@ -237,12 +237,24 @@
 ## <img src="/Images/github_stats.gif" width="25px"> **Github stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=10" width="90%" style="max-width: 500px;" alt="GitHub Streak Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=default&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=default&hide_border=true&border_radius=10" width="90%" style="max-width: 500px;" alt="GitHub Streak Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" width="48%" style="max-width: 400px;" alt="GitHub Stats">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" width="40%" style="max-width: 350px;" alt="Top Languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&border_radius=10" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&border_radius=10" width="48%" style="max-width: 400px;" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=default&hide_border=true&langs_count=8&border_radius=10" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=default&hide_border=true&langs_count=8&border_radius=10" width="40%" style="max-width: 350px;" alt="Top Languages" />
+  </picture>
 </p>
 
   
@@ -254,12 +266,20 @@
                                                                                
 <h2 align="center">⚡ Activity Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&theme=tokyo-night&hide_border=true&radius=10" width="100%" style="max-width: 900px;" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&theme=tokyo-night&hide_border=true&radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&theme=minimal&hide_border=true&radius=10" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&theme=minimal&hide_border=true&radius=10" width="100%" style="max-width: 900px;" alt="Activity Graph" />
+  </picture>
 </p>
 
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="90%" style="max-width: 600px;" alt="Top Contributed Repo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true" width="90%" style="max-width: 600px;" alt="Top Contributed Repo" />
+  </picture>
 </p>
 
 
@@ -274,7 +294,11 @@
 <h2 align="center">🐍 Watch the Snake Eat My Contributions!</h2>
 
 <p align="center">
-  <img src="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" style="max-width: 800px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" style="max-width: 800px;" />
+  </picture>
 </p>
 
 <p align="center">
