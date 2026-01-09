@@ -279,6 +279,20 @@
 
 
 
+## ☕ **Support My Work**
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shubhambhati" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you find my work helpful, consider buying me a coffee!</i>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Thank+You+for+Visiting!;Let's+Connect+and+Build+Together!" alt="Thank You" />
 </p>
