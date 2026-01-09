@@ -1,0 +1,51 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update recent activity'
+          MAX_LINES: 5
+
+      - name: Update Dev Quote
+        run: |
+          QUOTES=(
+            "First, solve the problem. Then, write the code. - John Johnson"
+            "Code is like humor. When you have to explain it, it's bad. - Cory House"
+            "Simplicity is the soul of efficiency. - Austin Freeman"
+            "Make it work, make it right, make it fast. - Kent Beck"
+            "Clean code always looks like it was written by someone who cares. - Robert C. Martin"
+            "Programming is the art of telling another human what one wants the computer to do. - Donald Knuth"
+            "The best error message is the one that never shows up. - Thomas Fuchs"
+            "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler"
+            "Experience is the name everyone gives to their mistakes. - Oscar Wilde"
+            "Java is to JavaScript what car is to Carpet. - Chris Heilmann"
+            "Deleted code is debugged code. - Jeff Sickel"
+            "Its not a bug; its an undocumented feature. - Anonymous"
+            "Computers are fast; developers keep it slow. - Anonymous"
+            "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. - Antoine de Saint-Exupery"
+            "Testing leads to failure, and failure leads to understanding. - Burt Rutan"
+          )
+          QUOTE="${QUOTES[$RANDOM % ${#QUOTES[@]}]}"
+          
+          sed -i "s|<!--START_SECTION:quote-->.*<!--END_SECTION:quote-->|<!--START_SECTION:quote-->\n> ${QUOTE}\n<!--END_SECTION:quote-->|" README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update README with activity and quote"
+          git push

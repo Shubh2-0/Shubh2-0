@@ -304,6 +304,25 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shubhambhati" target="_blank">
+
+## 🎯 **Recent GitHub Activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+## 💭 **Dev Quote of the Day**
+
+<!--START_SECTION:quote-->
+<!--END_SECTION:quote-->
+
+<br>
+
+## ☕ **Support My Work**
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shubhambhati" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
@@ -321,6 +340,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" />
 </p>
-
-
-
