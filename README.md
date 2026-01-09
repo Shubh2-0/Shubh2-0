@@ -96,16 +96,6 @@
 
 <br>
 
-## 🏅 **Certifications & Achievements**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</p>
-
-<br>
-
 ## 🤝 **Connect with me**
 
 <p align="center">
@@ -117,12 +107,6 @@
   </a>
   <a href="https://wa.me/+916232133187" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://www.hackerrank.com/shubhambhati226" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/shubhambhati226" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/Shubh2-0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
