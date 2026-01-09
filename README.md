@@ -21,11 +21,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="/Images/developer.gif" alt="Coder GIF" width="350" style="max-width: 100%;">
-</p>  
-
 ## <img src="/Images/about_me.gif" width="40px"> **About me**
+
+<img align="right" src="/Images/developer.gif" alt="Developer GIF" width="320" />
 
 - 💼 **Backend Engineer (Java)** with **2+ years** of experience building enterprise-grade solutions.
 
@@ -46,6 +44,26 @@
 - 💪🏼 Fav Quote: **Great Developers never stop learning.**
 
 - 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects.
+
+<br clear="right"/>
+
+<br>
+
+## 🚀 **Currently Working On**
+
+- 🔨 Building scalable **microservices architecture** at Justransform iPaaS Platform
+- 🤖 Developing **AI-driven automation pipelines** using OpenAI & Gemini APIs
+- 📚 Exploring **Kubernetes** & container orchestration for cloud deployments
+- 🌐 Contributing to **open-source** backend projects
+
+<br>
+
+## ⚡ **Fun Facts**
+
+- ☕ I debug with **coffee** and mass **lofi beats** 🎵
+- 🎮 When not coding: **Gaming** | **Reading Tech Blogs** | **Gym**
+- 🌙 Most productive during **late-night coding sessions**
+- 🧩 Love solving **complex system design** problems
 
 <br>
 
@@ -76,20 +94,43 @@
   </tr>
 </table>
 
-##  <h3 align="left">Connect with me:</h3>
+<br>
 
+## 🏅 **Certifications & Achievements**
 
- 
- <p align="left">
-  <a href="https://www.linkedin.com/in/Shubh2-0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="/Images/gmail.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="/Images/whatsapp.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
-<a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="/Images/hackerrank.svg" width="40px"  alt="hackerrank" /></a>&emsp; 
-		
-	
-	
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
 
- </p>
+<br>
+
+## 🤝 **Connect with me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Shubh2-0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shubhambhati226@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/+916232133187" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.hackerrank.com/shubhambhati226" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/shubhambhati226" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Shubh2-0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://shubh2-0.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 	
 <br>
@@ -224,9 +265,25 @@
   </tr>
 </table>
 
+<br>
 
+## ⏱️ **Weekly Coding Stats**
 
+<!--START_SECTION:waka-->
+```text
+Setting up WakaTime...
+```
+<!--END_SECTION:waka-->
 
+> 📊 **To enable:** Sign up at [wakatime.com](https://wakatime.com), install the plugin in your IDE, and the stats will auto-update!
+
+<br>
+
+## 📈 **Recent GitHub Activity**
+
+<!--START_SECTION:activity-->
+1. 🎉 Activity will appear here automatically!
+<!--END_SECTION:activity-->
 
 <br>
 
