@@ -25,7 +25,7 @@
   <img src="/Images/developer.gif" alt="Coder GIF" width="350" style="max-width: 100%;">
 </p>  
 
-## <img src = "/Images/about_me.png" width = 40px> **About me**
+## <img src="/Images/about_me.gif" width="40px"> **About me**
 
 - 💼 **Backend Engineer (Java)** with **2+ years** of experience building enterprise-grade solutions.
 
@@ -273,14 +273,6 @@
   </picture>
 </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true" width="90%" style="max-width: 600px;" alt="Top Contributed Repo" />
-  </picture>
-</p>
 
 
 
@@ -294,11 +286,7 @@
 <h2 align="center">🐍 Watch the Snake Eat My Contributions!</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" style="max-width: 800px;" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Shubh2-0/Shubh2-0/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" style="max-width: 800px;" />
 </p>
 
 <p align="center">
