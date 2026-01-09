@@ -297,18 +297,6 @@
 
 
 
-## 🎯 **Recent GitHub Activity**
-
-<!--START_SECTION:activity-->
-- Pushed 0 commit(s) to [Shubh2-0/Shubh2-0.github.io](https://github.com/Shubh2-0/Shubh2-0.github.io)
-- Pushed 0 commit(s) to [Shubh2-0/Shubh2-0](https://github.com/Shubh2-0/Shubh2-0)
-- Pushed 0 commit(s) to [Shubh2-0/Shubh2-0](https://github.com/Shubh2-0/Shubh2-0)
-- Pushed 0 commit(s) to [Shubh2-0/SkyScope](https://github.com/Shubh2-0/SkyScope)
-- Pushed 0 commit(s) to [Shubh2-0/Learning_Python](https://github.com/Shubh2-0/Learning_Python)
-<!--END_SECTION:activity-->
-
-<br>
-
 ## 💭 **Dev Quote of the Day**
 
 <p align="center">
