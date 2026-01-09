@@ -280,17 +280,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9745F5&center=true&vCenter=true&width=300&lines=%3C+KeepCoding+%2F%3E" alt="Keep Coding" />
-</p>
-
-<h2 align="center">🐍 Watch the Snake Eat My Contributions!</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubh2-0/Shubh2-0/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" style="max-width: 800px;" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Thank+You+for+Visiting!+%F0%9F%98%8A;Let's+Connect+and+Build+Together!" alt="Thank You" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Thank+You+for+Visiting!;Let's+Connect+and+Build+Together!" alt="Thank You" />
 </p>
 
 <p align="center">
