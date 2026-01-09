@@ -96,7 +96,7 @@
 
 <br>
 
-## 🤝 **Connect with me**
+## <img src="/Images/connect.gif" width="30"> **Connect with me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Shubh2-0" target="_blank">
