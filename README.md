@@ -15,11 +15,17 @@
   <img src="https://img.shields.io/github/followers/Shubh2-0?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
  
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=750&height=100&lines=Backend+Engineer+(Java)+%7C+2%2B+Years+Experience;Microservices+%7C+Spring+Boot+%7C+AWS+%7C+REST+APIs;Building+Scalable+Enterprise+Solutions"></h3>
+<p align="center">
+  <a href="https://github.com/Shubh2-0">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+(Java)+%7C+2%2B+Years+Experience;Microservices+%7C+Spring+Boot+%7C+AWS+%7C+REST+APIs;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
- <img align="right" src="/Images/developer.gif" alt="Coder GIF" width="400" height="300">  
+<p align="center">
+  <img src="/Images/developer.gif" alt="Coder GIF" width="350" style="max-width: 100%;">
+</p>  
 
-## <picture><img src = "/Images/about_me.gif" width = 50px></picture> **About me**
+## <img src = "/Images/about_me.png" width = 40px> **About me**
 
 - 💼 **Backend Engineer (Java)** with **2+ years** of experience building enterprise-grade solutions.
 
@@ -90,7 +96,7 @@
 
 ## 📅 **Contribution Calendar**
 <p align="center">
-  <img src="https://ghchart.rshah.org/Shubh2-0" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/9745F5/Shubh2-0" alt="GitHub Contribution Chart" width="100%" style="max-width: 800px;" />
 </p>
 
 <br>
@@ -98,122 +104,122 @@
 ## <h3 align="left"><img src = "/Images/tech_stacks.gif" width = 24px>   Tech Stacks :</h3>
 <table align="center">
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/java.png" width="60" height="60" /><br>Java
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/java.png" width="50" height="50" /><br>Java
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/springb.png" width="60" height="60" /><br>Spring Boot
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/springb.png" width="50" height="50" /><br>Spring Boot
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/springsecurity.png" width="60" height="60" /><br>Spring Security
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/springsecurity.png" width="50" height="50" /><br>Spring Security
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/hibernate.png" width="60" height="60" /><br>Hibernate
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/hibernate.png" width="50" height="50" /><br>Hibernate
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/restful.png" width="60" height="60" /><br>REST APIs
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/restful.png" width="50" height="50" /><br>REST APIs
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/mysql.png" width="60" height="60" /><br>MySQL
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/mysql.png" width="50" height="50" /><br>MySQL
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/mongoDB.png" width="60" height="60" /><br>MongoDB
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/aws.svg" width="60" height="60" /><br>AWS SQS
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/rabbitmq.svg" width="60" height="60" /><br>RabbitMQ
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/kafka.png" width="60" height="60" /><br>Apache Kafka
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/postgresql.svg" width="60" height="60" /><br>PostgreSQL
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/docker.svg" width="60" height="60" /><br>Docker
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/maven.png" width="60" height="60" /><br>Maven
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/git.png" width="60" height="60" /><br>Git
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/mongoDB.png" width="50" height="50" /><br>MongoDB
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/js.png" width="60" height="60" /><br>JavaScript
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/aws.svg" width="50" height="50" /><br>AWS SQS
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/python.png" width="60" height="60" /><br>Python
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/rabbitmq.svg" width="50" height="50" /><br>RabbitMQ
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/bash.svg" width="60" height="60" /><br>Bash
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/kafka.png" width="50" height="50" /><br>Apache Kafka
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/openAI.png" width="60" height="60" /><br>OpenAI API
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/postgresql.svg" width="50" height="50" /><br>PostgreSQL
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/gemini.svg" width="60" height="60" /><br>Gemini
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/docker.svg" width="50" height="50" /><br>Docker
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/postman.png" width="60" height="60" /><br>Postman
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/maven.png" width="50" height="50" /><br>Maven
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/swagger.png" width="60" height="60" /><br>Swagger
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/IntelliJ IDEA.png" width="60" height="60" /><br>IntelliJ IDEA
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/vscode.png" width="60" height="60" /><br>VS Code
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/github.png" width="60" height="60" /><br>GitHub
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/spring.png" width="60" height="60" /><br>Spring
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/junit.svg" width="60" height="60" /><br>JUnit
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/vaadin.svg" width="60" height="60" /><br>Vaadin
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/lambok.png" width="60" height="60" /><br>Lombok
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/git.png" width="50" height="50" /><br>Git
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/claude.png" width="60" height="60" /><br>Claude AI
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/js.png" width="50" height="50" /><br>JavaScript
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/html.png" width="60" height="60" /><br>HTML
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/python.png" width="50" height="50" /><br>Python
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/css.png" width="60" height="60" /><br>CSS
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/bash.svg" width="50" height="50" /><br>Bash
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/jenkins.svg" width="60" height="60" /><br>CI/CD
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/openAI.png" width="50" height="50" /><br>OpenAI API
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/jdbc.png" width="60" height="60" /><br>JDBC
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/gemini.svg" width="50" height="50" /><br>Gemini
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/linux.svg" width="60" height="60" /><br>Linux
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/postman.png" width="50" height="50" /><br>Postman
     </td>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="/Images/json.svg" width="60" height="60" /><br>JSON/REST
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/swagger.png" width="50" height="50" /><br>Swagger
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/IntelliJ IDEA.png" width="50" height="50" /><br>IntelliJ IDEA
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/vscode.png" width="50" height="50" /><br>VS Code
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/github.png" width="50" height="50" /><br>GitHub
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/spring.png" width="50" height="50" /><br>Spring
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/junit.svg" width="50" height="50" /><br>JUnit
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/vaadin.svg" width="50" height="50" /><br>Vaadin
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/lambok.png" width="50" height="50" /><br>Lombok
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/claude.png" width="50" height="50" /><br>Claude AI
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/html.png" width="50" height="50" /><br>HTML
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/css.png" width="50" height="50" /><br>CSS
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/jenkins.svg" width="50" height="50" /><br>CI/CD
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/jdbc.png" width="50" height="50" /><br>JDBC
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/linux.svg" width="50" height="50" /><br>Linux
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/json.svg" width="50" height="50" /><br>JSON/REST
     </td>
   </tr>
 </table>
@@ -229,23 +235,14 @@
 
 
 ## <img src="/Images/github_stats.gif" width="25px"> **Github stats**
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=10" width="90%" style="max-width: 500px;" alt="GitHub Streak Stats">
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=midnight-purple&hide_border=true" width="500px" alt="GitHub Streak Stats">
-
-<br><br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10" width="48%" style="max-width: 400px;" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh2-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" width="40%" style="max-width: 350px;" alt="Top Languages">
 </p>
 
   
@@ -255,36 +252,38 @@
                                                      
                                                                               
                                                                                
-<h2 align="left">⚡Activity Graph:</h2>
+<h2 align="center">⚡ Activity Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh2-0&theme=tokyo-night&hide_border=true&radius=10" width="100%" style="max-width: 900px;" alt="Activity Graph" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shubh2-0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="90%" style="max-width: 600px;" alt="Top Contributed Repo" />
+</p>
 
 
 
 
 
 
-<div align="center" >
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=red&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
- 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9745F5&center=true&vCenter=true&width=300&lines=%3C+KeepCoding+%2F%3E" alt="Keep Coding" />
+</p>
 
 <h2 align="center">🐍 Watch the Snake Eat My Contributions!</h2>
 
 <p align="center">
-  <img src="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Shubh2-0/Shubh2-0/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" style="max-width: 800px;" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9745F5&center=true&vCenter=true&width=450&lines=Thank+You+for+Visiting!+%F0%9F%98%8A;Let's+Connect+and+Build+Together!" alt="Thank You" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting!;%3E+Let's+Connect+and+Build+Together!)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" />
+</p>
 
 
 
