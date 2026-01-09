@@ -297,14 +297,6 @@
 
 
 
-
-
-
-## ☕ **Support My Work**
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shubhambhati" target="_blank">
-
 ## 🎯 **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
