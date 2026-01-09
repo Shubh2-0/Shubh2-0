@@ -1,12 +1,12 @@
 <img src="video.gif" width="100%"  style="max-width:100%;">
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="/Images/earth.gif" width="24px" style="max-width:100%;">
   </a> 
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 
   <a target="_blank">
   </a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="/Images/wave.gif" width="40">
                
 <h1 align="center">I'm Shubham Bhati</h1>
 
@@ -17,9 +17,9 @@
  
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=750&height=100&lines=Backend+Engineer+(Java)+%7C+2%2B+Years+Experience;Microservices+%7C+Spring+Boot+%7C+AWS+%7C+REST+APIs;Building+Scalable+Enterprise+Solutions"></h3>
 
- <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">  
+ <img align="right" src="/Images/developer.gif" alt="Coder GIF" width="400" height="300">  
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "/Images/about_me.gif" width = 50px></picture> **About me**
 
 - 💼 **Backend Engineer (Java)** with **2+ years** of experience building enterprise-grade solutions.
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Work Experience**
+## <img src="/Images/work_experience.gif" width="30"> **Work Experience**
 
 <table>
   <tr>
@@ -76,9 +76,9 @@
  
  <p align="left">
   <a href="https://www.linkedin.com/in/Shubh2-0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
-<a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px"  alt="whatsapp-me" /></a>&emsp; 
+  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="/Images/gmail.png"  width="40px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="/Images/whatsapp.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
+<a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="/Images/hackerrank.svg" width="40px"  alt="hackerrank" /></a>&emsp; 
 		
 	
 	
@@ -95,7 +95,7 @@
 
 <br>
 
-## <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks :</h3>
+## <h3 align="left"><img src = "/Images/tech_stacks.gif" width = 24px>   Tech Stacks :</h3>
 <table align="center">
   <tr>
     <td align="center" width="150" style="padding: 10px;">
@@ -123,19 +123,19 @@
 
   <tr>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" /><br>AWS SQS
+      <img src="/Images/aws.svg" width="60" height="60" /><br>AWS SQS
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="60" height="60" /><br>RabbitMQ
+      <img src="/Images/rabbitmq.svg" width="60" height="60" /><br>RabbitMQ
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/kafka.png" width="60" height="60" /><br>Apache Kafka
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><br>PostgreSQL
+      <img src="/Images/postgresql.svg" width="60" height="60" /><br>PostgreSQL
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" /><br>Docker
+      <img src="/Images/docker.svg" width="60" height="60" /><br>Docker
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/maven.png" width="60" height="60" /><br>Maven
@@ -153,13 +153,13 @@
       <img src="/Images/python.png" width="60" height="60" /><br>Python
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" /><br>Bash
+      <img src="/Images/bash.svg" width="60" height="60" /><br>Bash
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/openAI.png" width="60" height="60" /><br>OpenAI API
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="60" height="60" /><br>Gemini
+      <img src="/Images/gemini.svg" width="60" height="60" /><br>Gemini
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/postman.png" width="60" height="60" /><br>Postman
@@ -183,10 +183,10 @@
       <img src="/Images/spring.png" width="60" height="60" /><br>Spring
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="60" height="60" /><br>JUnit
+      <img src="/Images/junit.svg" width="60" height="60" /><br>JUnit
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vaadin/vaadin-original.svg" width="60" height="60" /><br>Vaadin
+      <img src="/Images/vaadin.svg" width="60" height="60" /><br>Vaadin
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/lambok.png" width="60" height="60" /><br>Lombok
@@ -195,7 +195,7 @@
 
   <tr>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="60" height="60" /><br>Claude AI
+      <img src="/Images/claude.png" width="60" height="60" /><br>Claude AI
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/html.png" width="60" height="60" /><br>HTML
@@ -204,16 +204,16 @@
       <img src="/Images/css.png" width="60" height="60" /><br>CSS
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" /><br>CI/CD
+      <img src="/Images/jenkins.svg" width="60" height="60" /><br>CI/CD
     </td>
     <td align="center" width="150" style="padding: 10px;">
       <img src="/Images/jdbc.png" width="60" height="60" /><br>JDBC
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" /><br>Linux
+      <img src="/Images/linux.svg" width="60" height="60" /><br>Linux
     </td>
     <td align="center" width="150" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" /><br>JSON/REST
+      <img src="/Images/json.svg" width="60" height="60" /><br>JSON/REST
     </td>
   </tr>
 </table>
@@ -228,7 +228,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
+## <img src="/Images/github_stats.gif" width="25px"> **Github stats**
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=midnight-purple&hide_border=true" width="500px" alt="GitHub Streak Stats">
