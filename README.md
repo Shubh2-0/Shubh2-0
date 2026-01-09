@@ -306,8 +306,10 @@
 
 ## 💭 **Dev Quote of the Day**
 
-<!--START_SECTION:quote-->
-<!--END_SECTION:quote-->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
 
 <br>
 
