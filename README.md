@@ -251,14 +251,6 @@
 
 <br>
 
-## 📈 **Recent GitHub Activity**
-
-<!--START_SECTION:activity-->
-1. 🎉 Activity will appear here automatically!
-<!--END_SECTION:activity-->
-
-<br>
-
 
 
 
