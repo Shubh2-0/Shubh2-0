@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/AlignBits_LLC-Junior_Software_Engineer-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/AlignBits_LLC-Software_Engineer-blue?style=for-the-badge" />
       <br>
       <b>Client:</b> Justransform iPaaS Platform
       <br>
