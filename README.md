@@ -1,4 +1,4 @@
-<img src="video.gif" width="100%" style="max-width:100%;">
+<img src="video.gif" width="30%" style="max-width:30%;">
 
 <h1 align="center">Shubham Bhati</h1>
 <h3 align="center">Software Engineer (Java) • 2+ Years • Microservices & AI Automation</h3>
