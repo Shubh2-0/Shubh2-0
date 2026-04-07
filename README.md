@@ -1,7 +1,7 @@
 <!-- <img src="video.gif" width="30%" style="max-width:30%;"> -->
 
 <h1 align="center">Shubham Bhati</h1>
-<h3 align="center">Software Engineer (Java) • 2+ Years • Microservices & AI Automation</h3>
+<h3 align="center">Software Engineer (Java) • 3+ Years • Microservices & AI Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -38,7 +38,7 @@ Software Engineer with **2+ years** building enterprise-grade systems.
 ## <img src="/Images/work_experience.gif" width="24px" /> &nbsp;Experience
 
 ### 🔷 AlignBits LLC — Software Engineer
-<sup>Justransform iPaaS Platform • Aug 2024 - Present • Dubai, UAE (Remote)</sup>
+<sup>Justransform iPaaS Platform • Sep 2024 - Present • Dubai, UAE (Remote)</sup>
 
 | Impact | Details |
 |--------|---------|
@@ -49,7 +49,7 @@ Software Engineer with **2+ years** building enterprise-grade systems.
 | 🔐 **Security** | OAuth 2.0, JWT, Spring Security implementation |
 
 ### 🔷 IHX Private Limited — Associate Software Engineer
-<sup>Healthcare Claims Processing • Sep 2023 - Jun 2024 • Bengaluru, India</sup>
+<sup>Healthcare Claims Processing • Jun 2023 - Aug 2024 • Bengaluru, India</sup>
 
 | Impact | Details |
 |--------|---------|
