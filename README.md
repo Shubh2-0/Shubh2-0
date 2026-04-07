@@ -1,7 +1,7 @@
 <!-- <img src="video.gif" width="30%" style="max-width:30%;"> -->
 
 <h1 align="center">Shubham Bhati</h1>
-<h3 align="center">Software Engineer (Java) • 3+ Years • Microservices & AI Automation</h3>
+<h3 align="center">Software Engineer (Java) • 3 Years • Microservices & AI Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
