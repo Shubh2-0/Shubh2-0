@@ -19,7 +19,7 @@
 
 <img align="right" src="/Images/developer.gif" alt="Coding" width="270" />
 
-Software Engineer with **2+ years** building enterprise-grade systems.
+Software Engineer with **3 years** building enterprise-grade systems.
 
 **What I do:**
 - 🔧 Build **distributed microservices** for enterprise platforms
