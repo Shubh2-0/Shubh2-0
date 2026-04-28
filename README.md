@@ -1,7 +1,14 @@
 <!-- <img src="video.gif" width="30%" style="max-width:30%;"> -->
 
-<h1 align="center">Shubham Bhati</h1>
-<h3 align="center">Software Engineer (Java) • 3 Years • Microservices & AI Automation</h3>
+<p align="center">
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Shubham+Bhati" alt="Shubham Bhati" />
+  </picture>
+</p>
+
+<p align="center">
+  <b>Software Engineer (Java) • 3 Years • Microservices & AI Automation</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -15,7 +22,10 @@
 
 ---
 
-## <img src="/Images/about_me.gif" width="28px" /> &nbsp;About Me
+<p>
+  <img src="/Images/about_me.gif" width="28px" align="center" />
+  &nbsp;<b><ins>About Me</ins></b>
+</p>
 
 <img align="right" src="/Images/developer.gif" alt="Coding" width="270" />
 
@@ -23,7 +33,7 @@ Software Engineer with **3 years** building enterprise-grade systems.
 
 **What I do:**
 - 🔧 Build **distributed microservices** for enterprise platforms
-- 🤖 Develop **AI-powered automation** (OpenAI, Gemini)
+- 🤖 Develop **AI-powered automation** (OpenAI Gemini)
 - ⚡ Optimize **high-traffic backend systems**
 - 🚀 Ship **production systems** serving real clients
 
@@ -35,10 +45,15 @@ Software Engineer with **3 years** building enterprise-grade systems.
 
 ---
 
-## <img src="/Images/work_experience.gif" width="24px" /> &nbsp;Experience
+<p>
+  <img src="/Images/work_experience.gif" width="24px" align="center" />
+  &nbsp;<b><ins>Experience</ins></b>
+</p>
 
-### 🔷 AlignBits LLC — Software Engineer
-<sup>Justransform iPaaS Platform • Sep 2024 - Present • Dubai, UAE (Remote)</sup>
+<p>
+  🔷 <b>AlignBits LLC — Software Engineer</b><br>
+  <sup>Justransform iPaaS Platform • Sep 2024 - Present • Dubai UAE (Remote)</sup>
+</p>
 
 | Impact | Details |
 |--------|---------|
@@ -46,10 +61,12 @@ Software Engineer with **3 years** building enterprise-grade systems.
 | 🤖 **AI Automation** | Built OpenAI-powered pipeline — **reduced manual debugging by 30%** |
 | ⚡ **Reliability** | Designed orchestration engine; resolved **15+ critical production incidents** |
 | 📨 **Async Processing** | AWS SQS for high-throughput transactions at scale |
-| 🔐 **Security** | OAuth 2.0, JWT, Spring Security implementation |
+| 🔐 **Security** | OAuth 2.0 JWT Spring Security implementation |
 
-### 🔷 IHX Private Limited — Associate Software Engineer
-<sup>Healthcare Claims Processing • Jun 2023 - Aug 2024 • Bengaluru, India</sup>
+<p>
+  🔷 <b>IHX Private Limited — Associate Software Engineer</b><br>
+  <sup>Healthcare Claims Processing • Jun 2023 - Aug 2024 • Bengaluru India</sup>
+</p>
 
 | Impact | Details |
 |--------|---------|
@@ -59,7 +76,9 @@ Software Engineer with **3 years** building enterprise-grade systems.
 
 ---
 
-## 🛠️ Tech Stack
+<p>
+  🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
+</p>
 
 <table align="center">
   <tr>
@@ -106,7 +125,9 @@ Software Engineer with **3 years** building enterprise-grade systems.
 
 ---
 
-## 📊 GitHub Stats
+<p>
+  📊 &nbsp;<b><ins>GitHub Stats</ins></b>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
@@ -115,7 +136,9 @@ Software Engineer with **3 years** building enterprise-grade systems.
 
 ---
 
-## 📬 Let's Connect
+<p>
+  📬 &nbsp;<b><ins>Let's Connect</ins></b>
+</p>
 
 <p align="center">
   <b>Open to Software Engineer / Backend Developer / Java Developer roles</b><br>
@@ -141,6 +164,3 @@ Software Engineer with **3 years** building enterprise-grade systems.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
 </p>
-
-
-
