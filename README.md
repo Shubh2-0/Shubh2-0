@@ -27,7 +27,9 @@
   &nbsp;<b><ins>About Me</ins></b>
 </p>
 
-<img align="right" src="/Images/developer.gif" alt="Coding" width="270" />
+<p align="center">
+  <img src="/Images/developer.gif" alt="Coding" width="240" />
+</p>
 
 Software Engineer with **3 years** building enterprise-grade systems.
 
@@ -40,8 +42,6 @@ Software Engineer with **3 years** building enterprise-grade systems.
 **Currently:** Building iPaaS at **Justransform** (Dubai) via **AlignBits LLC**
 
 **Previously:** Healthcare backend systems at **IHX Private Limited**
-
-<br clear="right"/>
 
 ---
 
@@ -80,48 +80,30 @@ Software Engineer with **3 years** building enterprise-grade systems.
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="/Images/java.png" width="42" height="42" /><br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/springb.png" width="42" height="42" /><br><sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/springsecurity.png" width="42" height="42" /><br><sub><b>Security</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/hibernate.png" width="42" height="42" /><br><sub><b>Hibernate</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/mysql.png" width="42" height="42" /><br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/mongoDB.png" width="42" height="42" /><br><sub><b>MongoDB</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="/Images/aws.svg" width="42" height="42" /><br><sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/rabbitmq.svg" width="42" height="42" /><br><sub><b>RabbitMQ</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/docker.svg" width="42" height="42" /><br><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/openAI.png" width="42" height="42" /><br><sub><b>OpenAI</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/git.png" width="42" height="42" /><br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="/Images/postgresql.svg" width="42" height="42" /><br><sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/Images/java.png" width="48" height="48" alt="Java" title="Java" />&nbsp;
+  <img src="/Images/springb.png" width="48" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;
+  <img src="/Images/springsecurity.png" width="48" height="48" alt="Spring Security" title="Spring Security" />&nbsp;
+  <img src="/Images/hibernate.png" width="48" height="48" alt="Hibernate" title="Hibernate" />&nbsp;
+  <img src="/Images/mysql.png" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="/Images/mongoDB.png" width="48" height="48" alt="MongoDB" title="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="/Images/aws.svg" width="48" height="48" alt="AWS" title="AWS" />&nbsp;
+  <img src="/Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
+  <img src="/Images/docker.svg" width="48" height="48" alt="Docker" title="Docker" />&nbsp;
+  <img src="/Images/openAI.png" width="48" height="48" alt="OpenAI" title="OpenAI" />&nbsp;
+  <img src="/Images/git.png" width="48" height="48" alt="Git" title="Git" />&nbsp;
+  <img src="/Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+</p>
+
+<p align="center">
+  <sub>
+    <b>Java</b> • <b>Spring Boot</b> • <b>Security</b> • <b>Hibernate</b> • <b>MySQL</b> • <b>MongoDB</b><br>
+    <b>AWS</b> • <b>RabbitMQ</b> • <b>Docker</b> • <b>OpenAI</b> • <b>Git</b> • <b>PostgreSQL</b>
+  </sub>
+</p>
 
 ---
 
@@ -130,8 +112,11 @@ Software Engineer with **3 years** building enterprise-grade systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="95%" />
 </p>
 
 ---
@@ -146,7 +131,7 @@ Software Engineer with **3 years** building enterprise-grade systems.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:shubhambhati226@gmail.com"><b>shubhambhati226@gmail.com</b></a> • 
+  📧 <a href="mailto:shubhambhati226@gmail.com"><b>shubhambhati226@gmail.com</b></a><br>
   📱 <b>+91 6232133187</b>
 </p>
 
