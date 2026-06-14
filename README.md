@@ -14,12 +14,6 @@
   <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✅_Open_to_Software_Engineer_Roles-28A745?style=for-the-badge" />
-</p>
-
 ---
 
 <p>
@@ -120,8 +114,8 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 </p>
 
 <p align="center">
-  <b>Open to Software Engineer / Backend Developer / Java Developer roles</b><br>
-  Remote & On-site • India & International
+  <b>Let's collaborate on backend engineering, microservices and system design!</b><br>
+  Based in Noida, India
 </p>
 
 <p align="center">
