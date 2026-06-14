@@ -92,30 +92,12 @@ Software Engineer with **3+ years** building enterprise-grade systems.
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<p align="center">
-  <img src="/Images/java.png" width="48" height="48" alt="Java" title="Java" />&nbsp;
-  <img src="/Images/springb.png" width="48" height="48" alt="Spring Boot" title="Spring Boot" />&nbsp;
-  <img src="/Images/springsecurity.png" width="48" height="48" alt="Spring Security" title="Spring Security" />&nbsp;
-  <img src="/Images/hibernate.png" width="48" height="48" alt="Hibernate" title="Hibernate" />&nbsp;
-  <img src="/Images/mysql.png" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="/Images/mongoDB.png" width="48" height="48" alt="MongoDB" title="MongoDB" />
-</p>
-
-<p align="center">
-  <img src="/Images/aws.svg" width="48" height="48" alt="AWS" title="AWS" />&nbsp;
-  <img src="/Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
-  <img src="/Images/docker.svg" width="48" height="48" alt="Docker" title="Docker" />&nbsp;
-  <img src="/Images/openAI.png" width="48" height="48" alt="OpenAI" title="OpenAI" />&nbsp;
-  <img src="/Images/git.png" width="48" height="48" alt="Git" title="Git" />&nbsp;
-  <img src="/Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-</p>
-
-<p align="center">
-  <sub>
-    <b>Java</b> • <b>Spring Boot</b> • <b>Microservices</b> • <b>Security</b> • <b>Hibernate</b> • <b>MySQL</b> • <b>MongoDB</b> • <b>PostgreSQL</b><br>
-    <b>Apache Kafka</b> • <b>Redis Caching</b> • <b>AWS</b> • <b>RabbitMQ</b> • <b>Docker</b> • <b>OpenAI & Gemini (AI)</b> • <b>Git</b>
-  </sub>
-</p>
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./Images/java.png" width="24" height="24" align="center" /> **Java** | <img src="./Images/springb.png" width="24" height="24" align="center" /> **Spring Boot** | <img src="./Images/springsecurity.png" width="24" height="24" align="center" /> **Spring Security** | <img src="./Images/hibernate.png" width="24" height="24" align="center" /> **Hibernate ORM** | <img src="./Images/restful.png" width="24" height="24" align="center" /> **REST APIs & Microservices** |
+| <img src="./Images/kafka.png" width="24" height="24" align="center" /> **Apache Kafka** | <img src="https://skillicons.dev/icons?i=redis" width="24" height="24" align="center" /> **Redis Caching** | <img src="./Images/rabbitmq.svg" width="24" height="24" align="center" /> **RabbitMQ** | <img src="./Images/aws.svg" width="24" height="24" align="center" /> **AWS SQS** | <img src="./Images/postgresql.svg" width="24" height="24" align="center" /> **PostgreSQL** |
+| <img src="./Images/mysql.png" width="24" height="24" align="center" /> **MySQL** | <img src="./Images/mongoDB.png" width="24" height="24" align="center" /> **MongoDB** | <img src="./Images/openAI.png" width="24" height="24" align="center" /> **OpenAI API** | <img src="./Images/gemini.svg" width="24" height="24" align="center" /> **Gemini API** | <img src="./Images/docker.svg" width="24" height="24" align="center" /> **Docker** |
+| <img src="./Images/git.png" width="24" height="24" align="center" /> **Git** | <img src="./Images/junit.svg" width="24" height="24" align="center" /> **JUnit 5** | <img src="./Images/postman.png" width="24" height="24" align="center" /> **Postman** | <img src="./Images/python.png" width="24" height="24" align="center" /> **Python** | <img src="./Images/bash.svg" width="24" height="24" align="center" /> **Bash** |
 
 ---
 
