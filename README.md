@@ -112,8 +112,8 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 
 <p align="center">
   <sub>
-    <b>Java</b> • <b>Spring Boot</b> • <b>Security</b> • <b>Hibernate</b> • <b>MySQL</b> • <b>MongoDB</b><br>
-    <b>AWS</b> • <b>RabbitMQ</b> • <b>Docker</b> • <b>OpenAI</b> • <b>Git</b> • <b>PostgreSQL</b>
+    <b>Java</b> • <b>Spring Boot</b> • <b>Microservices</b> • <b>Security</b> • <b>Hibernate</b> • <b>MySQL</b> • <b>MongoDB</b> • <b>PostgreSQL</b><br>
+    <b>Apache Kafka</b> • <b>Redis Caching</b> • <b>AWS</b> • <b>RabbitMQ</b> • <b>Docker</b> • <b>OpenAI & Gemini (AI)</b> • <b>Git</b>
   </sub>
 </p>
 
