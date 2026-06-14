@@ -52,7 +52,7 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 
 <p>
   🔷 <b>MobilePe — Java Backend Engineer</b><br>
-  <sup>Fintech & Payment Systems • Jun 2026 - Present • Gurgaon India</sup>
+  <sup>Fintech & Payment Systems • Jun 2026 - Present • Noida, India</sup>
 </p>
 
 | Impact | Details |
