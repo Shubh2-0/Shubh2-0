@@ -31,17 +31,17 @@
   <img src="/Images/developer.gif" alt="Coding" width="240" />
 </p>
 
-Software Engineer with **3 years** building enterprise-grade systems.
+Software Engineer with **3+ years** building enterprise-grade systems.
 
 **What I do:**
-- 🔧 Build **distributed microservices** for enterprise platforms
-- 🤖 Develop **AI-powered automation** (OpenAI Gemini)
-- ⚡ Optimize **high-traffic backend systems**
-- 🚀 Ship **production systems** serving real clients
+- 🔧 Build **distributed microservices** and event-driven architectures (Kafka)
+- ⚡ Optimize API response times and cache efficiency (Redis)
+- 🤖 Develop **AI-powered automation** (OpenAI & Gemini integration)
+- 🚀 Ship robust, low-latency backend transactional platforms
 
-**Currently:** Building iPaaS at **Justransform** (Dubai) via **AlignBits LLC**
+**Currently:** Java Backend Engineer at **MobilePe Fintech Private Limited**
 
-**Previously:** Healthcare backend systems at **IHX Private Limited**
+**Previously:** Building iPaaS at **Justransform** via **AlignBits LLC** & healthcare systems at **IHX Private Limited**
 
 ---
 
@@ -51,8 +51,20 @@ Software Engineer with **3 years** building enterprise-grade systems.
 </p>
 
 <p>
+  🔷 <b>MobilePe — Java Backend Engineer</b><br>
+  <sup>Fintech & Payment Systems • Jun 2026 - Present • Gurgaon India</sup>
+</p>
+
+| Impact | Details |
+|--------|---------|
+| 🚀 **Event Streaming** | Implemented **Apache Kafka** for high-throughput transactional events |
+| ⚡ **Latency Caching** | Integrated **Redis Caching** and custom request handlers to decrease database hits |
+| 🛡️ **Cache Security** | Formulated strategies using **Bloom Filters** to prevent cache penetration |
+| 🏗️ **Scalability** | Developing secure REST APIs with Spring Boot and PostgreSQL |
+
+<p>
   🔷 <b>AlignBits LLC — Software Engineer</b><br>
-  <sup>Justransform iPaaS Platform • Sep 2024 - Present • Dubai UAE (Remote)</sup>
+  <sup>Justransform iPaaS Platform • Sep 2024 - May 2026 • Dubai UAE (Remote)</sup>
 </p>
 
 | Impact | Details |
