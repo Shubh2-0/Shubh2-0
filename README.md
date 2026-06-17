@@ -86,12 +86,36 @@ Software Engineer with **3+ years** building enterprise-grade systems.
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="./Images/java.png" width="48" height="48" alt="Java" /><br>Java | <img src="./Images/springb.png" width="48" height="48" alt="Spring Boot" /><br>Spring Boot | <img src="./Images/springsecurity.png" width="48" height="48" alt="Spring Security" /><br>Spring Security | <img src="./Images/hibernate.png" width="48" height="48" alt="Hibernate" /><br>Hibernate ORM | <img src="./Images/restful.png" width="48" height="48" alt="REST APIs" /><br>REST APIs &amp; Microservices |
-| <img src="./Images/kafka.png" width="48" height="48" alt="Kafka" /><br>Apache Kafka | <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis Caching | <img src="./Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ | <img src="./Images/aws.svg" width="48" height="48" alt="AWS SQS" /><br>AWS SQS | <img src="./Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL |
-| <img src="./Images/mysql.png" width="48" height="48" alt="MySQL" /><br>MySQL | <img src="./Images/mongoDB.png" width="48" height="48" alt="MongoDB" /><br>MongoDB | <img src="./Images/openAI.png" width="48" height="48" alt="OpenAI" /><br>OpenAI API | <img src="./Images/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini API | <img src="./Images/docker.svg" width="48" height="48" alt="Docker" /><br>Docker |
-| <img src="./Images/git.png" width="48" height="48" alt="Git" /><br>Git | <img src="./Images/junit.svg" width="48" height="48" alt="JUnit 5" /><br>JUnit 5 | <img src="./Images/postman.png" width="48" height="48" alt="Postman" /><br>Postman | <img src="./Images/python.png" width="48" height="48" alt="Python" /><br>Python | <img src="./Images/bash.svg" width="48" height="48" alt="Bash" /><br>Bash |
+<table align="center">
+  <tr align="center">
+    <td><img src="./Images/java.png" width="48" height="48" alt="Java" /><br>Java</td>
+    <td><img src="./Images/springb.png" width="48" height="48" alt="Spring Boot" /><br>Spring Boot</td>
+    <td><img src="./Images/springsecurity.png" width="48" height="48" alt="Spring Security" /><br>Spring Security</td>
+    <td><img src="./Images/hibernate.png" width="48" height="48" alt="Hibernate" /><br>Hibernate ORM</td>
+    <td><img src="./Images/restful.png" width="48" height="48" alt="REST APIs" /><br>REST APIs &amp; Microservices</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/kafka.png" width="48" height="48" alt="Kafka" /><br>Apache Kafka</td>
+    <td><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis Caching</td>
+    <td><img src="./Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ</td>
+    <td><img src="./Images/aws.svg" width="48" height="48" alt="AWS SQS" /><br>AWS SQS</td>
+    <td><img src="./Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/mysql.png" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td><img src="./Images/mongoDB.png" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td><img src="./Images/openAI.png" width="48" height="48" alt="OpenAI" /><br>OpenAI API</td>
+    <td><img src="./Images/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini API</td>
+    <td><img src="./Images/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/git.png" width="48" height="48" alt="Git" /><br>Git</td>
+    <td><img src="./Images/junit.svg" width="48" height="48" alt="JUnit 5" /><br>JUnit 5</td>
+    <td><img src="./Images/postman.png" width="48" height="48" alt="Postman" /><br>Postman</td>
+    <td><img src="./Images/python.png" width="48" height="48" alt="Python" /><br>Python</td>
+    <td><img src="./Images/bash.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
+  </tr>
+</table>
 
 ---
 
