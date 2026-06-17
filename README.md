@@ -27,17 +27,19 @@
   <img src="./Images/developer.gif" alt="Coding" width="240" />
 </p>
 
-Software Engineer with **3+ years** building enterprise-grade systems.
+Software Engineer with **3+ years** of experience building high-throughput, enterprise-grade systems.
 
-**What I do:**
-- 🔧 Build **distributed microservices** and event-driven architectures (Kafka)
-- ⚡ Optimize API response times and cache efficiency (Redis)
-- 🤖 Develop **AI-powered automation** (OpenAI & Gemini integration)
-- 🚀 Ship robust, low-latency backend transactional platforms
+<blockquote>
+  <ul>
+    <li>🔧 <b>Distributed Microservices:</b> Building scalable event-driven architectures utilizing Apache Kafka.</li>
+    <li>⚡ <b>Performance Optimization:</b> Optimizing API latency and caching layers with Redis.</li>
+    <li>🤖 <b>AI Integration:</b> Integrating OpenAI and Gemini APIs for backend automation pipelines.</li>
+    <li>🚀 <b>Robust Delivery:</b> Architecting low-latency transactional platforms and secure REST APIs.</li>
+  </ul>
+</blockquote>
 
-**Currently:** Java Backend Engineer at **MobilePe Fintech Private Limited**
-
-**Previously:** Building iPaaS at **Justransform** via **AlignBits LLC** & healthcare systems at **IHX Private Limited**
+📍 **Currently:** Java Backend Engineer at **MobilePe Fintech Private Limited** (Noida, India)  
+🏢 **Previously:** Software Engineer at **AlignBits LLC / Justransform** & Associate Software Engineer at **IHX Private Limited**
 
 ---
 
@@ -158,16 +160,13 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 
 <p align="center">
   <b>Let's collaborate on backend engineering, microservices and system design!</b><br>
-  Based in Noida, India
+  📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
 </p>
 
 <p align="center">
-  📧 <a href="mailto:shubhambhati226@gmail.com"><b>shubhambhati226@gmail.com</b></a><br>
-  📱 <b>+91 6232133187</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
 
 ---
