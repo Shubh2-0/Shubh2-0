@@ -144,11 +144,11 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Security with JWT: The Complete 2026 Tutorial](https://shubhambhati.is-a.dev/blog/spring-security-jwt-tutorial/) (2026-05-17)
-- [Spring Data JPA Advanced Queries: Specifications, Projections, and Native SQL](https://shubhambhati.is-a.dev/blog/spring-data-jpa-advanced-queries/) (2026-05-17)
-- [Spring Cloud Gateway Tutorial: Build a Microservices API Gateway](https://shubhambhati.is-a.dev/blog/spring-cloud-gateway-tutorial/) (2026-05-17)
-- [Spring Boot Testing Strategies: Unit, Integration, and Contract Tests](https://shubhambhati.is-a.dev/blog/spring-boot-testing-strategies/) (2026-05-17)
-- [Spring Boot REST API Best Practices in 2026: A Production Guide](https://shubhambhati.is-a.dev/blog/spring-boot-rest-api-best-practices-2026/) (2026-05-17)<!-- BLOG-POST-LIST:END -->
+🔷 **[Spring Security with JWT: The Complete 2026 Tutorial](https://shubhambhati.is-a.dev/blog/spring-security-jwt-tutorial/)** — *2026-05-17*
+🔷 **[Spring Data JPA Advanced Queries: Specifications, Projections, and Native SQL](https://shubhambhati.is-a.dev/blog/spring-data-jpa-advanced-queries/)** — *2026-05-17*
+🔷 **[Spring Cloud Gateway Tutorial: Build a Microservices API Gateway](https://shubhambhati.is-a.dev/blog/spring-cloud-gateway-tutorial/)** — *2026-05-17*
+🔷 **[Spring Boot Testing Strategies: Unit, Integration, and Contract Tests](https://shubhambhati.is-a.dev/blog/spring-boot-testing-strategies/)** — *2026-05-17*
+🔷 **[Spring Boot REST API Best Practices in 2026: A Production Guide](https://shubhambhati.is-a.dev/blog/spring-boot-rest-api-best-practices-2026/)** — *2026-05-17*<!-- BLOG-POST-LIST:END -->
 
 ---
 
