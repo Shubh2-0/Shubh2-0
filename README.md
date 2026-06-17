@@ -14,6 +14,8 @@
   <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+</p>
+
 ---
 
 <p>
@@ -46,39 +48,45 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 
 <p>
   🔷 <b>MobilePe — Java Backend Engineer</b><br>
-  <sup>Fintech & Payment Systems • Jun 2026 - Present • Noida, India</sup>
+  <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Noida, India</sub>
 </p>
 
-| Impact | Details |
-|--------|---------|
-| 🚀 **Event Streaming** | Implemented **Apache Kafka** for high-throughput transactional events |
-| ⚡ **Latency Caching** | Integrated **Redis Caching** and custom request handlers to decrease database hits |
-| 🛡️ **Cache Security** | Formulated strategies using **Bloom Filters** to prevent cache penetration |
-| 🏗️ **Scalability** | Developing secure REST APIs with Spring Boot and PostgreSQL |
+<blockquote>
+  <ul>
+    <li>🚀 <b>Event Streaming:</b> Implemented <b>Apache Kafka</b> for high-throughput transactional events.</li>
+    <li>⚡ <b>Latency Caching:</b> Integrated <b>Redis Caching</b> and custom request handlers to decrease database hits.</li>
+    <li>🛡️ <b>Cache Security:</b> Formulated strategies using <b>Bloom Filters</b> to prevent cache penetration.</li>
+    <li>🏗️ <b>Scalability:</b> Developing secure REST APIs with Spring Boot and PostgreSQL.</li>
+  </ul>
+</blockquote>
 
 <p>
   🔷 <b>AlignBits LLC — Software Engineer</b><br>
-  <sup>Justransform iPaaS Platform • Sep 2024 - May 2026 • Dubai UAE (Remote)</sup>
+  <sub>Justransform iPaaS Platform • Sep 2024 - May 2026 • Dubai, UAE (Remote)</sub>
 </p>
 
-| Impact | Details |
-|--------|---------|
-| 🏗️ **Scale** | Core contributor across **5+ enterprise microservices** serving **10+ client pipelines** |
-| 🤖 **AI Automation** | Built OpenAI-powered pipeline — **reduced manual debugging by 30%** |
-| ⚡ **Reliability** | Designed orchestration engine; resolved **15+ critical production incidents** |
-| 📨 **Async Processing** | AWS SQS for high-throughput transactions at scale |
-| 🔐 **Security** | OAuth 2.0 JWT Spring Security implementation |
+<blockquote>
+  <ul>
+    <li>🏗️ <b>Scale:</b> Core contributor across <b>5+ enterprise microservices</b> serving <b>10+ client pipelines</b>.</li>
+    <li>🤖 <b>AI Automation:</b> Built OpenAI-powered pipeline — <b>reduced manual debugging by 30%</b>.</li>
+    <li>⚡ <b>Reliability:</b> Designed orchestration engine; resolved <b>15+ critical production incidents</b>.</li>
+    <li>📨 <b>Async Processing:</b> Leveraged AWS SQS for high-throughput transactions at scale.</li>
+    <li>🔐 <b>Security:</b> Implemented OAuth 2.0 JWT Spring Security.</li>
+  </ul>
+</blockquote>
 
 <p>
   🔷 <b>IHX Private Limited — Associate Software Engineer</b><br>
-  <sup>Healthcare Claims Processing • Jun 2023 - Aug 2024 • Bengaluru India</sup>
+  <sub>Healthcare Claims Processing • Jun 2023 - Aug 2024 • Bengaluru, India</sub>
 </p>
 
-| Impact | Details |
-|--------|---------|
-| 🏥 **Healthcare Backend** | Built transformation engines for complex healthcare JSON processing |
-| 📈 **Query Optimization** | Improved Hibernate ORM queries & MySQL indexes for high-frequency endpoints |
-| ✅ **Validation Pipelines** | Multi-layer validation with custom exception handling |
+<blockquote>
+  <ul>
+    <li>🏥 <b>Healthcare Backend:</b> Built transformation engines for complex healthcare JSON processing.</li>
+    <li>📈 <b>Query Optimization:</b> Improved Hibernate ORM queries &amp; MySQL indexes for high-frequency endpoints.</li>
+    <li>✅ <b>Validation Pipelines:</b> Developed multi-layer validation with custom exception handling.</li>
+  </ul>
+</blockquote>
 
 ---
 
@@ -124,11 +132,9 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="95%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 </p>
 
 ---
