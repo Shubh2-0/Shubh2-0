@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer (Java) • 3 Years • Microservices & AI Automation</b>
+  <b>Java Backend Engineer • 3 Years • Microservices &amp; Event-Driven Architecture</b>
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 ---
 
 <p>
-  <img src="/Images/about_me.gif" width="28px" align="center" />
+  <img src="./Images/about_me.gif" width="28px" align="center" />
   &nbsp;<b><ins>About Me</ins></b>
 </p>
 
 <p align="center">
-  <img src="/Images/developer.gif" alt="Coding" width="240" />
+  <img src="./Images/developer.gif" alt="Coding" width="240" />
 </p>
 
 Software Engineer with **3+ years** building enterprise-grade systems.
@@ -40,7 +40,7 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 ---
 
 <p>
-  <img src="/Images/work_experience.gif" width="24px" align="center" />
+  <img src="./Images/work_experience.gif" width="24px" align="center" />
   &nbsp;<b><ins>Experience</ins></b>
 </p>
 
