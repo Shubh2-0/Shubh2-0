@@ -1,0 +1,22 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://shubhambhati.is-a.dev/blog/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) ($date)"
+          date_format: "yyyy-mm-dd"

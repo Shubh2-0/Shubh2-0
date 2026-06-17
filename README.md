@@ -110,6 +110,15 @@ Software Engineer with **3+ years** building enterprise-grade systems.
 ---
 
 <p>
+  ✍️ &nbsp;<b><ins>Recent Blog Posts</ins></b>
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p>
   📬 &nbsp;<b><ins>Let's Connect</ins></b>
 </p>
 
