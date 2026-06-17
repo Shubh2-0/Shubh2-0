@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://shubhambhati.is-a.dev/blog/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) ($date)"
+          template: "- [$title]($url) ($date)\n"
           date_format: "yyyy-mm-dd"
