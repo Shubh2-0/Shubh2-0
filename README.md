@@ -159,7 +159,7 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <p align="center">
-  <b>Connect with <a href="https://www.linkedin.com/in/bhatishubham/">Shubham Bhati on LinkedIn</a> to collaborate on backend engineering, microservices, and system design!</b><br>
+  <b>Connect with <a href="https://www.linkedin.com/in/bhatishubham/">Shubham Bhati on LinkedIn</a> to collaborate on backend engineering, microservices and system design!</b><br>
   📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
 </p>
 
