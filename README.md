@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham Bhati LinkedIn" /></a>&nbsp;
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
@@ -159,13 +159,13 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <p align="center">
-  <b>Let's collaborate on backend engineering, microservices and system design!</b><br>
+  <b>Connect with <a href="https://www.linkedin.com/in/bhatishubham/">Shubham Bhati on LinkedIn</a> to collaborate on backend engineering, microservices, and system design!</b><br>
   📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
 </p>
 
 <p align="center">
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhatishubham/"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham Bhati LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
 </p>
 
