@@ -38,7 +38,7 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
   </ul>
 </blockquote>
 
-📍 **Currently:** Java Backend Engineer at **MobilePe Fintech Private Limited** (Noida, India)  
+📍 **Currently:** Java Spring Boot Developer at **MobilePe Fintech Private Limited** (Noida, India)  
 🏢 **Previously:** Software Engineer at **AlignBits LLC / Justransform** & Associate Software Engineer at **IHX Private Limited**
 
 ---
@@ -49,7 +49,7 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <p>
-  🔷 <b>MobilePe — Java Backend Engineer</b><br>
+  🔷 <b>MobilePe — Java Spring Boot Developer</b><br>
   <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Noida, India</sub>
 </p>
 
