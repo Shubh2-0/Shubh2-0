@@ -146,11 +146,11 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-🔷 **[Spring Security with JWT: The Complete 2026 Tutorial](https://shubhambhati.is-a.dev/blog/spring-security-jwt-tutorial/)** — *2026-05-17*
-🔷 **[Spring Data JPA Advanced Queries: Specifications, Projections, and Native SQL](https://shubhambhati.is-a.dev/blog/spring-data-jpa-advanced-queries/)** — *2026-05-17*
-🔷 **[Spring Cloud Gateway Tutorial: Build a Microservices API Gateway](https://shubhambhati.is-a.dev/blog/spring-cloud-gateway-tutorial/)** — *2026-05-17*
-🔷 **[Spring Boot Testing Strategies: Unit, Integration, and Contract Tests](https://shubhambhati.is-a.dev/blog/spring-boot-testing-strategies/)** — *2026-05-17*
-🔷 **[Spring Boot REST API Best Practices in 2026: A Production Guide](https://shubhambhati.is-a.dev/blog/spring-boot-rest-api-best-practices-2026/)** — *2026-05-17*<!-- BLOG-POST-LIST:END -->
+🔷 **[Boost API Speed with Smart Spring Boot Caching](https://shubhambhati.is-a.dev/posts/boost-api-speed-with-smart-spring-boot-caching)** — *2026-07-05*
+🔷 **[Idempotent APIs: Your Secret Weapon](https://shubhambhati.is-a.dev/posts/idempotent-apis-your-secret-weapon)** — *2026-07-04*
+🔷 **[Crush N+1 Queries for Faster APIs](https://shubhambhati.is-a.dev/posts/crush-n-1-queries-for-faster-apis)** — *2026-07-03*
+🔷 **[Optimize Read-Heavy API Performance](https://shubhambhati.is-a.dev/posts/optimize-read-heavy-api-performance)** — *2026-07-02*
+🔷 **[Don&#39;t Block Your APIs: Go Async with CompletableFuture](https://shubhambhati.is-a.dev/posts/don-t-block-your-apis-go-async-with-completablefuture)** — *2026-07-01*<!-- BLOG-POST-LIST:END -->
 
 ---
 
