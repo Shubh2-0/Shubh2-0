@@ -16,7 +16,7 @@ jobs:
       - name: Fetch and update blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://shubhambhati.is-a.dev/blog/rss.xml"
+          feed_list: "https://shubhambhati.is-a.dev/backend-utility-tools/rss.xml"
           max_post_count: 5
           template: "$newline🔷 **[$title]($url)** — *$date*"
           date_format: "yyyy-mm-dd"
