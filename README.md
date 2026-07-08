@@ -146,11 +146,11 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+🔷 **[Your `@Transactional` Internal Call Is a Lie](https://shubhambhati.is-a.dev/posts/your-transactional-internal-call-is-a-lie)** — *2026-07-07*
 🔷 **[Stop Your N+1 Queries From Killing Performance](https://shubhambhati.is-a.dev/posts/stop-your-n-1-queries-from-killing-performance)** — *2026-07-06*
 🔷 **[Boost API Speed with Smart Spring Boot Caching](https://shubhambhati.is-a.dev/posts/boost-api-speed-with-smart-spring-boot-caching)** — *2026-07-05*
 🔷 **[Idempotent APIs: Your Secret Weapon](https://shubhambhati.is-a.dev/posts/idempotent-apis-your-secret-weapon)** — *2026-07-04*
-🔷 **[Crush N+1 Queries for Faster APIs](https://shubhambhati.is-a.dev/posts/crush-n-1-queries-for-faster-apis)** — *2026-07-03*
-🔷 **[Optimize Read-Heavy API Performance](https://shubhambhati.is-a.dev/posts/optimize-read-heavy-api-performance)** — *2026-07-02*<!-- BLOG-POST-LIST:END -->
+🔷 **[Crush N+1 Queries for Faster APIs](https://shubhambhati.is-a.dev/posts/crush-n-1-queries-for-faster-apis)** — *2026-07-03*<!-- BLOG-POST-LIST:END -->
 
 ---
 
