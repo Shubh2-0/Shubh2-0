@@ -55,10 +55,10 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 
 <blockquote>
   <ul>
-    <li>🚀 <b>Event Streaming:</b> Implemented <b>Apache Kafka</b> for high-throughput transactional events.</li>
-    <li>⚡ <b>Latency Caching:</b> Integrated <b>Redis Caching</b> and custom request handlers to decrease database hits.</li>
-    <li>🛡️ <b>Cache Security:</b> Formulated strategies using <b>Bloom Filters</b> to prevent cache penetration.</li>
-    <li>🏗️ <b>Scalability:</b> Developing secure REST APIs with Spring Boot and PostgreSQL.</li>
+    <li>🚀 <b>Event Streaming:</b> Engineered and optimized <b>Apache Kafka</b> async pipelines; successfully resolved production-level consumer lag issues by tuning thread and polling concurrency.</li>
+    <li>⚡ <b>Latency Caching:</b> Designed <b>Redis cache handlers</b> and read-through caching engine structures for SOR checks to minimize primary DB load.</li>
+    <li>🛡️ <b>Resource Isolation:</b> Configured a separate, dedicated database routing architecture (<b>Multi-Datasource Config</b>) to isolate heavy reporting exports from core transaction pools.</li>
+    <li>🏗️ <b>Transaction Routing:</b> Designed a polymorphic transaction handler routing system supporting <b>20+ payment handler types</b> (ATM, Refund, PosReversal).</li>
   </ul>
 </blockquote>
 
@@ -69,11 +69,11 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 
 <blockquote>
   <ul>
-    <li>🏗️ <b>Scale:</b> Core contributor across <b>5+ enterprise microservices</b> serving <b>10+ client pipelines</b>.</li>
-    <li>🤖 <b>AI Automation:</b> Built OpenAI-powered pipeline — <b>reduced manual debugging by 30%</b>.</li>
-    <li>⚡ <b>Reliability:</b> Designed orchestration engine; resolved <b>15+ critical production incidents</b>.</li>
-    <li>📨 <b>Async Processing:</b> Leveraged AWS SQS for high-throughput transactions at scale.</li>
-    <li>🔐 <b>Security:</b> Implemented OAuth 2.0 JWT Spring Security.</li>
+    <li>🏗️ <b>Scale:</b> Designed transformation orchestration engines for logistics iPaaS pipelines handling REST, SFTP and AS2 data protocols across <b>10+ client pipelines</b>.</li>
+    <li>🤖 <b>AI Automation:</b> Built OpenAI-powered pipeline for automated EDI/JSON validation — **reduced manual debugging by 30%**.</li>
+    <li>⚡ <b>Reliability:</b> Resolved <b>15+ high-priority production incidents</b> through system debugging and root-cause analysis.</li>
+    <li>📨 <b>Async Processing:</b> Leveraged AWS SQS and RabbitMQ for decoupling event-driven transaction processing at scale.</li>
+    <li>🔐 <b>Security:</b> Migrated microservices from Java 11 to Java 17 and integrated OAuth 2.0 JWT Spring Security.</li>
   </ul>
 </blockquote>
 
@@ -84,9 +84,9 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 
 <blockquote>
   <ul>
-    <li>🏥 <b>Healthcare Backend:</b> Built transformation engines for complex healthcare JSON processing.</li>
-    <li>📈 <b>Query Optimization:</b> Improved Hibernate ORM queries &amp; MySQL indexes for high-frequency endpoints.</li>
-    <li>✅ <b>Validation Pipelines:</b> Developed multi-layer validation with custom exception handling.</li>
+    <li>🏥 <b>Healthcare Backend:</b> Built JSON-to-FHIR data transformation engines processing high-frequency healthcare claim records.</li>
+    <li>📈 <b>Query Optimization:</b> Optimized Hibernate ORM mappings and database index keys, improving query latency on core insurer endpoints.</li>
+    <li>✅ <b>Validation Pipelines:</b> Developed multi-layer validation pipelines and custom exception-handling frameworks.</li>
   </ul>
 </blockquote>
 
