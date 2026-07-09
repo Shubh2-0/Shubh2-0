@@ -96,36 +96,28 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<table align="center">
-  <tr align="center">
-    <td><img src="./Images/java.png" width="48" height="48" alt="Java" /><br>Java</td>
-    <td><img src="./Images/springb.png" width="48" height="48" alt="Spring Boot" /><br>Spring Boot</td>
-    <td><img src="./Images/springsecurity.png" width="48" height="48" alt="Spring Security" /><br>Spring Security</td>
-    <td><img src="./Images/hibernate.png" width="48" height="48" alt="Hibernate" /><br>Hibernate ORM</td>
-    <td><img src="./Images/restful.png" width="48" height="48" alt="REST APIs" /><br>REST APIs &amp; Microservices</td>
-  </tr>
-  <tr align="center">
-    <td><img src="./Images/kafka.png" width="48" height="48" alt="Kafka" /><br>Apache Kafka</td>
-    <td><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis Caching</td>
-    <td><img src="./Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ</td>
-    <td><img src="./Images/aws.svg" width="48" height="48" alt="AWS SQS" /><br>AWS SQS</td>
-    <td><img src="./Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-  </tr>
-  <tr align="center">
-    <td><img src="./Images/mysql.png" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-    <td><img src="./Images/mongoDB.png" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-    <td><img src="./Images/openAI.png" width="48" height="48" alt="OpenAI" /><br>OpenAI API</td>
-    <td><img src="./Images/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini API</td>
-    <td><img src="./Images/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
-  </tr>
-  <tr align="center">
-    <td><img src="./Images/git.png" width="48" height="48" alt="Git" /><br>Git</td>
-    <td><img src="./Images/junit.svg" width="48" height="48" alt="JUnit 5" /><br>JUnit 5</td>
-    <td><img src="./Images/postman.png" width="48" height="48" alt="Postman" /><br>Postman</td>
-    <td><img src="./Images/python.png" width="48" height="48" alt="Python" /><br>Python</td>
-    <td><img src="./Images/bash.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./Images/java.png" width="44" height="44" alt="Java" title="Java" />&nbsp;
+  <img src="./Images/springb.png" width="44" height="44" alt="Spring Boot" title="Spring Boot" />&nbsp;
+  <img src="./Images/springsecurity.png" width="44" height="44" alt="Spring Security" title="Spring Security" />&nbsp;
+  <img src="./Images/hibernate.png" width="44" height="44" alt="Hibernate" title="Hibernate ORM" />&nbsp;
+  <img src="./Images/restful.png" width="44" height="44" alt="REST APIs" title="REST APIs & Microservices" />&nbsp;
+  <img src="./Images/python.png" width="44" height="44" alt="Python" title="Python" />&nbsp;
+  <img src="./Images/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="./Images/mysql.png" width="44" height="44" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" title="Redis Caching" />&nbsp;
+  <img src="./Images/mongoDB.png" width="44" height="44" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="./Images/kafka.png" width="44" height="44" alt="Kafka" title="Apache Kafka" />&nbsp;
+  <img src="./Images/rabbitmq.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
+  <img src="./Images/aws.svg" width="44" height="44" alt="AWS SQS" title="AWS SQS" />&nbsp;
+  <img src="./Images/docker.svg" width="44" height="44" alt="Docker" title="Docker" />&nbsp;
+  <img src="./Images/openAI.png" width="44" height="44" alt="OpenAI" title="OpenAI API" />&nbsp;
+  <img src="./Images/gemini.svg" width="44" height="44" alt="Gemini" title="Gemini API" />&nbsp;
+  <img src="./Images/git.png" width="44" height="44" alt="Git" title="Git" />&nbsp;
+  <img src="./Images/junit.svg" width="44" height="44" alt="JUnit 5" title="JUnit 5" />&nbsp;
+  <img src="./Images/postman.png" width="44" height="44" alt="Postman" title="Postman" />&nbsp;
+  <img src="./Images/bash.svg" width="44" height="44" alt="Bash" title="Bash" />
+</p>
 
 ---
 
@@ -134,9 +126,9 @@ Software Engineer with **3+ years** of experience building high-throughput, ente
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh2-0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
 </p>
 
 ---
