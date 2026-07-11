@@ -27,7 +27,7 @@
   <img src="./Images/developer.gif" alt="Coding" width="240" />
 </p>
 
-Software Engineer with **3+ years** of experience building high-throughput, enterprise-grade systems.
+My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring Boot, microservices and event-driven architectures. I build high-throughput, enterprise-grade systems with 3+ years of experience.
 
 <blockquote>
   <ul>
