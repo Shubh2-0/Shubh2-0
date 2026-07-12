@@ -93,40 +93,40 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<table align="center" style="width: 100%; max-width: 320px; border: none; border-collapse: collapse;">
+<table align="center" style="width: 100%; max-width: 280px; border: none; border-collapse: collapse;">
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/java.png" width="36" height="36" alt="Java" /><br><font size="1">Java</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/springb.png" width="36" height="36" alt="Spring Boot" /><br><font size="1">Spring Boot</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/springsecurity.png" width="36" height="36" alt="Spring Security" /><br><font size="1">Security</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/java.png" width="30" height="30" alt="Java" /><br><sub>Java</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/springb.png" width="30" height="30" alt="Spring Boot" /><br><sub>Spring Boot</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 33%;"><img src="./Images/springsecurity.png" width="30" height="30" alt="Spring Security" /><br><sub>Security</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/hibernate.png" width="36" height="36" alt="Hibernate" /><br><font size="1">Hibernate</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/restful.png" width="36" height="36" alt="REST APIs" /><br><font size="1">REST APIs</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="36" height="36" alt="Kafka" /><br><font size="1">Kafka</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/hibernate.png" width="30" height="30" alt="Hibernate" /><br><sub>Hibernate</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/restful.png" width="30" height="30" alt="REST APIs" /><br><sub>REST APIs</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="30" height="30" alt="Kafka" /><br><sub>Kafka</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /><br><font size="1">Redis</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="36" height="36" alt="RabbitMQ" /><br><font size="1">RabbitMQ</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="36" height="36" alt="AWS SQS" /><br><font size="1">AWS SQS</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="30" height="30" alt="Redis" /><br><sub>Redis</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="30" height="30" alt="RabbitMQ" /><br><sub>RabbitMQ</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="30" height="30" alt="AWS SQS" /><br><sub>AWS SQS</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="36" height="36" alt="PostgreSQL" /><br><font size="1">Postgres</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="36" height="36" alt="MySQL" /><br><font size="1">MySQL</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="36" height="36" alt="MongoDB" /><br><font size="1">MongoDB</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="30" height="30" alt="PostgreSQL" /><br><sub>Postgres</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="30" height="30" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="30" height="30" alt="MongoDB" /><br><sub>MongoDB</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="36" height="36" alt="OpenAI" /><br><font size="1">OpenAI API</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="36" height="36" alt="Gemini" /><br><font size="1">Gemini API</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="36" height="36" alt="Docker" /><br><font size="1">Docker</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="30" height="30" alt="OpenAI" /><br><sub>OpenAI</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="30" height="30" alt="Gemini" /><br><sub>Gemini</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="30" height="30" alt="Docker" /><br><sub>Docker</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="36" height="36" alt="Git" /><br><font size="1">Git</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="36" height="36" alt="JUnit 5" /><br><font size="1">JUnit 5</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="36" height="36" alt="Postman" /><br><font size="1">Postman</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="30" height="30" alt="Git" /><br><sub>Git</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="30" height="30" alt="JUnit 5" /><br><sub>JUnit 5</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="30" height="30" alt="Postman" /><br><sub>Postman</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="36" height="36" alt="Python" /><br><font size="1">Python</font></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="36" height="36" alt="Bash" /><br><font size="1">Bash</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="30" height="30" alt="Python" /><br><sub>Python</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="30" height="30" alt="Bash" /><br><sub>Bash</sub></td>
     <td style="border: none; padding: 6px 4px; line-height: 1.2;">&nbsp;</td>
   </tr>
 </table>
@@ -153,36 +153,30 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="left" width="55%">📚 Title</th>
-      <th align="left" width="25%">⚙️ Focus</th>
-      <th align="center" width="20%">📅 Date</th>
+      <th align="left" width="75%">📚 Article Title &amp; Focus</th>
+      <th align="center" width="25%">📅 Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></b></td>
-      <td><code>HikariCP</code> <code>JVM</code></td>
-      <td align="center">07-11</td>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></b><br><sub><code>HikariCP</code> <code>JVM Optimization</code></sub></td>
+      <td align="center"><sub>2026-07-11</sub></td>
     </tr>
     <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></b></td>
-      <td><code>Validation</code> <code>REST</code></td>
-      <td align="center">07-11</td>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></b><br><sub><code>Validation</code> <code>REST API</code></sub></td>
+      <td align="center"><sub>2026-07-11</sub></td>
     </tr>
     <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></b></td>
-      <td><code>Jackson</code> <code>JSON</code></td>
-      <td align="center">07-11</td>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></b><br><sub><code>Jackson</code> <code>JSON Deserialization</code></sub></td>
+      <td align="center"><sub>2026-07-11</sub></td>
     </tr>
     <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling">Spring Boot Database Connection Pooling</a></b></td>
-      <td><code>HikariCP</code> <code>Postgres</code></td>
-      <td align="center">07-10</td>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling">Spring Boot Database Connection Pooling</a></b><br><sub><code>HikariCP</code> <code>PostgreSQL</code></sub></td>
+      <td align="center"><sub>2026-07-10</sub></td>
     </tr>
     <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans">Smarter Environment-Specific Beans</a></b></td>
-      <td><code>Profiles</code> <code>Config</code></td>
-      <td align="center">07-09</td>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans">Smarter Environment-Specific Beans</a></b><br><sub><code>Spring Profiles</code> <code>Configuration</code></sub></td>
+      <td align="center"><sub>2026-07-09</sub></td>
     </tr>
   </tbody>
 </table>
