@@ -93,34 +93,34 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<table align="center" style="width: 100%; max-width: 440px; border: none; border-collapse: collapse;">
+<table align="center" style="border: none; background: transparent; width: 100%;">
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/java.png" width="32" height="32" alt="Java" /><br><sub>Java</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/springb.png" width="32" height="32" alt="Spring Boot" /><br><sub>Spring Boot</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/springsecurity.png" width="32" height="32" alt="Spring Security" /><br><sub>Security</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/hibernate.png" width="32" height="32" alt="Hibernate" /><br><sub>Hibernate</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/restful.png" width="32" height="32" alt="REST APIs" /><br><sub>REST APIs</sub></td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/java.png" width="48" height="48" alt="Java" /><br>Java</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/springb.png" width="48" height="48" alt="Spring Boot" /><br>Spring Boot</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/springsecurity.png" width="48" height="48" alt="Spring Security" /><br>Spring Security</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/hibernate.png" width="48" height="48" alt="Hibernate" /><br>Hibernate</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/restful.png" width="48" height="48" alt="REST APIs" /><br>REST APIs</td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="32" height="32" alt="Kafka" /><br><sub>Kafka</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="32" height="32" alt="Redis" /><br><sub>Redis</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="32" height="32" alt="RabbitMQ" /><br><sub>RabbitMQ</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="32" height="32" alt="AWS SQS" /><br><sub>AWS SQS</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="32" height="32" alt="PostgreSQL" /><br><sub>Postgres</sub></td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/kafka.png" width="48" height="48" alt="Kafka" /><br>Apache Kafka</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/aws.svg" width="48" height="48" alt="AWS SQS" /><br>AWS SQS</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="32" height="32" alt="MySQL" /><br><sub>MySQL</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="32" height="32" alt="MongoDB" /><br><sub>MongoDB</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="32" height="32" alt="OpenAI" /><br><sub>OpenAI</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="32" height="32" alt="Gemini" /><br><sub>Gemini</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="32" height="32" alt="Docker" /><br><sub>Docker</sub></td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/mysql.png" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/mongoDB.png" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/openAI.png" width="48" height="48" alt="OpenAI" /><br>OpenAI API</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini API</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="32" height="32" alt="Git" /><br><sub>Git</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="32" height="32" alt="JUnit 5" /><br><sub>JUnit 5</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="32" height="32" alt="Postman" /><br><sub>Postman</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="32" height="32" alt="Python" /><br><sub>Python</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="32" height="32" alt="Bash" /><br><sub>Bash</sub></td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/git.png" width="48" height="48" alt="Git" /><br>Git</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/junit.svg" width="48" height="48" alt="JUnit 5" /><br>JUnit 5</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/postman.png" width="48" height="48" alt="Postman" /><br>Postman</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/python.png" width="48" height="48" alt="Python" /><br>Python</td>
+    <td style="border: none; padding: 12px 8px; line-height: 1.4;"><img src="./Images/bash.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
   </tr>
 </table>
 
@@ -190,11 +190,16 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 Reach out to discuss backend scalability, event-driven payment flows, database performance tuning or open-source opportunities.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
-  <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br><br>
-  <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a><br><br>
-  <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" /><br><br>
-  <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />&nbsp;&nbsp;
+  <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2-0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br><br>
+  <a href="https://www.hackerrank.com/profile/shubhambhati226" target="_blank"><img src="https://img.shields.io/badge/HackerRank-shubhambhati226-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/shubhambhati" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-shubhambhati-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 </td>
 </tr>
