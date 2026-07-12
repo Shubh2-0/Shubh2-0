@@ -93,36 +93,34 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<table align="center" style="width: 100%; max-width: 360px; border: none; border-collapse: collapse;">
+<table align="center" style="width: 100%; max-width: 440px; border: none; border-collapse: collapse;">
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 25%;"><img src="./Images/java.png" width="34" height="34" alt="Java" /><br><sub>Java</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 25%;"><img src="./Images/springb.png" width="34" height="34" alt="Spring Boot" /><br><sub>Spring Boot</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 25%;"><img src="./Images/springsecurity.png" width="34" height="34" alt="Spring Security" /><br><sub>Security</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 25%;"><img src="./Images/hibernate.png" width="34" height="34" alt="Hibernate" /><br><sub>Hibernate</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/java.png" width="32" height="32" alt="Java" /><br><sub>Java</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/springb.png" width="32" height="32" alt="Spring Boot" /><br><sub>Spring Boot</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/springsecurity.png" width="32" height="32" alt="Spring Security" /><br><sub>Security</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/hibernate.png" width="32" height="32" alt="Hibernate" /><br><sub>Hibernate</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2; width: 20%;"><img src="./Images/restful.png" width="32" height="32" alt="REST APIs" /><br><sub>REST APIs</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/restful.png" width="34" height="34" alt="REST APIs" /><br><sub>REST APIs</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="34" height="34" alt="Kafka" /><br><sub>Kafka</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="34" height="34" alt="Redis" /><br><sub>Redis</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="34" height="34" alt="RabbitMQ" /><br><sub>RabbitMQ</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="32" height="32" alt="Kafka" /><br><sub>Kafka</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="32" height="32" alt="Redis" /><br><sub>Redis</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="32" height="32" alt="RabbitMQ" /><br><sub>RabbitMQ</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="32" height="32" alt="AWS SQS" /><br><sub>AWS SQS</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="32" height="32" alt="PostgreSQL" /><br><sub>Postgres</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="34" height="34" alt="AWS SQS" /><br><sub>AWS SQS</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="34" height="34" alt="PostgreSQL" /><br><sub>Postgres</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="34" height="34" alt="MySQL" /><br><sub>MySQL</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="34" height="34" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="32" height="32" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="32" height="32" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="32" height="32" alt="OpenAI" /><br><sub>OpenAI</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="32" height="32" alt="Gemini" /><br><sub>Gemini</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="32" height="32" alt="Docker" /><br><sub>Docker</sub></td>
   </tr>
   <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="34" height="34" alt="OpenAI" /><br><sub>OpenAI</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="34" height="34" alt="Gemini" /><br><sub>Gemini</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="34" height="34" alt="Docker" /><br><sub>Docker</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="34" height="34" alt="Git" /><br><sub>Git</sub></td>
-  </tr>
-  <tr align="center" style="background: transparent; border: none;">
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="34" height="34" alt="JUnit 5" /><br><sub>JUnit 5</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="34" height="34" alt="Postman" /><br><sub>Postman</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="34" height="34" alt="Python" /><br><sub>Python</sub></td>
-    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="34" height="34" alt="Bash" /><br><sub>Bash</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="32" height="32" alt="Git" /><br><sub>Git</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="32" height="32" alt="JUnit 5" /><br><sub>JUnit 5</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="32" height="32" alt="Postman" /><br><sub>Postman</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="32" height="32" alt="Python" /><br><sub>Python</sub></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="32" height="32" alt="Bash" /><br><sub>Bash</sub></td>
   </tr>
 </table>
 
