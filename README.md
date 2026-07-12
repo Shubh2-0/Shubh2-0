@@ -93,27 +93,36 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS_SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+<table align="center" style="width: 100%; max-width: 460px; border: none; border-collapse: collapse;">
+  <tr align="center" style="background: transparent; border: none;">
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/java.png" width="36" height="36" alt="Java" /><br><font size="1">Java</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/springb.png" width="36" height="36" alt="Spring Boot" /><br><font size="1">Spring Boot</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/springsecurity.png" width="36" height="36" alt="Spring Security" /><br><font size="1">Security</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/hibernate.png" width="36" height="36" alt="Hibernate" /><br><font size="1">Hibernate</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/restful.png" width="36" height="36" alt="REST APIs" /><br><font size="1">REST APIs</font></td>
+  </tr>
+  <tr align="center" style="background: transparent; border: none;">
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/kafka.png" width="36" height="36" alt="Kafka" /><br><font size="1">Kafka</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /><br><font size="1">Redis</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/rabbitmq.svg" width="36" height="36" alt="RabbitMQ" /><br><font size="1">RabbitMQ</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/aws.svg" width="36" height="36" alt="AWS SQS" /><br><font size="1">AWS SQS</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postgresql.svg" width="36" height="36" alt="PostgreSQL" /><br><font size="1">Postgres</font></td>
+  </tr>
+  <tr align="center" style="background: transparent; border: none;">
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mysql.png" width="36" height="36" alt="MySQL" /><br><font size="1">MySQL</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/mongoDB.png" width="36" height="36" alt="MongoDB" /><br><font size="1">MongoDB</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/openAI.png" width="36" height="36" alt="OpenAI" /><br><font size="1">OpenAI API</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/gemini.svg" width="36" height="36" alt="Gemini" /><br><font size="1">Gemini API</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/docker.svg" width="36" height="36" alt="Docker" /><br><font size="1">Docker</font></td>
+  </tr>
+  <tr align="center" style="background: transparent; border: none;">
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/git.png" width="36" height="36" alt="Git" /><br><font size="1">Git</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/junit.svg" width="36" height="36" alt="JUnit 5" /><br><font size="1">JUnit 5</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/postman.png" width="36" height="36" alt="Postman" /><br><font size="1">Postman</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/python.png" width="36" height="36" alt="Python" /><br><font size="1">Python</font></td>
+    <td style="border: none; padding: 6px 4px; line-height: 1.2;"><img src="./Images/bash.svg" width="36" height="36" alt="Bash" /><br><font size="1">Bash</font></td>
+  </tr>
+</table>
 
 ---
 
