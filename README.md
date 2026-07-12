@@ -196,7 +196,7 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <td style="padding: 28px; text-align: center;">
 <h3 style="margin-top: 0; margin-bottom: 12px; color: #38bdf8; font-size: 22px; font-weight: 600;">Let's Collaborate!</h3>
 <p style="color: #9ca3af; font-size: 14.5px; line-height: 1.6; margin-top: 0; margin-bottom: 24px;">
-Reach out to discuss backend scalability, event-driven payment flows, database performance tuning, or open-source opportunities.
+Reach out to discuss backend scalability, event-driven payment flows, database performance tuning or open-source opportunities.
 </p>
 
 <table align="center" style="border: none; background: transparent; width: 100%; max-width: 480px; margin-bottom: 0;">
