@@ -189,18 +189,41 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <p style="color: #9ca3af; font-size: 14.5px; line-height: 1.6; margin-top: 0; margin-bottom: 24px;">
 Reach out to discuss backend scalability, event-driven payment flows, database performance tuning or open-source opportunities.
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />&nbsp;&nbsp;
-  <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2--0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <br><br>
-  <a href="https://www.hackerrank.com/profile/shubhambhati226" target="_blank"><img src="https://img.shields.io/badge/HackerRank-shubhambhati226-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/shubhambhati" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-shubhambhati-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
+<table align="center" style="border: none; background: transparent; width: 100%; text-align: center; border-collapse: collapse;">
+  <tr style="background: transparent; border: none;">
+    <td align="center" style="border: none; padding: 12px 8px; width: 33%; vertical-align: top;">
+      <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank"><img src="./Images/linkedin.png" width="30" height="30" alt="LinkedIn" /><br><b>LinkedIn</b></a><br><sub>bhatishubham</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; width: 33%; vertical-align: top;">
+      <a href="mailto:shubhambhati226@gmail.com"><img src="./Images/gmail.png" width="30" height="30" alt="Gmail" /><br><b>Gmail</b></a><br><sub>shubhambhati226</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; width: 33%; vertical-align: top;">
+      <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="./Images/restful.png" width="30" height="30" alt="Portfolio" /><br><b>Portfolio</b></a><br><sub>shubhambhati.is-a.dev</sub>
+    </td>
+  </tr>
+  <tr style="background: transparent; border: none;">
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      <img src="https://img.icons8.com/color/48/marker.png" width="30" height="30" alt="Location" /><br><b>Location</b><br><sub>Noida (NCR), India</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" width="30" height="30" alt="WhatsApp" /><br><b>WhatsApp</b></a><br><sub>+91 6232133187</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      <a href="https://github.com/Shubh2-0" target="_blank"><img src="./Images/github.png" width="30" height="30" alt="GitHub" /><br><b>GitHub</b></a><br><sub>Shubh2-0</sub>
+    </td>
+  </tr>
+  <tr style="background: transparent; border: none;">
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      <a href="https://www.hackerrank.com/profile/shubhambhati226" target="_blank"><img src="./Images/hackerrank.svg" width="30" height="30" alt="HackerRank" /><br><b>HackerRank</b></a><br><sub>shubhambhati226</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      <a href="https://buymeacoffee.com/shubhambhati" target="_blank"><img src="https://img.icons8.com/color/48/coffee.png" width="30" height="30" alt="Buy Me A Coffee" /><br><b>Buy Me A Coffee</b></a><br><sub>shubhambhati</sub>
+    </td>
+    <td align="center" style="border: none; padding: 12px 8px; vertical-align: top;">
+      &nbsp;
+    </td>
+  </tr>
+</table>
 </td>
 </tr>
 </table>
