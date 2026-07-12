@@ -96,28 +96,36 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   🛠️ &nbsp;<b><ins>Tech Stack</ins></b>
 </p>
 
-<p align="center">
-  <img src="./Images/java.png" width="44" height="44" alt="Java" title="Java" />&nbsp;
-  <img src="./Images/springb.png" width="44" height="44" alt="Spring Boot" title="Spring Boot" />&nbsp;
-  <img src="./Images/springsecurity.png" width="44" height="44" alt="Spring Security" title="Spring Security" />&nbsp;
-  <img src="./Images/hibernate.png" width="44" height="44" alt="Hibernate" title="Hibernate ORM" />&nbsp;
-  <img src="./Images/restful.png" width="44" height="44" alt="REST APIs" title="REST APIs & Microservices" />&nbsp;
-  <img src="./Images/python.png" width="44" height="44" alt="Python" title="Python" />&nbsp;
-  <img src="./Images/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="./Images/mysql.png" width="44" height="44" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" title="Redis Caching" />&nbsp;
-  <img src="./Images/mongoDB.png" width="44" height="44" alt="MongoDB" title="MongoDB" />&nbsp;
-  <img src="./Images/kafka.png" width="44" height="44" alt="Kafka" title="Apache Kafka" />&nbsp;
-  <img src="./Images/rabbitmq.svg" width="44" height="44" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
-  <img src="./Images/aws.svg" width="44" height="44" alt="AWS SQS" title="AWS SQS" />&nbsp;
-  <img src="./Images/docker.svg" width="44" height="44" alt="Docker" title="Docker" />&nbsp;
-  <img src="./Images/openAI.png" width="44" height="44" alt="OpenAI" title="OpenAI API" />&nbsp;
-  <img src="./Images/gemini.svg" width="44" height="44" alt="Gemini" title="Gemini API" />&nbsp;
-  <img src="./Images/git.png" width="44" height="44" alt="Git" title="Git" />&nbsp;
-  <img src="./Images/junit.svg" width="44" height="44" alt="JUnit 5" title="JUnit 5" />&nbsp;
-  <img src="./Images/postman.png" width="44" height="44" alt="Postman" title="Postman" />&nbsp;
-  <img src="./Images/bash.svg" width="44" height="44" alt="Bash" title="Bash" />
-</p>
+<table align="center">
+  <tr align="center">
+    <td><img src="./Images/java.png" width="48" height="48" alt="Java" /><br>Java</td>
+    <td><img src="./Images/springb.png" width="48" height="48" alt="Spring Boot" /><br>Spring Boot</td>
+    <td><img src="./Images/springsecurity.png" width="48" height="48" alt="Spring Security" /><br>Spring Security</td>
+    <td><img src="./Images/hibernate.png" width="48" height="48" alt="Hibernate" /><br>Hibernate ORM</td>
+    <td><img src="./Images/restful.png" width="48" height="48" alt="REST APIs" /><br>REST APIs &amp; Microservices</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/kafka.png" width="48" height="48" alt="Kafka" /><br>Apache Kafka</td>
+    <td><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis Caching</td>
+    <td><img src="./Images/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ</td>
+    <td><img src="./Images/aws.svg" width="48" height="48" alt="AWS SQS" /><br>AWS SQS</td>
+    <td><img src="./Images/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/mysql.png" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td><img src="./Images/mongoDB.png" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td><img src="./Images/openAI.png" width="48" height="48" alt="OpenAI" /><br>OpenAI API</td>
+    <td><img src="./Images/gemini.svg" width="48" height="48" alt="Gemini" /><br>Gemini API</td>
+    <td><img src="./Images/docker.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./Images/git.png" width="48" height="48" alt="Git" /><br>Git</td>
+    <td><img src="./Images/junit.svg" width="48" height="48" alt="JUnit 5" /><br>JUnit 5</td>
+    <td><img src="./Images/postman.png" width="48" height="48" alt="Postman" /><br>Postman</td>
+    <td><img src="./Images/python.png" width="48" height="48" alt="Python" /><br>Python</td>
+    <td><img src="./Images/bash.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
+  </tr>
+</table>
 
 ---
 
@@ -138,11 +146,43 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-🔷 **[Stop Letting HikariCP Kill Your Cheap VPS](https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps)** — *2026-07-11*
-🔷 **[Spring Boot Validation: Don&#39;t Reinvent the Wheel](https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel)** — *2026-07-11*
-🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*
-🔷 **[Spring Boot Database Connection Pooling](https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling)** — *2026-07-10*
-🔷 **[Smarter Environment-Specific Beans](https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans)** — *2026-07-09*<!-- BLOG-POST-LIST:END -->
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="50%">📚 Article Title</th>
+      <th align="left" width="30%">⚙️ Core Focus</th>
+      <th align="center" width="20%">📅 Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></b></td>
+      <td><code>HikariCP</code> <code>JVM Optimization</code></td>
+      <td align="center">2026-07-11</td>
+    </tr>
+    <tr>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></b></td>
+      <td><code>Validation</code> <code>REST API</code></td>
+      <td align="center">2026-07-11</td>
+    </tr>
+    <tr>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></b></td>
+      <td><code>Jackson Mapping</code> <code>JSON Deserialization</code></td>
+      <td align="center">2026-07-11</td>
+    </tr>
+    <tr>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling">Spring Boot Database Connection Pooling</a></b></td>
+      <td><code>HikariCP Tuning</code> <code>PostgreSQL</code></td>
+      <td align="center">2026-07-10</td>
+    </tr>
+    <tr>
+      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans">Smarter Environment-Specific Beans</a></b></td>
+      <td><code>Spring Profiles</code> <code>Configuration</code></td>
+      <td align="center">2026-07-09</td>
+    </tr>
+  </tbody>
+</table>
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -150,16 +190,32 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   📬 &nbsp;<b><ins>Let's Connect</ins></b>
 </p>
 
-<p align="center">
-  <b>Connect with <a href="https://www.linkedin.com/in/bhatishubham/">Shubham Bhati on LinkedIn</a> to collaborate on backend engineering, microservices and system design!</b><br>
-  📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
-</p>
-
-<p align="center">
-  <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhatishubham/" title="Shubham Bhati LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shubham Bhati LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://shubh2-0.github.io/"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</p>
+<div align="center">
+  <table style="border-collapse: collapse; border: 1.5px solid #1e293b; border-radius: 12px; background-color: #0b0f19; width: 100%; max-width: 620px; box-shadow: 0 10px 30px rgba(0,0,0,0.55);">
+    <tr>
+      <td style="padding: 28px; text-align: center;">
+        <h3 style="margin-top: 0; margin-bottom: 12px; color: #38bdf8; font-size: 20px; font-weight: 600;">Let's Collaborate!</h3>
+        <p style="color: #9ca3af; font-size: 14.5px; line-height: 1.6; margin-top: 0; margin-bottom: 24px;">
+          Reach out on LinkedIn to discuss backend scalability, event-driven payment flows, database performance tuning, or open-source opportunities.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; margin-bottom: 20px;">
+          <a href="https://www.linkedin.com/in/bhatishubham/" title="Shubham Bhati LinkedIn" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <a href="mailto:shubhambhati226@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-shubhambhati226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          </a>
+          <a href="https://shubhambhati.is-a.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+          </a>
+        </div>
+        <div style="border-top: 1px solid #1e293b; padding-top: 16px; color: #6b7280; font-size: 13px;">
+          📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
