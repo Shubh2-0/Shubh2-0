@@ -138,11 +138,11 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-🔷 **[Preventing Database Meltdowns: Caching Strategies That Actually Work](https://dev.to/shubham_bhati/preventing-database-meltdowns-caching-strategies-that-actually-work-35i2)** — *2026-07-12*
-🔷 **[Concurrency Control in Financial Ledgers: Pessimistic vs Optimistic Locking](https://dev.to/shubham_bhati/concurrency-control-in-financial-ledgers-pessimistic-vs-optimistic-locking-36e9)** — *2026-07-11*
+🔷 **[Stop Letting HikariCP Kill Your Cheap VPS](https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps)** — *2026-07-11*
+🔷 **[Spring Boot Validation: Don&#39;t Reinvent the Wheel](https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel)** — *2026-07-11*
+🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*
 🔷 **[Spring Boot Database Connection Pooling](https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling)** — *2026-07-10*
-🔷 **[Smarter Environment-Specific Beans](https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans)** — *2026-07-09*
-🔷 **[Your `@Transactional` Internal Call Is a Lie](https://shubhambhati.is-a.dev/posts/your-transactional-internal-call-is-a-lie)** — *2026-07-07*<!-- BLOG-POST-LIST:END -->
+🔷 **[Smarter Environment-Specific Beans](https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans)** — *2026-07-09*<!-- BLOG-POST-LIST:END -->
 
 ---
 
