@@ -23,9 +23,9 @@
   &nbsp;<b><ins>About Me</ins></b>
 </p>
 
-<p align="center">
-  <img src="./Images/developer.gif" alt="Coding" width="240" />
-</p>
+<table align="center" style="border: none; background: transparent; width: 100%; border-collapse: collapse;">
+<tr style="background: transparent; border: none;">
+<td align="left" style="border: none; width: 65%; vertical-align: top; padding: 0 20px 0 0;">
 
 My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring Boot, microservices and event-driven architectures. I build high-throughput, enterprise-grade systems with 3+ years of experience.
 
@@ -37,6 +37,13 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
     <li>🚀 <b>Robust Delivery:</b> Architecting low-latency transactional platforms and secure REST APIs.</li>
   </ul>
 </blockquote>
+
+</td>
+<td align="center" style="border: none; width: 35%; vertical-align: middle; padding: 0;">
+  <img src="./Images/developer.gif" alt="Coding" width="220" />
+</td>
+</tr>
+</table>
 
 
 
@@ -223,10 +230,10 @@ Reach out to discuss backend scalability, event-driven payment flows, database p
 </tr>
 <tr style="background: transparent;">
 <td align="right" style="padding: 8px 12px; border: none;">
-<img src="https://img.shields.io/badge/Location-Gurgaon,%20India-8b5cf6?style=flat-square&logo=google-maps&logoColor=white" alt="Location" height="24" />
+<img src="https://img.shields.io/badge/Location-Noida,%20India-8b5cf6?style=flat-square&logo=google-maps&logoColor=white" alt="Location" height="24" />
 </td>
 <td align="left" style="padding: 8px 12px; border: none; font-size: 14px; color: #f3f4f6; font-weight: 500;">
-Gurgaon, India
+Noida, India
 </td>
 </tr>
 <tr style="background: transparent;">
