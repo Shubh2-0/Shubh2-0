@@ -23,9 +23,9 @@
   &nbsp;<b><ins>About Me</ins></b>
 </p>
 
-<table align="center" style="border: none; background: transparent; width: 100%; border-collapse: collapse;">
-<tr style="background: transparent; border: none;">
-<td align="left" style="border: none; width: 65%; vertical-align: top; padding: 0 20px 0 0;">
+<p align="center">
+  <img src="./Images/developer.gif" alt="Coding" width="240" />
+</p>
 
 My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring Boot, microservices and event-driven architectures. I build high-throughput, enterprise-grade systems with 3+ years of experience.
 
@@ -37,13 +37,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
     <li>🚀 <b>Robust Delivery:</b> Architecting low-latency transactional platforms and secure REST APIs.</li>
   </ul>
 </blockquote>
-
-</td>
-<td align="center" style="border: none; width: 35%; vertical-align: middle; padding: 0;">
-  <img src="./Images/developer.gif" alt="Coding" width="220" />
-</td>
-</tr>
-</table>
 
 
 
