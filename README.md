@@ -194,24 +194,54 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   <table style="border-collapse: collapse; border: 1.5px solid #1e293b; border-radius: 12px; background-color: #0b0f19; width: 100%; max-width: 620px; box-shadow: 0 10px 30px rgba(0,0,0,0.55);">
     <tr>
       <td style="padding: 28px; text-align: center;">
-        <h3 style="margin-top: 0; margin-bottom: 12px; color: #38bdf8; font-size: 20px; font-weight: 600;">Let's Collaborate!</h3>
+        <h3 style="margin-top: 0; margin-bottom: 12px; color: #38bdf8; font-size: 22px; font-weight: 600;">Let's Collaborate!</h3>
         <p style="color: #9ca3af; font-size: 14.5px; line-height: 1.6; margin-top: 0; margin-bottom: 24px;">
-          Reach out on LinkedIn to discuss backend scalability, event-driven payment flows, database performance tuning, or open-source opportunities.
+          Reach out to discuss backend scalability, event-driven payment flows, database performance tuning, or open-source opportunities.
         </p>
-        <div style="display: flex; justify-content: center; gap: 14px; flex-wrap: wrap; margin-bottom: 20px;">
-          <a href="https://www.linkedin.com/in/bhatishubham/" title="Shubham Bhati LinkedIn" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-          <a href="mailto:shubhambhati226@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-shubhambhati226@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-          </a>
-          <a href="https://shubhambhati.is-a.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-          </a>
-        </div>
-        <div style="border-top: 1px solid #1e293b; padding-top: 16px; color: #6b7280; font-size: 13px;">
-          📍 Noida, India &nbsp;|&nbsp; 📱 +91 6232133187
-        </div>
+        
+        <table align="center" style="border: none; background: transparent; width: 100%; max-width: 480px; margin-bottom: 0;">
+          <tr style="background: transparent;">
+            <td align="right" style="padding: 8px 12px; border: none; width: 45%;">
+              <img src="https://img.shields.io/badge/LinkedIn-bhatishubham-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24" />
+            </td>
+            <td align="left" style="padding: 8px 12px; border: none; font-size: 14px;">
+              <a href="https://www.linkedin.com/in/bhatishubham/" target="_blank" style="color: #38bdf8; font-weight: 500; text-decoration: none;">linkedin.com/in/bhatishubham</a>
+            </td>
+          </tr>
+          <tr style="background: transparent;">
+            <td align="right" style="padding: 8px 12px; border: none;">
+              <img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="24" />
+            </td>
+            <td align="left" style="padding: 8px 12px; border: none; font-size: 14px;">
+              <a href="mailto:shubhambhati226@gmail.com" style="color: #38bdf8; font-weight: 500; text-decoration: none;">shubhambhati226@gmail.com</a>
+            </td>
+          </tr>
+          <tr style="background: transparent;">
+            <td align="right" style="padding: 8px 12px; border: none;">
+              <img src="https://img.shields.io/badge/Portfolio-website-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" height="24" />
+            </td>
+            <td align="left" style="padding: 8px 12px; border: none; font-size: 14px;">
+              <a href="https://shubhambhati.is-a.dev/" target="_blank" style="color: #38bdf8; font-weight: 500; text-decoration: none;">shubhambhati.is-a.dev</a>
+            </td>
+          </tr>
+          <tr style="background: transparent;">
+            <td align="right" style="padding: 8px 12px; border: none;">
+              <img src="https://img.shields.io/badge/Location-Gurgaon,%20India-8b5cf6?style=flat-square&logo=google-maps&logoColor=white" alt="Location" height="24" />
+            </td>
+            <td align="left" style="padding: 8px 12px; border: none; font-size: 14px; color: #f3f4f6; font-weight: 500;">
+              Gurgaon, India
+            </td>
+          </tr>
+          <tr style="background: transparent;">
+            <td align="right" style="padding: 8px 12px; border: none;">
+              <img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" height="24" />
+            </td>
+            <td align="left" style="padding: 8px 12px; border: none; font-size: 14px;">
+              <a href="https://wa.me/916232133187" target="_blank" style="color: #38bdf8; font-weight: 500; text-decoration: none;">+91 6232133187</a>
+            </td>
+          </tr>
+        </table>
+        
       </td>
     </tr>
   </table>
