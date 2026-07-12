@@ -196,7 +196,7 @@ Reach out to discuss backend scalability, event-driven payment flows, database p
   <br><br>
   <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />&nbsp;&nbsp;
   <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2-0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2--0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br><br>
   <a href="https://www.hackerrank.com/profile/shubhambhati226" target="_blank"><img src="https://img.shields.io/badge/HackerRank-shubhambhati226-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://buymeacoffee.com/shubhambhati" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-shubhambhati-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
