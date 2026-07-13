@@ -143,37 +143,11 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="75%">📚 Article Title &amp; Focus</th>
-      <th align="center" width="25%">📅 Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></b><br><sub><code>HikariCP</code> <code>JVM Optimization</code></sub></td>
-      <td align="center"><sub>2026-07-11</sub></td>
-    </tr>
-    <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></b><br><sub><code>Validation</code> <code>REST API</code></sub></td>
-      <td align="center"><sub>2026-07-11</sub></td>
-    </tr>
-    <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></b><br><sub><code>Jackson</code> <code>JSON Deserialization</code></sub></td>
-      <td align="center"><sub>2026-07-11</sub></td>
-    </tr>
-    <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling">Spring Boot Database Connection Pooling</a></b><br><sub><code>HikariCP</code> <code>PostgreSQL</code></sub></td>
-      <td align="center"><sub>2026-07-10</sub></td>
-    </tr>
-    <tr>
-      <td>🔷 <b><a href="https://shubhambhati.is-a.dev/posts/smarter-environment-specific-beans">Smarter Environment-Specific Beans</a></b><br><sub><code>Spring Profiles</code> <code>Configuration</code></sub></td>
-      <td align="center"><sub>2026-07-09</sub></td>
-    </tr>
-  </tbody>
-</table>
-<!-- BLOG-POST-LIST:END -->
+🔷 **[Redis as a Spring Boot Session Store: Speed Up Your Apps](https://shubhambhati.is-a.dev/posts/redis-as-a-spring-boot-session-store-speed-up-your-apps)** — *2026-07-12*
+🔷 **[Stop Letting HikariCP Kill Your Cheap VPS](https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps)** — *2026-07-11*
+🔷 **[Spring Boot Validation: Don&#39;t Reinvent the Wheel](https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel)** — *2026-07-11*
+🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*
+🔷 **[Spring Boot Database Connection Pooling](https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling)** — *2026-07-10*<!-- BLOG-POST-LIST:END -->
 
 ---
 
