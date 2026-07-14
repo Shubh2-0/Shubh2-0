@@ -1,22 +1,36 @@
-name: Latest Blog Posts Workflow
+name: 📝 Auto-Update Blog Card Grid in README
+
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from Actions tab
+    - cron: '0 2 * * *'   # Daily at 2:00 AM UTC (7:30 AM IST)
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-blog-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Fetch and update blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://shubhambhati.is-a.dev/backend-utility-tools/rss.xml"
-          max_post_count: 5
-          template: "$newline🔷 **[$title]($url)** — *$date*"
-          date_format: "yyyy-mm-dd"
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch Latest Blog Posts & Update README Card Grid
+        run: python scripts/update_blog_readme.py
+
+      - name: Commit & Push if README Changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git diff --cached --quiet && echo "No changes." || \
+            git commit -m "docs(auto): update blog card grid with latest posts [skip ci]" && \
+            git push
