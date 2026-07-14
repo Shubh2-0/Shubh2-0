@@ -143,11 +143,11 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+🔷 **[Stop Holding DB Connections Hostage](https://shubhambhati.is-a.dev/posts/stop-holding-db-connections-hostage)** — *2026-07-13*
 🔷 **[Redis as a Spring Boot Session Store: Speed Up Your Apps](https://shubhambhati.is-a.dev/posts/redis-as-a-spring-boot-session-store-speed-up-your-apps)** — *2026-07-12*
 🔷 **[Stop Letting HikariCP Kill Your Cheap VPS](https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps)** — *2026-07-11*
 🔷 **[Spring Boot Validation: Don&#39;t Reinvent the Wheel](https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel)** — *2026-07-11*
-🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*
-🔷 **[Spring Boot Database Connection Pooling](https://shubhambhati.is-a.dev/posts/spring-boot-database-connection-pooling)** — *2026-07-10*<!-- BLOG-POST-LIST:END -->
+🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*<!-- BLOG-POST-LIST:END -->
 
 ---
 
