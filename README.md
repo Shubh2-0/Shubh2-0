@@ -143,11 +143,51 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-🔷 **[Stop Holding DB Connections Hostage](https://shubhambhati.is-a.dev/posts/stop-holding-db-connections-hostage)** — *2026-07-13*
-🔷 **[Redis as a Spring Boot Session Store: Speed Up Your Apps](https://shubhambhati.is-a.dev/posts/redis-as-a-spring-boot-session-store-speed-up-your-apps)** — *2026-07-12*
-🔷 **[Stop Letting HikariCP Kill Your Cheap VPS](https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps)** — *2026-07-11*
-🔷 **[Spring Boot Validation: Don&#39;t Reinvent the Wheel](https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel)** — *2026-07-11*
-🔷 **[Stop Manual JSON Parsing in Spring Boot](https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot)** — *2026-07-11*<!-- BLOG-POST-LIST:END -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-holding-db-connections-hostage">Stop Holding DB Connections Hostage</a></h4>
+      <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
+      <sub>📅 Jul 13, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/redis-as-a-spring-boot-session-store-speed-up-your-apps">Redis as a Spring Boot Session Store: Speed Up Your Apps</a></h4>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Jul 12, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></h4>
+      <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/JVM_Optimization-1F6FEB?style=flat-square" /><br/>
+      <sub>📅 Jul 11, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></h4>
+      <img src="https://img.shields.io/badge/Validation-238636?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Jul 11, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></h4>
+      <img src="https://img.shields.io/badge/Jackson-DA3633?style=flat-square" />
+      <img src="https://img.shields.io/badge/JSON_Deserialization-6E40C9?style=flat-square" /><br/>
+      <sub>📅 Jul 11, 2026</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <a href="https://shubhambhati.is-a.dev/">
+        <img src="https://img.shields.io/badge/%E2%86%92%20Read%20All%20Posts-4FC3F7?style=for-the-badge&logo=readthedocs&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
