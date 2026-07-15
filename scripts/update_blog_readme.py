@@ -89,6 +89,9 @@ def fetch_posts() -> list[dict]:
         if not title or not link:
             continue
 
+        if "/posts/" in link:
+            link = "https://dev.to/shubhambhati"
+
         posts.append({
             "title":       title,
             "url":         link,

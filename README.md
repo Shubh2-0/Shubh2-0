@@ -146,42 +146,42 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/spring-boot-security-don-t-expose-that-sensitive-property">Spring Boot Security: Don't Expose That Sensitive Property</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Using Spring Boot Defaults on Cheap ₹100 VMs</a></h4>
+      <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
+      <sub>📅 Jul 15, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Spring Boot Security: Don't Expose That Sensitive Property</a></h4>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 14, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-holding-db-connections-hostage">Stop Holding DB Connections Hostage</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Holding DB Connections Hostage</a></h4>
       <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
       <sub>📅 Jul 13, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/redis-as-a-spring-boot-session-store-speed-up-your-apps">Redis as a Spring Boot Session Store: Speed Up Your Apps</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Redis as a Spring Boot Session Store: Speed Up Your Apps</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 12, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-letting-hikaricp-kill-your-cheap-vps">Stop Letting HikariCP Kill Your Cheap VPS</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Letting HikariCP Kill Your Cheap VPS</a></h4>
       <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
       <sub>📅 Jul 11, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/spring-boot-validation-don-t-reinvent-the-wheel">Spring Boot Validation: Don't Reinvent the Wheel</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Spring Boot Validation: Don't Reinvent the Wheel</a></h4>
       <img src="https://img.shields.io/badge/Validation-238636?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 11, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://shubhambhati.is-a.dev/posts/stop-manual-json-parsing-in-spring-boot">Stop Manual JSON Parsing in Spring Boot</a></h4>
-      <img src="https://img.shields.io/badge/JSON-6E40C9?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 11, 2026</sub>
     </td>
