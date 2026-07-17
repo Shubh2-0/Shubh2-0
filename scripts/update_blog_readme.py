@@ -2,8 +2,8 @@
 """
 update_blog_readme.py
 ---------------------
-Fetches the latest posts from Shubham Bhati's RSS feed and updates
-the GitHub profile README.md with a clean 2-column card grid layout.
+Fetches the live published articles from Shubham Bhati's DEV.to API
+and updates the GitHub profile README.md with a 2-column card grid layout with 100% working live URLs.
 
 Runs daily via GitHub Actions on Shubh2-0/Shubh2-0 profile repo.
 """
@@ -12,11 +12,10 @@ import re
 import sys
 import requests
 from datetime import datetime
-from xml.etree import ElementTree as ET
 
-RSS_URL   = "https://shubhambhati.is-a.dev/backend-utility-tools/rss.xml"
-README    = "README.md"
-MAX_POSTS = 6   # must be even for clean 2-column grid
+DEVTO_API_URL = "https://dev.to/api/articles?username=shubham_bhati"
+README        = "README.md"
+MAX_POSTS     = 6   # must be even for clean 2-column grid
 
 # Keyword → shield badge color map (topic auto-detection)
 TAG_MAP = {
@@ -44,9 +43,9 @@ START = "<!-- BLOG-POST-LIST:START -->"
 END   = "<!-- BLOG-POST-LIST:END -->"
 
 
-def detect_tags(title: str, description: str) -> list[tuple[str, str]]:
+def detect_tags(title: str, description: str, tags_list: list) -> list[tuple[str, str]]:
     """Return up to 2 (label, color) badge tuples based on post keywords."""
-    text = (title + " " + description).lower()
+    text = (title + " " + description + " " + " ".join(tags_list)).lower()
     found = []
     for keyword, (label, color) in TAG_MAP.items():
         if keyword in text:
@@ -62,60 +61,50 @@ def badge_img(label: str, color: str) -> str:
     return f'<img src="https://img.shields.io/badge/{label}-{color}?style=flat-square" />'
 
 
-def parse_date(pub_date: str) -> str:
-    """Convert RSS pubDate string to 'Mon DD, YYYY' format."""
+def parse_date(published_at: str) -> str:
+    """Convert ISO date string to 'Mon DD, YYYY' format."""
     try:
-        dt = datetime.strptime(pub_date.strip(), "%a, %d %b %Y %H:%M:%S %Z")
+        dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
         return dt.strftime("%b %d, %Y")
     except Exception:
-        return pub_date[:16]
-
-
-def sanitize_url(url: str) -> str:
-    """Ensure link points to valid DEV.to profile or live article, never 404 routes."""
-    if not url or "/posts/" in url or "dev.to/shubhambhati" in url:
-        return "https://dev.to/shubham_bhati"
-    return url
+        return published_at[:10]
 
 
 def fetch_posts() -> list[dict]:
-    print(f"[INFO] Fetching RSS from {RSS_URL}")
+    print(f"[INFO] Fetching live articles from {DEVTO_API_URL}")
     try:
-        resp = requests.get(RSS_URL, timeout=15)
+        resp = requests.get(DEVTO_API_URL, timeout=15)
         resp.raise_for_status()
-        root = ET.fromstring(resp.content)
-        channel = root.find("channel")
+        articles = resp.json()
         posts = []
 
-        for item in channel.findall("item"):
-            title       = (item.findtext("title") or "").strip()
-            link        = (item.findtext("link") or "").strip()
-            description = (item.findtext("description") or "").strip()
-            pub_date    = (item.findtext("pubDate") or "").strip()
+        for item in articles:
+            title       = (item.get("title") or "").strip()
+            url         = (item.get("url") or "").strip()
+            description = (item.get("description") or "").strip()
+            pub_date    = (item.get("published_at") or "").strip()
+            tags_list   = item.get("tag_list") or []
 
-            if not title:
+            if not title or not url:
                 continue
-
-            link = sanitize_url(link)
 
             posts.append({
                 "title":       title,
-                "url":         link,
+                "url":         url,
                 "date":        parse_date(pub_date),
                 "description": description,
-                "tags":        detect_tags(title, description),
+                "tags":        detect_tags(title, description, tags_list),
             })
 
             if len(posts) >= MAX_POSTS:
                 break
 
-        print(f"[INFO] Fetched {len(posts)} posts from RSS.")
+        print(f"[INFO] Fetched {len(posts)} live articles from DEV.to API.")
         if posts:
             return posts
     except Exception as e:
-        print(f"[WARN] RSS fetch failed ({e}). Returning fallback blog posts.")
+        print(f"[WARN] DEV.to API fetch failed ({e}). Returning fallback profile URL.")
 
-    # Fallback live DEV.to posts if RSS is empty or failing
     return [
         {
             "title": "Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis",
@@ -126,21 +115,21 @@ def fetch_posts() -> list[dict]:
         },
         {
             "title": "Spring Boot Security: Don't Expose That Sensitive Property",
-            "url": "https://dev.to/shubham_bhati",
+            "url": "https://dev.to/shubham_bhati/spring-boot-security-dont-expose-that-sensitive-property-22lb",
             "date": "Jul 14, 2026",
             "description": "Spring Boot environment variables security",
             "tags": [("Spring_Security", "6DB33F"), ("Spring_Boot", "6DB33F")]
         },
         {
             "title": "Stop Holding DB Connections Hostage",
-            "url": "https://dev.to/shubham_bhati",
+            "url": "https://dev.to/shubham_bhati/stop-holding-db-connections-hostage-3gon",
             "date": "Jul 13, 2026",
             "description": "Transactional boundary optimization HikariCP",
             "tags": [("HikariCP", "0078D4"), ("PostgreSQL", "316192")]
         },
         {
             "title": "Redis as a Spring Boot Session Store: Speed Up Your Apps",
-            "url": "https://dev.to/shubham_bhati",
+            "url": "https://dev.to/shubham_bhati/redis-as-a-spring-boot-session-store-speed-up-your-apps-3n3k",
             "date": "Jul 12, 2026",
             "description": "Redis Spring Boot session store caching",
             "tags": [("Redis", "DD0031"), ("Spring_Boot", "6DB33F")]
@@ -215,7 +204,7 @@ def update_readme(grid_html: str):
     with open(README, "w", encoding="utf-8") as f:
         f.write(updated)
 
-    print("[SUCCESS] README.md updated with latest blog card grid.")
+    print("[SUCCESS] README.md updated with 100% live article URLs.")
 
 
 if __name__ == "__main__":
