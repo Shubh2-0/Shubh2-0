@@ -146,43 +146,43 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Optimizing Spring Boot App Performance</a></h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" />
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" /><br/>
+      <sub>📅 Jul 16, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Using Spring Boot Defaults on Cheap ₹100 VMs</a></h4>
       <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
       <sub>📅 Jul 15, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Spring Boot Security: Don't Expose That Sensitive Property</a></h4>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 14, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Holding DB Connections Hostage</a></h4>
       <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
       <sub>📅 Jul 13, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Redis as a Spring Boot Session Store: Speed Up Your Apps</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 12, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Stop Letting HikariCP Kill Your Cheap VPS</a></h4>
       <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
-      <sub>📅 Jul 11, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubhambhati">Spring Boot Validation: Don't Reinvent the Wheel</a></h4>
-      <img src="https://img.shields.io/badge/Validation-238636?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 11, 2026</sub>
     </td>
   </tr>
