@@ -136,32 +136,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
 </p>
 
-<br>
-
-<p align="center">
-  🏆 &nbsp;<b><ins>GitHub Achievements</ins></b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Pair%20Extraordinaire/Pair%20Extraordinaire%20-%20BRONZE.png" width="90" alt="Pair Extraordinaire Bronze" title="Pair Extraordinaire (Bronze)" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Pull%20Shark/Pull%20Shark%20-%20BRONZE.png" width="90" alt="Pull Shark Bronze" title="Pull Shark (Bronze)" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Starstruck/Starstruck%20-%20DEFAULT.png" width="90" alt="Starstruck" title="Starstruck" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Galaxy%20Brain/Galaxy%20Brain%20-%20DEFAULT.png" width="90" alt="Galaxy Brain" title="Galaxy Brain" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/YOLO/YOLO%20-%20DEFAULT.png" width="90" alt="YOLO" title="YOLO" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Quickdraw/Quickdraw%20-%20DEFAULT.png" width="90" alt="Quickdraw" title="Quickdraw" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shubh2-0?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=7" alt="Shubh2-0 GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 <p>
