@@ -146,6 +146,20 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-5136">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Jul 19, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-28ci">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Jul 18, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-3ono">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
@@ -170,20 +184,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 12, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/stop-letting-hikaricp-kill-your-cheap-vps-fg2">Stop Letting HikariCP Kill Your Cheap VPS</a></h4>
-      <img src="https://img.shields.io/badge/HikariCP-0078D4?style=flat-square" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" /><br/>
-      <sub>📅 Jul 11, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/preventing-database-meltdowns-caching-strategies-that-actually-work-35i2">Preventing Database Meltdowns: Caching Strategies That Actually Work</a></h4>
-      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 11, 2026</sub>
     </td>
   </tr>
   <tr>
