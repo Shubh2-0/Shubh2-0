@@ -136,6 +136,18 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh2-0&theme=tokyonight&hide_border=true&border_radius=8" width="100%" style="max-width: 420px;" />
 </p>
 
+<br>
+
+<p align="center">
+  🏆 &nbsp;<b><ins>GitHub Achievements & Trophies</ins></b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shubh2-0?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shubh2-0&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=7" alt="Shubh2-0 GitHub Trophies" />
+  </a>
+</p>
+
 ---
 
 <p>
