@@ -146,6 +146,18 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-52ni">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
+      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
+      <sub>📅 Jul 21, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-4l04">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
+      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
+      <sub>📅 Jul 20, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-5136">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
@@ -170,20 +182,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 14, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/stop-holding-db-connections-hostage-3gon">Stop Holding DB Connections Hostage</a></h4>
-      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 13, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/redis-as-a-spring-boot-session-store-speed-up-your-apps-3n3k">Redis as a Spring Boot Session Store: Speed Up Your Apps</a></h4>
-      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 12, 2026</sub>
     </td>
   </tr>
   <tr>
