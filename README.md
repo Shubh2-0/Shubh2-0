@@ -146,39 +146,40 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/service-discovery-with-eureka-and-spring-cloud-a-hands-on-tutorial-54gn">Service Discovery with Eureka and Spring Cloud: A Hands-On Tutorial</a></h4>
+      <img src="https://img.shields.io/badge/Microservices-8957E5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Jul 28, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/service-discovery-with-eureka-and-spring-cloud-a-hands-on-tutorial-3d39">Service Discovery with Eureka and Spring Cloud: A Hands-On Tutorial</a></h4>
+      <img src="https://img.shields.io/badge/Microservices-8957E5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Jul 27, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-10o5">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
+      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
+      <sub>📅 Jul 26, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-439m">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
       <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
       <sub>📅 Jul 25, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-2dk2">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
       <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
       <sub>📅 Jul 24, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-kcc">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
       <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
       <sub>📅 Jul 23, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-52ni">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
-      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
-      <sub>📅 Jul 21, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/mysql-transactions-and-isolation-levels-a-backend-engineers-guide-4l04">MySQL Transactions and Isolation Levels: A Backend Engineer's Guide</a></h4>
-      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" /><br/>
-      <sub>📅 Jul 20, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-5136">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
-      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 19, 2026</sub>
     </td>
   </tr>
   <tr>
