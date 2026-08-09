@@ -146,40 +146,38 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-gla">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Aug 08, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-5c4p">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Aug 07, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-2jb9">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Aug 06, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-4i4b">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 05, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-22p9">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 04, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-ig8">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 03, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-45j2">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Aug 03, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/service-discovery-with-eureka-and-spring-cloud-a-hands-on-tutorial-1pja">Service Discovery with Eureka and Spring Cloud: A Hands-On Tutorial</a></h4>
-      <img src="https://img.shields.io/badge/Microservices-8957E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Aug 02, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/service-discovery-with-eureka-and-spring-cloud-a-hands-on-tutorial-5h9h">Service Discovery with Eureka and Spring Cloud: A Hands-On Tutorial</a></h4>
-      <img src="https://img.shields.io/badge/Microservices-8957E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Aug 01, 2026</sub>
     </td>
   </tr>
   <tr>
