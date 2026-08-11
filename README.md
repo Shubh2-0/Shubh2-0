@@ -146,6 +146,19 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/api-documentation-with-openapi-3-and-swagger-in-spring-boot-3559">API Documentation with OpenAPI 3 and Swagger in Spring Boot</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 10, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-29pn">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
+      <sub>📅 Aug 09, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-gla">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 08, 2026</sub>
@@ -166,18 +179,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-4i4b">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 05, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-22p9">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Aug 04, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/asynchronous-programming-in-spring-boot-with-completablefuture-ig8">Asynchronous Programming in Spring Boot with CompletableFuture</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Aug 03, 2026</sub>
     </td>
   </tr>
   <tr>
