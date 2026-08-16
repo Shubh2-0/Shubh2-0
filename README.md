@@ -167,10 +167,10 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <sub>📅 Jul 14, 2026</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/stop-holding-db-connections-hostage-3gon">Stop Holding DB Connections Hostage</a></h4>
-      <img src="https://img.shields.io/badge/Transactions-E16C34?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 13, 2026</sub>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/api-documentation-with-openapi-3-and-swagger-in-spring-boot-13h3">API Documentation with OpenAPI 3 and Swagger in Spring Boot</a></h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 11, 2026</sub>
     </td>
   </tr>
 </table>
