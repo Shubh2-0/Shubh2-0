@@ -146,6 +146,18 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-5dbp">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 19, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-402g">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 18, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-2cco">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
       <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
       <sub>📅 Aug 17, 2026</sub>
@@ -169,20 +181,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
       <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
       <sub>📅 Aug 15, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/api-documentation-with-openapi-3-and-swagger-in-spring-boot-3be1">API Documentation with OpenAPI 3 and Swagger in Spring Boot</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
-      <sub>📅 Aug 14, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/api-documentation-with-openapi-3-and-swagger-in-spring-boot-1mn2">API Documentation with OpenAPI 3 and Swagger in Spring Boot</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
-      <sub>📅 Aug 13, 2026</sub>
     </td>
   </tr>
   <tr>
