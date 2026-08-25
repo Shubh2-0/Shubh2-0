@@ -161,17 +161,36 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-5136">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
-      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 19, 2026</sub>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-453l">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 21, 2026</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/spring-boot-security-dont-expose-that-sensitive-property-22lb">Spring Boot Security: Sensitive Property Guidelines</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
-      <sub>📅 Jul 14, 2026</sub>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-oah">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 20, 2026</sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-402g">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 18, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-2cco">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
+      <sub>📅 Aug 17, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <a href="https://dev.to/shubham_bhati">
+        <img src="https://img.shields.io/badge/%E2%86%92%20Read%20All%20Posts-4FC3F7?style=for-the-badge&logo=readthedocs&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 <!-- BLOG-POST-LIST:END -->
