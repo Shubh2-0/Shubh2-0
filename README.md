@@ -197,15 +197,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 
 <br>
 
-<p>
-  ⚡ &nbsp;<b><ins>Recent Open-Source Contributions</ins></b>
-</p>
-
-- 🏆 **[DavidHLP/ResiCache#7](https://github.com/DavidHLP/ResiCache/pull/7)** — **[MERGED INTO MAIN]** Added `resicache-bench` JMH benchmark module for SyncLock, BloomFilter & TtlJitter.
-- 🚀 **[johanhaleby/occurrent#801](https://github.com/johanhaleby/occurrent/pull/801)** — Added `CompetingConsumerThroughputBenchmark` harness for event-driven competing consumers.
-- ⚡ **[rajadilipkolli/spring-boot-microservices-series-v2#1613](https://github.com/rajadilipkolli/spring-boot-microservices-series-v2/pull/1613)** — Microservices series architecture refactoring & clean code optimizations.
-- 📝 **[spring-projects/spring-framework#37151](https://github.com/spring-projects/spring-framework/issues/37151#issuecomment-5408852836)** — Spring Framework Core JSON client connection loss exception handling.
-
 ---
 
 <p>
