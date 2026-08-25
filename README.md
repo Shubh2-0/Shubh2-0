@@ -146,31 +146,31 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/event-driven-microservices-with-apache-kafka-redis-caching-and-transactional-outbox-pattern-13a7">Event-Driven Microservices: Kafka + Redis Outbox</a></h4>
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/scaling-event-driven-microservices-kafka-lag-redis-idempotency-and-transactional-outbox-2eb6">Scaling Event-Driven Microservices: Kafka + Outbox</a></h4>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka" />
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot" /><br/>
+      <sub>📅 Aug 25, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/event-driven-microservices-with-apache-kafka-redis-caching-and-transactional-outbox-pattern-13a7">Event-Driven Microservices with Apache Kafka & Redis</a></h4>
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Aug 16, 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-5136">Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 19, 2026</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/spring-boot-security-dont-expose-that-sensitive-property-22lb">Spring Boot Security: Sensitive Property Guidelines</a></h4>
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" /><br/>
       <sub>📅 Jul 14, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/api-documentation-with-openapi-3-and-swagger-in-spring-boot-13h3">API Documentation with OpenAPI 3 and Swagger in Spring Boot</a></h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square" />
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
-      <sub>📅 Aug 11, 2026</sub>
     </td>
   </tr>
 </table>
@@ -182,9 +182,10 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
   ⚡ &nbsp;<b><ins>Recent Open-Source Contributions</ins></b>
 </p>
 
+- 🏆 **[DavidHLP/ResiCache#7](https://github.com/DavidHLP/ResiCache/pull/7)** — **[MERGED INTO MAIN]** Added `resicache-bench` JMH benchmark module for SyncLock, BloomFilter & TtlJitter.
 - 🚀 **[johanhaleby/occurrent#801](https://github.com/johanhaleby/occurrent/pull/801)** — Added `CompetingConsumerThroughputBenchmark` harness for event-driven competing consumers.
 - ⚡ **[rajadilipkolli/spring-boot-microservices-series-v2#1613](https://github.com/rajadilipkolli/spring-boot-microservices-series-v2/pull/1613)** — Microservices series architecture refactoring & clean code optimizations.
-- 📝 **[rajadilipkolli/my-spring-boot-experiments#2598](https://github.com/rajadilipkolli/my-spring-boot-experiments/issues/2598#issuecomment-5258469986)** — Principal Architect Module-by-Module Code Review Report.
+- 📝 **[spring-projects/spring-framework#37151](https://github.com/spring-projects/spring-framework/issues/37151#issuecomment-5408852836)** — Spring Framework Core JSON client connection loss exception handling.
 
 ---
 
