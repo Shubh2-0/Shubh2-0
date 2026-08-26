@@ -52,10 +52,10 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 
 <blockquote>
   <ul>
-    <li>🚀 <b>Event Streaming:</b> Engineered and optimized <b>Apache Kafka</b> async pipelines; successfully resolved production-level consumer lag issues by tuning thread and polling concurrency.</li>
-    <li>⚡ <b>Latency Caching:</b> Designed <b>Redis cache handlers</b> and read-through caching engine structures for SOR checks to minimize primary DB load.</li>
-    <li>🛡️ <b>Resource Isolation:</b> Configured a separate, dedicated database routing architecture (<b>Multi-Datasource Config</b>) to isolate heavy reporting exports from core transaction pools.</li>
-    <li>🏗️ <b>Transaction Routing:</b> Designed a polymorphic transaction handler routing system supporting <b>20+ payment handler types</b> (ATM, Refund, PosReversal).</li>
+    <li>🏗️ <b>Microservices Architecture:</b> Founded 3 core production microservices ground-up (<code>onboarding-service</code>, <code>payment-service</code>, <code>notification-service</code>) authoring <b>148 production commits</b> across 5 repositories in 12 weeks.</li>
+    <li>🚀 <b>M2P UPI &amp; Wallet Ledger:</b> Engineered M2P UPI registration, double-entry wallet balance ledger, hold-then-settle float protection, and pessimistic row locking on card kit allocations.</li>
+    <li>🛡️ <b>PII Encryption &amp; Security:</b> Architected Aadhaar/PAN/VCIP KYC security pipelines using <b>AES-256-GCM encryption</b>, HMAC-SHA256 blind indexing, and custom SSRF webhook guards.</li>
+    <li>⚡ <b>Kafka Consumer Lag Tuning:</b> Solved 3 rounds of production consumer lag by scaling Kafka listener concurrency (50/150/50000 thread pools) and connection pools (1000/200).</li>
   </ul>
 </blockquote>
 
