@@ -52,10 +52,10 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 
 <blockquote>
   <ul>
-    <li>🏗️ <b>Microservices Architecture:</b> Founded 3 core production microservices ground-up (<code>onboarding-service</code>, <code>payment-service</code>, <code>notification-service</code>) authoring <b>148 production commits</b> across 5 repositories in 12 weeks.</li>
-    <li>🚀 <b>M2P UPI &amp; Wallet Ledger:</b> Engineered M2P UPI registration, double-entry wallet balance ledger, hold-then-settle float protection, and pessimistic row locking on card kit allocations.</li>
-    <li>🛡️ <b>PII Encryption &amp; Security:</b> Architected Aadhaar/PAN/VCIP KYC security pipelines using <b>AES-256-GCM encryption</b>, HMAC-SHA256 blind indexing, and custom SSRF webhook guards.</li>
-    <li>⚡ <b>Kafka Consumer Lag Tuning:</b> Solved 3 rounds of production consumer lag by scaling Kafka listener concurrency (50/150/50000 thread pools) and connection pools (1000/200).</li>
+    <li>🏗️ <b>Microservices Architecture:</b> Built and owned 3 core production microservices (<code>onboarding-service</code>, <code>payment-service</code> and <code>notification-service</code>) supporting user onboarding, payment processing and notifications.</li>
+    <li>🚀 <b>M2P UPI &amp; Wallet Ledger:</b> Engineered M2P UPI registration, double-entry wallet balance ledger, hold-then-settle float protection and pessimistic row locking on debit card kit allocations.</li>
+    <li>🛡️ <b>PII Encryption &amp; Security:</b> Architected Aadhaar, PAN and VCIP KYC security pipelines using <b>AES-256-GCM encryption</b>, HMAC-SHA256 blind indexing and custom SSRF webhook guards.</li>
+    <li>⚡ <b>Kafka Consumer Lag Tuning:</b> Optimized Kafka consumer concurrency, listener configuration and database connection pools to resolve production consumer lag and reduce API latency by 35%.</li>
   </ul>
 </blockquote>
 
