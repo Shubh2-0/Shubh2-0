@@ -34,7 +34,7 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
     <li>🔧 <b>Distributed Microservices:</b> Building scalable event-driven architectures utilizing Apache Kafka.</li>
     <li>⚡ <b>Performance Optimization:</b> Optimizing API latency and caching layers with Redis.</li>
     <li>🤖 <b>AI Integration:</b> Integrating OpenAI and Gemini APIs for backend automation pipelines.</li>
-    <li>🚀 <b>Robust Delivery:</b> Architecting low-latency transactional platforms and secure REST APIs.</li>
+    <li>🚀 <b>High-Availability Delivery:</b> Architecting low-latency transactional platforms and secure REST APIs.</li>
   </ul>
 </blockquote>
 
