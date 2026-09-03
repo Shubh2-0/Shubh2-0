@@ -147,6 +147,20 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/preventing-cache-penetration-in-spring-boot-using-redis-and-bloom-filters-2ccj">Preventing Cache Penetration in Spring Boot Using Redis and Bloom Filters</a></h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square" />
+      <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" /><br/>
+      <sub>📅 Sep 02, 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/scaling-kafka-consumers-in-spring-boot-how-we-cut-lag-and-saved-latency-2caf">Scaling Kafka Consumers in Spring Boot: How We Cut Lag and Saved Latency</a></h4>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square" />
+      <img src="https://img.shields.io/badge/Microservices-8957E5?style=flat-square" /><br/>
+      <sub>📅 Sep 01, 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/scaling-event-driven-microservices-kafka-lag-redis-idempotency-and-transactional-outbox-2eb6">Scaling Event-Driven Microservices: Kafka Lag, Redis Idempotency and Transactional Outbox</a></h4>
       <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square" />
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square" /><br/>
@@ -168,18 +182,6 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
       <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-392i">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
       <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
       <sub>📅 Aug 22, 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-453l">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
-      <sub>📅 Aug 21, 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔷 &nbsp;<a href="https://dev.to/shubham_bhati/java-stream-api-cheatsheet-20-patterns-every-backend-dev-must-know-oah">Java Stream API Cheatsheet: 20 Patterns Every Backend Dev Must Know</a></h4>
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square" /><br/>
-      <sub>📅 Aug 20, 2026</sub>
     </td>
   </tr>
   <tr>
