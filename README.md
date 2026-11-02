@@ -48,7 +48,7 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 
 <p>
   🔷 <b>MobilePe — Java Spring Boot Developer</b><br>
-  <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Indore, Madhya Pradesh, India</sub>
+  <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Noida, India</sub>
 </p>
 
 <blockquote>
@@ -218,7 +218,7 @@ Reach out to discuss backend scalability, event-driven payment flows, database p
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br><br>
   <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Indore,%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />
   <br><br>
   <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2--0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
