@@ -48,15 +48,16 @@ My name is Shubham Bhati and I am a Java Backend Engineer specializing in Spring
 
 <p>
   🔷 <b>MobilePe — Java Spring Boot Developer</b><br>
-  <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Noida, India</sub>
+  <sub>Fintech &amp; Payment Systems • Jun 2026 - Present • Indore, Madhya Pradesh, India</sub>
 </p>
 
 <blockquote>
   <ul>
-    <li>🏗️ <b>Microservices Architecture:</b> Built and owned 3 core production microservices (<code>onboarding-service</code>, <code>payment-service</code> and <code>notification-service</code>) supporting user onboarding, payment processing and notifications.</li>
-    <li>🚀 <b>M2P UPI &amp; Wallet Ledger:</b> Engineered M2P UPI registration, double-entry wallet balance ledger, hold-then-settle float protection and pessimistic row locking on debit card kit allocations.</li>
-    <li>🛡️ <b>PII Encryption &amp; Security:</b> Architected Aadhaar, PAN and VCIP KYC security pipelines using <b>AES-256-GCM encryption</b>, HMAC-SHA256 blind indexing and custom SSRF webhook guards.</li>
-    <li>⚡ <b>Kafka Consumer Lag Tuning:</b> Optimized Kafka consumer concurrency, listener configuration and database connection pools to resolve production consumer lag and reduce API latency by 35%.</li>
+    <li>⚡ <b>Kafka Lag &amp; Latency:</b> Cut payment API latency by <b>35%</b> by offloading synchronous database writes from the Kafka listener thread, tuning consumer concurrency and connection pools to eliminate production backlogs.</li>
+    <li>🏗️ <b>Microservices Architecture:</b> Architected and delivered 3 core production microservices (<code>onboarding-service</code>, <code>payment-service</code> and <code>notification-service</code>) alongside the legacy monolith with backward-compatible endpoints.</li>
+    <li>💳 <b>Multi-Wallet Balance Migration:</b> Led migration of user records and multi-wallet balances (General, Food and NCMC) into the microservices architecture using chunked batch writes and checksum audits with <b>zero balance desync</b>.</li>
+    <li>🚀 <b>UPI PPI &amp; Wallet Ledger:</b> Engineered Mobileware UPI PPI and M2P integrations with custom RSA crypto signing, 5 webhook callbacks, idempotency keys, database locking and a double-entry ledger with hold-then-settle processing.</li>
+    <li>🛡️ <b>KYC Pipelines &amp; Security:</b> Built KYC verification pipelines (Aadhaar, PAN and Syntizen VKYC webhooks) using AES-256-GCM encryption and HMAC-SHA256 blind indexing for fast querying without exposing raw PII.</li>
   </ul>
 </blockquote>
 
@@ -217,7 +218,7 @@ Reach out to discuss backend scalability, event-driven payment flows, database p
   <a href="mailto:shubhambhati226@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhambhati226-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br><br>
   <a href="https://shubhambhati.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Noida%20(NCR),%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Indore,%20India-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />
   <br><br>
   <a href="https://wa.me/916232133187" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2b91%206232133187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Shubh2-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shubh2--0-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
